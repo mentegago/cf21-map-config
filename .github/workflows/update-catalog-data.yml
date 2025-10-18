@@ -1,9 +1,9 @@
 name: Update Catalog Data
 
 on:
-  # Run on schedule (daily at 6 AM WIB)
+  # Run on schedule (at GMT+7 [WIB] 6AM, 12PM, 6PM, 12AM)
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '0 23,5,11,17 * * *'
 
   workflow_dispatch:
 
