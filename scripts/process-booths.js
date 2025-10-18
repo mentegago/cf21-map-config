@@ -147,7 +147,7 @@ function extractUrls(circle) {
         
         // Fix common URL issues
         // Fix missing protocol
-        if (!cleanUrl.startsWith('http://') && !cleanUrl.startsWith('https://')) {
+        if (!cleanUrl.toLowerCase().startsWith('http://') && !cleanUrl.toLowerCase().startsWith('https://')) {
             // Check if it looks like a URL
             if (cleanUrl.includes('.') && (cleanUrl.includes('www.') || cleanUrl.includes('.com') || cleanUrl.includes('.net') || cleanUrl.includes('.org'))) {
                 cleanUrl = 'https://' + cleanUrl;
