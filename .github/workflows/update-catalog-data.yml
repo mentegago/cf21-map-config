@@ -1,0 +1,87 @@
+name: Update Catalog Data
+
+on:
+  # Run on schedule (daily at 6 AM WIB)
+  schedule:
+    - cron: '0 23 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: npm ci
+    
+    - name: Fetch latest catalog data
+      run: npm run fetch
+      continue-on-error: true
+    
+    - name: Process catalog data
+      run: npm run process
+      continue-on-error: true
+    
+    - name: Check for changes
+      id: check-changes
+      run: |
+        if git diff --quiet data/creator-data.json version.json; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Changes detected"
+        fi
+    
+    - name: Commit and push changes
+      if: steps.check-changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add changed files
+        git add data/creator-data.json version.json
+        
+        # Get version info for commit message
+        VERSION=$(node -p "require('./version.json').creator_data_version")
+        TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+        
+        git commit -m "🔄 Update catalog data (v${VERSION}) - ${TIMESTAMP}"
+        git push
+    
+    - name: Create summary
+      if: always()
+      run: |
+        echo "## 📊 Catalog Data Update Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "version.json" ]; then
+          VERSION=$(node -p "require('./version.json').creator_data_version")
+          echo "**Current Version:** ${VERSION}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ -f "data/creator-data.json" ]; then
+          CREATOR_COUNT=$(node -p "require('./data/creator-data.json').creators.length")
+          echo "**Creator Count:** ${CREATOR_COUNT}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ "${{ steps.check-changes.outputs.changed }}" == "true" ]; then
+          echo "**Status:** ✅ Data updated successfully" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "**Status:** ℹ️ No changes detected" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Last Run:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> $GITHUB_STEP_SUMMARY

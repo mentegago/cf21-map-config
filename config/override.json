@@ -1,0 +1,32 @@
+{
+  "creators": [
+    {
+      "id": 5450,
+      "profileImage": "assets/neginotomodachi.jpg",
+      "informations": [
+        {
+          "title": "Info",
+          "content": "Negi no Tomodachi merch is here and very limited only for CF! Stay tuned✨. Also, come visit our booth for a chance to experience 3D avatar tracking!"
+        },
+        {
+          "title": "About",
+          "content": "Negi no Tomodachi merupakan grup 3D Virtual Streamer yang aktif membuat konten seperti Virtual Reality, 3D Avatar, serta cover lagu."
+        },
+        {
+          "title": "Members",
+          "content": "ngeQ, tapiocaalice, Mentega Goreng, Maguroo, Cepp, dan Amika Rei."
+        }
+      ],
+      "urls": [
+        {
+          "title": "Merch Catalog",
+          "url": "http://s.nnt.gg/cf21-catalog"
+        },
+        {
+          "title": "Website",
+          "url": "https://nnt.gg"
+        }
+      ]
+    }
+  ]
+}

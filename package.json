@@ -1,0 +1,23 @@
+{
+  "name": "cf21-map-config",
+  "version": "1.0.0",
+  "description": "Comifuro 21 map configuration data processor",
+  "main": "scripts/fetch-catalog-data.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-catalog-data.js",
+    "process": "node scripts/process-booths.js",
+    "update": "npm run fetch && npm run process",
+    "start": "npm run update"
+  },
+  "keywords": [
+    "comifuro",
+    "catalog",
+    "data-processing",
+    "map-config"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
