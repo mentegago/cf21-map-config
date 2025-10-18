@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "creators": [
     {
       "id": 5415,
@@ -1780,7 +1780,7 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://Https://instagram.com/_asobi"
+          "url": "Https://instagram.com/_asobi"
         }
       ],
       "works_type": [
@@ -2385,7 +2385,7 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://Https://instagram.com/leendoodles"
+          "url": "Https://instagram.com/leendoodles"
         }
       ],
       "fandoms": [
@@ -6625,13 +6625,12 @@
       "urls": [
         {
           "title": "Twitter",
-          "url": "https://x.com/pandomains"
+          "url": "https://x.com/Stellardisposal"
         }
       ],
       "fandoms": [
         "Genshin Impact",
-        "Dungeon Meshi",
-        "Love And Deepspace"
+        "Dungeon Meshi"
       ],
       "works_type": [
         "Goods"
@@ -8489,7 +8488,8 @@
       ],
       "works_type": [
         "Goods",
-        "Handmade Crafts"
+        "Handmade Crafts",
+        "Magazine"
       ]
     },
     {
@@ -16093,12 +16093,17 @@
         "Animanga",
         "Honkai: Star Rail",
         "Valorant",
-        "Evangelion",
-        "Blue Lock"
+        "Uma Musume",
+        "Genshin Impact",
+        "The Summer Hikaru Died",
+        "Blue Lock",
+        "Kimetsu No Yaiba"
       ],
       "works_type": [
+        "Commission",
         "Artbook",
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ]
     },
     {
@@ -16527,11 +16532,11 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://Https://instagram.com/wibu2_/"
+          "url": "Https://instagram.com/wibu2_/"
         },
         {
           "title": "Twitter",
-          "url": "https://Https://x.com/oganyaaan/"
+          "url": "Https://x.com/oganyaaan/"
         }
       ],
       "fandoms": [
@@ -21583,7 +21588,6 @@
         "Tekken"
       ],
       "works_type": [
-        "Comic",
         "Artbook",
         "Goods"
       ]
@@ -22388,10 +22392,10 @@
       ],
       "fandoms": [
         "Blue Archive",
+        "Uma Musume",
         "Hsr",
         "Zzz",
         "Wuthering Waves",
-        "Uma Musume",
         "Vtuber",
         "Hololive"
       ],
@@ -22413,11 +22417,11 @@
       "urls": [
         {
           "title": "Facebook",
-          "url": "https://Https://www.facebook.com/atelierkarrakon"
+          "url": "Https://www.facebook.com/atelierkarrakon"
         },
         {
           "title": "Instagram",
-          "url": "https://Https://www.instagram.com/atelierkarrakon"
+          "url": "Https://www.instagram.com/atelierkarrakon"
         },
         {
           "title": "Twitter",
@@ -25090,11 +25094,11 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://Https://instagram.com/_duckieology"
+          "url": "Https://instagram.com/_duckieology"
         },
         {
           "title": "Twitter",
-          "url": "https://Https://x.com/jeonghanology"
+          "url": "Https://x.com/jeonghanology"
         }
       ],
       "fandoms": [
@@ -26461,7 +26465,8 @@
         "Stellar Blade"
       ],
       "works_type": [
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ]
     },
     {
@@ -28937,11 +28942,11 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://Https://instagram.com/aosoora"
+          "url": "Https://instagram.com/aosoora"
         },
         {
           "title": "Twitter",
-          "url": "https://Https://twitter.com/aosora"
+          "url": "Https://twitter.com/aosora"
         }
       ],
       "fandoms": [
@@ -34908,6 +34913,7 @@
         "Original",
         "Boboiboy",
         "Dr. Stone",
+        "Fgo",
         "Link Click"
       ],
       "works_type": [
