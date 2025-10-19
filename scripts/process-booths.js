@@ -365,6 +365,19 @@ function extractFandoms(circle) {
     return [...new Set(fandoms)];
 }
 
+// Function to extract sampleworks images from circle data
+function extractSampleworksImages(circle) {
+    // Always return an array - empty if null/undefined/invalid
+    if (!circle.sampleworks_images || !Array.isArray(circle.sampleworks_images)) {
+        return [];
+    }
+    
+    // Filter out empty or invalid URLs
+    return circle.sampleworks_images
+        .filter(url => url && typeof url === 'string' && url.trim() !== '')
+        .map(url => url.trim());
+}
+
 // Function to process the initial state data
 function processInitialStateData(data) {
     const processedData = [];
@@ -381,6 +394,7 @@ function processInitialStateData(data) {
         const urls = extractUrls(circle);
         const fandoms = extractFandoms(circle);
         const worksTypes = extractWorksTypes(circle);
+        const sampleworksImages = extractSampleworksImages(circle);
         
         const processedCircle = {
             id: circle.id,
@@ -405,6 +419,9 @@ function processInitialStateData(data) {
             processedCircle.works_type = worksTypes;
         }
         
+        // Always add sampleworks_images array (empty if no images)
+        processedCircle.sampleworks_images = sampleworksImages;
+        
         processedData.push(processedCircle);
         
         // Log some examples for verification
@@ -416,7 +433,8 @@ function processInitialStateData(data) {
                 day: processedCircle.day,
                 urls: urls.length > 0 ? urls : 'none',
                 fandoms: fandoms.length > 0 ? fandoms : 'none',
-                works_type: worksTypes.length > 0 ? worksTypes : 'none'
+                works_type: worksTypes.length > 0 ? worksTypes : 'none',
+                sampleworks_images: sampleworksImages.length > 0 ? `${sampleworksImages.length} images` : 'empty array'
             });
         }
     }
@@ -452,6 +470,10 @@ function validateProcessedData(data) {
     const circlesWithWorksTypes = data.filter(circle => circle.works_type && circle.works_type.length > 0);
     console.log(`Circles with works types: ${circlesWithWorksTypes.length}`);
     
+    // Count circles with sampleworks images
+    const circlesWithSampleworksImages = data.filter(circle => circle.sampleworks_images && circle.sampleworks_images.length > 0);
+    console.log(`Circles with sampleworks images: ${circlesWithSampleworksImages.length}`);
+    
     // Count URL types
     const urlTypeCounts = {};
     circlesWithUrls.forEach(circle => {
@@ -484,14 +506,15 @@ function validateProcessedData(data) {
         .slice(0, 10);
     console.log('\nTop 10 most popular fandoms:', topFandoms);
     
-    // Show some examples with URLs, fandoms, and works types
-    console.log('\nExamples with URLs, fandoms, and works types:');
+    // Show some examples with URLs, fandoms, works types, and sampleworks images
+    console.log('\nExamples with URLs, fandoms, works types, and sampleworks images:');
     const examplesWithData = circlesWithWorksTypes.slice(0, 5).map(circle => ({
         name: circle.name,
         booths: circle.booths,
         urls: circle.urls || 'none',
         fandoms: circle.fandoms || 'none',
-        works_type: circle.works_type
+        works_type: circle.works_type,
+        sampleworks_images: circle.sampleworks_images.length > 0 ? `${circle.sampleworks_images.length} images` : 'empty array'
     }));
     console.log(JSON.stringify(examplesWithData, null, 2));
 }
@@ -654,5 +677,6 @@ if (require.main === module) {
 module.exports = {
     parseCircleCode,
     normalizeDay,
-    processInitialStateData
+    processInitialStateData,
+    extractSampleworksImages
 };
