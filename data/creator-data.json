@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "creators": [
     {
       "id": 5415,
@@ -2391,7 +2391,8 @@
       "fandoms": [
         "Original",
         "Kpop Demon Hunters",
-        "One Piece"
+        "One Piece",
+        "Chiikawa"
       ],
       "works_type": [
         "Goods"
@@ -2975,7 +2976,8 @@
       "works_type": [
         "Commission",
         "Artbook",
-        "Goods"
+        "Goods",
+        "Magazine"
       ]
     },
     {
@@ -3611,19 +3613,24 @@
           "url": "https://www.instagram.com/rist_storypict/"
         },
         {
+          "title": "Twitter",
+          "url": "https://x.com/ristation_id"
+        },
+        {
           "title": "Linktree",
           "url": "https://linktr.ee/kuromitsukitsune"
         }
       ],
       "fandoms": [
         "Hoyoverse (honkai Star Rail, Zenless Zone Zero, Genshin Impact)",
+        "Umamusume: Pretty Derby",
         "Blue Archive",
         "Arknights",
+        "Love And Deepspace",
+        "Gundam",
         "Jujutsu Kaisen",
         "Demon Slayer",
-        "Chainsaw Man",
-        "Gundam",
-        "Love And Deepspace"
+        "Chainsaw Man"
       ],
       "works_type": [
         "Artbook",
@@ -6579,8 +6586,14 @@
         "One Piece",
         "Ado",
         "Apothecary Diaries",
+        "Witch Watch",
         "Frieren",
-        "Dungeon Meshi"
+        "Dungeon Meshi",
+        "Dandadan",
+        "Chainsaw Man",
+        "Blue Period",
+        "Jigokuraku",
+        "Sxf"
       ],
       "works_type": [
         "Goods"
@@ -11274,6 +11287,10 @@
         {
           "title": "Instagram 2",
           "url": "https://instagram.com/get.onstitch"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/Getsu_guru?t=CYcINl00UMBJwnBnQ5pHrA&s=09"
         }
       ],
       "fandoms": [
@@ -17510,7 +17527,8 @@
       ],
       "fandoms": [
         "Anime (chainsaw Man, Frieren, One Piece)",
-        "Hoyoverse"
+        "Hoyoverse",
+        "Anime (chainsaw Man, Frieren, Dandadan, Etc...)"
       ],
       "works_type": [
         "Artbook",
@@ -21851,7 +21869,6 @@
       "user_id": "bd86f4e9-12ac-4b81-baaa-d1b1f1dcaa7d",
       "name": "Circle Penggambar (CP)",
       "booths": [
-        "H-57a",
         "H-57b"
       ],
       "day": "BOTH",
@@ -26462,7 +26479,8 @@
         "Honkai Star Rail",
         "Zenless Zone Zero",
         "Mononoke",
-        "Stellar Blade"
+        "Stellar Blade",
+        "Kimetsu No Yaiba (demon Slayer)"
       ],
       "works_type": [
         "Goods",
@@ -27814,11 +27832,17 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://www.instagram.com/viviannxa/"
+          "url": "https://www.instagram.com/Fr4nkensdine/"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/frankensdine/"
         }
       ],
       "fandoms": [
-        "Dc"
+        "Dc",
+        "Alien Stage",
+        "Forsaken"
       ],
       "works_type": [
         "Goods"
@@ -28336,23 +28360,35 @@
       ],
       "fandoms": [
         "Western Media",
-        "Disco Elysium",
-        "Date Everything",
-        "Gaming Youtuber Frouse Team & Markiplier",
-        "The Pedro-verse",
-        "Death Stranding 2",
-        "Stardew Valley",
-        "Mouthwashing",
-        "Outer Wilds",
-        "House Md",
-        "Classical Music",
-        "Hsr",
-        "Genshin Impact",
         "Babymetal",
-        "Psycho Pass",
+        "Boku No Hero Vigilante",
+        "Cats / Kucing",
+        "Classical Music",
+        "Cookie Run",
+        "Date Everything",
+        "Deadlock",
+        "Digital Circus",
+        "Disco Elysium",
+        "Eyeshield 21",
+        "Genshin Impact",
+        "Honkai Star Rail",
+        "House Md",
+        "Jujutsu Kaisen",
+        "Knight Of Guinevere",
+        "Kpop Demon Hunter",
+        "Marvel Rivals",
+        "Mcyt",
+        "Memes",
+        "Mouthwashing",
+        "Murder Drones",
+        "Outer Wilds",
+        "Roblox",
+        "Sonic",
         "Spy X Family",
-        "Boku No Hero/vigilante",
-        "Original (cats)"
+        "Stardew Valley",
+        "Team Fortress 2",
+        "The Boys",
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -30139,7 +30175,7 @@
         "V-tuber",
         "Vspo",
         "Hololive",
-        "Vwp"
+        "Kamitsubaki Studio"
       ],
       "works_type": [
         "Goods"
@@ -33548,6 +33584,7 @@
       ],
       "works_type": [
         "Comic",
+        "Artbook",
         "Goods",
         "Handmade Crafts"
       ]
@@ -39788,8 +39825,11 @@
         "Trigun",
         "Arknight",
         "Monster Hunter",
+        "Red Dead Redemption 2",
+        "Balatro",
         "Zenless Zone Zero",
         "Honkai Star Rail",
+        "Wuthering Waves",
         "Di Gi Charat Nyo",
         "Alien Stage",
         "Love And Deepspace"
