@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "creators": [
     {
       "id": 5415,
@@ -864,7 +864,8 @@
         "Vtuber (hololive/indie)",
         "Original",
         "Kasane Teto",
-        "Umamusume"
+        "Umamusume",
+        "Helldivers 2"
       ],
       "works_type": [
         "Comic",
@@ -1374,6 +1375,20 @@
         "AC-06"
       ],
       "day": "BOTH",
+      "urls": [
+        {
+          "title": "Facebook",
+          "url": "https://www.facebook.com/GabrielAbyssia"
+        },
+        {
+          "title": "Instagram",
+          "url": "https://www.instagram.com/gabrielabyssia/"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/gabrielabyssia"
+        }
+      ],
       "fandoms": [
         "Vtuber"
       ],
@@ -1933,7 +1948,6 @@
       ],
       "works_type": [
         "Comic",
-        "Artbook",
         "Goods",
         "Handmade Crafts"
       ]
@@ -3877,6 +3891,9 @@
       "fandoms": [
         "Alien Stage",
         "Haikyuu",
+        "Detective Conan",
+        "Love And Deepspace",
+        "Bungou Stray Dogs",
         "Honkai Star Rail",
         "Genshin Impact",
         "Kaiju 8",
@@ -3884,7 +3901,8 @@
         "Mashle",
         "Hololive",
         "Boku No Hero Academia",
-        "Orv"
+        "Orv",
+        "Original"
       ],
       "works_type": [
         "Goods",
@@ -10201,7 +10219,7 @@
       "fandoms": [
         "Cat",
         "Dandadan",
-        "Kimetsu No Yaiba"
+        "Kimetsu No Yaiba (kny)"
       ],
       "works_type": [
         "Commission",
@@ -12206,13 +12224,23 @@
         {
           "title": "Instagram",
           "url": "https://www.instagram.com/getuproduction"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/klaukezia"
+        },
+        {
+          "title": "Other",
+          "url": "https://x.com/caerilorem"
         }
       ],
       "fandoms": [
         "Original",
         "Reverse 1999",
+        "Love And Deepspace",
         "Zelda",
-        "Honkai Star Rail"
+        "Honkai Star Rail",
+        "Genshin Impact"
       ],
       "works_type": [
         "Artbook",
@@ -15190,28 +15218,8 @@
       "day": "SAT",
       "urls": [
         {
-          "title": "Instagram 1",
-          "url": "https://ttps://www.instagram.com/cwittea/"
-        },
-        {
-          "title": "Instagram 2",
-          "url": "http://Instagram.com/frivstudio"
-        },
-        {
-          "title": "Instagram 3",
-          "url": "https://www.instagram.com/mini.s7udio_/"
-        },
-        {
-          "title": "Instagram 4",
-          "url": "https://www.instagram.com/moodsy_co/"
-        },
-        {
-          "title": "Instagram 5",
-          "url": "https://www.instagram.com/twizzie__/"
-        },
-        {
-          "title": "Instagram 6",
-          "url": "https://www.instagram.com/untai.senar"
+          "title": "Instagram",
+          "url": "https://www.instagram.com/kioskiyowok/"
         },
         {
           "title": "Twitter",
@@ -15431,9 +15439,12 @@
       "fandoms": [
         "Original Cat",
         "Flower",
-        "Dnd"
+        "Dnd",
+        "Original",
+        "Baldur's Gate"
       ],
       "works_type": [
+        "Commission",
         "Goods"
       ]
     },
@@ -17736,7 +17747,7 @@
         },
         {
           "title": "Twitter",
-          "url": "https://x.com/floffie_"
+          "url": "https://x.com/deciidesu"
         }
       ],
       "fandoms": [
@@ -18531,7 +18542,8 @@
         "Black Butler",
         "Plave",
         "Phantom Busters",
-        "Wind Breaker"
+        "Wind Breaker",
+        "Tshd"
       ],
       "works_type": [
         "Commission",
@@ -19778,19 +19790,29 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://www.instagram.com/shotosomi?igsh=MWg3M3U3ZzZ3dTJ1bw=="
+          "url": "https://x.com/kiyoreii?s=21&t=NaZD5"
         },
         {
           "title": "Twitter",
           "url": "https://x.com/shotosomi?s=21&t=vuvOYmUNPXxhDqueSvPzug"
+        },
+        {
+          "title": "Other",
+          "url": "https://x.com/astrellachang?s=21&t=NaZD5"
         }
       ],
       "fandoms": [
         "Haikyuu",
         "One Piece",
-        "Blue Lock",
-        "Jujutsu Kaisen",
-        "Genshin Impact"
+        "Alien Stage",
+        "Blue Period",
+        "Mp100",
+        "Eve",
+        "Windbreaker",
+        "Sakamoto Days",
+        "Lads",
+        "Genshin Impact",
+        "Originals"
       ],
       "works_type": [
         "Comic",
@@ -21128,8 +21150,8 @@
         "Spy X Family",
         "Hsr/zzz",
         "Love Bullet",
-        "Nijien (btb)",
-        "Utauloid"
+        "Nijisanji En (btb)",
+        "Utauloid/utau"
       ],
       "works_type": [
         "Artbook",
@@ -22447,15 +22469,17 @@
       ],
       "fandoms": [
         "Blue Archive",
+        "Umamusume",
         "Hsr",
-        "Tears Of Themis",
         "Hololive",
-        "Yakuza",
+        "Yakuza/ryu Ga Gotoku",
         "Monster Hunter",
-        "Pokemon"
+        "Pokemon",
+        "Tears Of Themis",
+        "Apothecary Diaries",
+        "Original"
       ],
       "works_type": [
-        "Artbook",
         "Photobook Cosplay",
         "Goods"
       ]
@@ -23393,7 +23417,7 @@
       ],
       "fandoms": [
         "Final Fantasy 7",
-        "Final Fantasy Series",
+        "Final Fantasy",
         "Honkai Star Rail",
         "Kirby Series",
         "Self-vtuber"
@@ -23479,14 +23503,15 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://www.instagram.com/crownlessknight"
+          "url": "https://www.instagram.com/mothknightart"
         }
       ],
       "fandoms": [
         "Elden Ring",
         "Berserk",
-        "Call Of Duty",
-        "Roblox"
+        "Hollow Knight",
+        "Bloodborne",
+        "Dark Souls"
       ],
       "works_type": [
         "Commission",
@@ -26511,7 +26536,7 @@
         "Lobotomy Corporation",
         "Stranger Things",
         "Regretevator",
-        "D"
+        "Degrees Of Lewdity"
       ],
       "works_type": [
         "Goods"
@@ -26891,7 +26916,9 @@
         "Pgr",
         "Ooe",
         "Uuultrac",
-        "Marutoku Circle",
+        "No Salvation",
+        "Shtdn",
+        "Zeno",
         "Cell Of Empireo",
         "Saihate Station",
         "Touhou",
@@ -27557,6 +27584,10 @@
         {
           "title": "Facebook",
           "url": "https://www.facebook.com/profile.php?id=61568213373254"
+        },
+        {
+          "title": "Instagram",
+          "url": "https://www.instagram.com/cikadutproduction/"
         }
       ],
       "fandoms": [
@@ -27565,8 +27596,8 @@
         "Ggst & Tekken"
       ],
       "works_type": [
-        "Artbook",
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ]
     },
     {
@@ -28550,21 +28581,26 @@
         {
           "title": "Instagram",
           "url": "https://www.instagram.com/h1mal4yan?igsh=ZmFsZjYwdzRlbXR3"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/pixelatedtown?s=21"
         }
       ],
       "fandoms": [
         "Object Show",
-        "Regretevator",
-        "Block Tales",
-        "Pressure",
-        "Dandy’s World",
-        "Scp",
-        "Utaite",
-        "Vnovel Games",
-        "Mbti",
+        "Object Show Community (bfdi, Ii, Tnm, One) Regretevator",
+        "Block Tales Dandy’s World",
+        "Jim’s Computer",
+        "Phighting",
+        "Eve",
+        "Natori",
+        "Your Turn To Die (yttd)",
+        "Witch’s Heart",
+        "Omori",
         "Dr. Who",
         "Good Omens",
-        "Original."
+        "Dead Poets Society"
       ],
       "works_type": [
         "Goods"
@@ -28847,11 +28883,12 @@
       ],
       "fandoms": [
         "Transformers",
+        "Silksong",
         "My Little Pony"
       ],
       "works_type": [
-        "Goods",
-        "Handmade Crafts"
+        "Commission",
+        "Goods"
       ]
     },
     {
@@ -29534,22 +29571,29 @@
           "url": "https://instagram.com/99Minerva/"
         },
         {
+          "title": "Twitter",
+          "url": "https://x.com/Minerva994"
+        },
+        {
           "title": "Portfolio",
           "url": "https://brigitamf99.wixsite.com/my"
         }
       ],
       "fandoms": [
         "Nijisanji",
-        "Hunterxhunter",
-        "Persona",
+        "Original",
+        "Hunter X Hunter",
+        "Haikyu!!",
+        "Honkai: Star Rail",
+        "Jjk",
+        "Orv",
+        "Seme4 (nijisanji Jp)",
+        "Monster",
+        "Demon Slayer",
         "Death Note",
-        "Danganronpa",
-        "Jujutsu Kaisen",
-        "Haikyuu",
-        "Genshin"
+        "Danganronpa"
       ],
       "works_type": [
-        "Artbook",
         "Goods"
       ]
     },
@@ -30694,23 +30738,21 @@
         },
         {
           "title": "Twitter 2",
-          "url": "https://x.com/Kitsunemob_"
-        },
-        {
-          "title": "Twitter 3",
           "url": "https://x.com/fu_y2k"
         },
         {
-          "title": "Twitter 4",
-          "url": "https://x.com/Kosman121"
+          "title": "Other",
+          "url": "https://x.com/fu_y2k"
         }
       ],
       "fandoms": [
         "Holostars",
-        "Devil May Cry"
+        "Hololive",
+        "Hundred Line",
+        "Devil May Cry",
+        "Original"
       ],
       "works_type": [
-        "Artbook",
         "Goods"
       ]
     },
@@ -34032,8 +34074,20 @@
       "day": "SAT",
       "urls": [
         {
+          "title": "Facebook",
+          "url": "https://x.com/flanl4n?s=21&t=NaZD5"
+        },
+        {
+          "title": "Instagram",
+          "url": "https://www.instagram.com/cathelesis_03?igsh=MXFzenFqamRvZjEwbg=="
+        },
+        {
           "title": "Twitter",
           "url": "https://x.com/shotosomi?s=21&t=vuvOYmUNPXxhDqueSvPzug"
+        },
+        {
+          "title": "Other",
+          "url": "https://x.com/v1a_04?s=21&t=NaZD5"
         }
       ],
       "fandoms": [
@@ -34212,7 +34266,10 @@
         }
       ],
       "fandoms": [
-        "Hoyoverse Game"
+        "Hoyoverse Game",
+        "Vtuber",
+        "Kpop",
+        "Games"
       ],
       "works_type": [
         "Goods",
@@ -35008,10 +35065,24 @@
         }
       ],
       "fandoms": [
-        "Genshin Impact"
+        "Genshin Impact",
+        "Honkai Star Rail",
+        "Gachiakuta",
+        "Honkai Impact 3rd",
+        "Degress Of Lewdity",
+        "Mobile Legend Bang-bang",
+        "Inuyasha",
+        "Jojo Bizzare Adventure",
+        "Cardcaptor Sakura",
+        "Gintama",
+        "Omniscient Reader's Viewpoint",
+        "Urusei Yatsura",
+        "Blue Archive",
+        "Original"
       ],
       "works_type": [
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ]
     },
     {
@@ -37326,10 +37397,10 @@
         "Jujutsu Kaisen",
         "Demon Slayer",
         "Honkai Star Rail",
-        "Naruto",
-        "Haikyuu"
+        "Love And Deepspace"
       ],
       "works_type": [
+        "Artbook",
         "Goods"
       ]
     },
@@ -37649,10 +37720,15 @@
       ],
       "fandoms": [
         "Honkai Star Rail",
+        "Umamusume",
         "Genshin Impact",
         "Orv",
-        "Umamusume",
-        "Fgo"
+        "Fgo",
+        "Hsr",
+        "Alien Stage",
+        "Dcmk",
+        "Aot",
+        "Daiya No A"
       ],
       "works_type": [
         "Comic",
@@ -38486,6 +38562,8 @@
         "Genshin Impact",
         "Orv",
         "Lads",
+        "Alien Stage",
+        "Ghibli",
         "Original"
       ],
       "works_type": [
@@ -40960,6 +41038,7 @@
       ],
       "fandoms": [
         "Ensemble Stars!",
+        "Kpop Demon Hunters",
         "Honkai Impact 3",
         "Persona 3",
         "Metaphor: Refantazio",
@@ -41526,14 +41605,15 @@
         },
         {
           "title": "Twitter",
-          "url": "https://x.com/pekmi3rs"
+          "url": "https://x.com/pek0mi3rs"
         }
       ],
       "fandoms": [
         "Hypnosis Mic",
         "Spiderverse",
         "Skip And Loafer",
-        "Your Turn To Die"
+        "Your Turn To Die",
+        "Milgram"
       ],
       "works_type": [
         "Goods"
@@ -43134,7 +43214,11 @@
       ],
       "fandoms": [
         "Alien Stage",
-        "Originals"
+        "Originals",
+        "Seventeen",
+        "Milgram",
+        "Persona",
+        "Honkai Star Rail"
       ],
       "works_type": [
         "Goods"
