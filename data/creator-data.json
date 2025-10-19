@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "creators": [
     {
       "id": 5415,
@@ -5122,7 +5122,16 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": []
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f3cb0adb-bfb4-42b9-8b0b-e76ef564ced6/10db6fed-6bb5-41c4-9bcc-2ec492da7d72/AF-01/AF-02.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f3cb0adb-bfb4-42b9-8b0b-e76ef564ced6/4a8d333a-9f58-4111-90c2-3780a7a7c7b4/AF-01/AF-02.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f3cb0adb-bfb4-42b9-8b0b-e76ef564ced6/a43f459b-9b10-42d7-9897-4ba9d992d43f/AF-01/AF-02.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f3cb0adb-bfb4-42b9-8b0b-e76ef564ced6/3302e34d-8af4-472b-801f-3a27281cf87f/AF-01/AF-02.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f3cb0adb-bfb4-42b9-8b0b-e76ef564ced6/5677ad10-515a-4acb-85d4-a62c3a23a1b3/AF-01/AF-02.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f3cb0adb-bfb4-42b9-8b0b-e76ef564ced6/7bd85c2e-8604-413f-ac0b-bdeb493df89e/AF-01/AF-02.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f3cb0adb-bfb4-42b9-8b0b-e76ef564ced6/07d2f835-6c8e-4101-b8ed-8299dcb099d6/AF-01/AF-02.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f3cb0adb-bfb4-42b9-8b0b-e76ef564ced6/62ebe397-ae89-4abd-9f43-b0904729a7fa/AF-01/AF-02.jpg"
+      ]
     },
     {
       "id": 5582,
@@ -22344,22 +22353,30 @@
       "day": "BOTH",
       "urls": [
         {
+          "title": "Facebook",
+          "url": "https://www.facebook.com/aruvhie.eve9231/?locale=id_ID"
+        },
+        {
           "title": "Twitter",
           "url": "https://x.com/aruvhie32182"
         }
       ],
       "fandoms": [
         "Arknight",
-        "Wuthering Wave",
-        "Zenless Zone Zero",
-        "Blue Archive",
-        "Vtuber"
+        "Wuthering Waves",
+        "Mascot"
       ],
       "works_type": [
         "Comic",
+        "Artbook",
         "Goods"
       ],
-      "sampleworks_images": []
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/a515535c-4da5-4f0e-a049-75022c247554/H-41a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/5a193155-2d0b-4f07-bb68-7360bc3001a9/H-41a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/f3419f52-f3c1-48a8-915c-0bffb3c42b49/H-41a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/241d307a-60ff-4b3c-8979-a75981044f84/H-41a.png"
+      ]
     },
     {
       "id": 6096,
@@ -22712,8 +22729,7 @@
       ],
       "fandoms": [
         "Gakuen Idolmaster",
-        "Uma Musume",
-        "Love Live"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -24091,7 +24107,7 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://www.instagram.com/sarahmurisi/"
+          "url": "https://www.instagram.com/rgajezzs"
         },
         {
           "title": "Twitter",
@@ -24106,7 +24122,15 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": []
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/46827de9-de3f-4f41-986a-1566fc1281a7/dd674df9-f020-466d-b9b7-de162cf9b611/I-25a.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/46827de9-de3f-4f41-986a-1566fc1281a7/63dea6c6-c296-4929-b289-7d0fa4478fa8/I-25a.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/46827de9-de3f-4f41-986a-1566fc1281a7/4f4d93da-7041-43df-8454-a2d88304b256/I-25a.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/46827de9-de3f-4f41-986a-1566fc1281a7/55c76b95-ff67-42ba-b512-eed1ca6851d5/I-25a.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/46827de9-de3f-4f41-986a-1566fc1281a7/e549e7cd-725e-4049-935f-5abaeb9226f6/I-25a.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/46827de9-de3f-4f41-986a-1566fc1281a7/76ff14ff-def5-40f5-8e56-12f94755f20f/I-25a.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/46827de9-de3f-4f41-986a-1566fc1281a7/4c11f999-d606-4854-9074-ad74e551b2da/I-25a.jpeg"
+      ]
     },
     {
       "id": 6149,
@@ -31955,6 +31979,10 @@
       "day": "SUN",
       "urls": [
         {
+          "title": "Facebook",
+          "url": "https://www.facebook.com/share/1FvoSgyX2n/"
+        },
+        {
           "title": "Instagram",
           "url": "https://www.instagram.com/pppina.2?igsh=MTd5cWpnNXlxOThmaQ=="
         },
@@ -31966,8 +31994,10 @@
       "fandoms": [
         "Vtuber",
         "Genshin Impact",
-        "Alien Stage",
-        "Love And Deepspace"
+        "Zzz",
+        "Love And Deepspace",
+        "Uma Musume",
+        "Original"
       ],
       "works_type": [
         "Goods"
@@ -33060,10 +33090,11 @@
       ],
       "works_type": [
         "Comic",
+        "Novel",
         "Goods"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e527b408-7828-469a-9c81-7eb17f18da40/d3c71860-355c-4484-9dfb-c9d307babc66/M-01b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e527b408-7828-469a-9c81-7eb17f18da40/9d660224-9ac8-4ba0-9323-5a84dbd21bae/M-01b.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e527b408-7828-469a-9c81-7eb17f18da40/a51849d4-669d-4c0a-81f3-a6f06cbf2471/M-01b.png"
       ]
     },
