@@ -378,6 +378,24 @@ function extractSampleworksImages(circle) {
         .map(url => url.trim());
 }
 
+// Function to extract circle cut image URL from circle data
+function extractCircleCut(circle) {
+    if (!circle.circle_cut || typeof circle.circle_cut !== 'string' || circle.circle_cut.trim() === '') {
+        return null;
+    }
+    
+    return circle.circle_cut.trim();
+}
+
+// Function to extract circle code from circle data
+function extractCircleCode(circle) {
+    if (!circle.circle_code || typeof circle.circle_code !== 'string' || circle.circle_code.trim() === '') {
+        return null;
+    }
+    
+    return circle.circle_code.trim();
+}
+
 // Function to process the initial state data
 function processInitialStateData(data) {
     const processedData = [];
@@ -395,6 +413,8 @@ function processInitialStateData(data) {
         const fandoms = extractFandoms(circle);
         const worksTypes = extractWorksTypes(circle);
         const sampleworksImages = extractSampleworksImages(circle);
+        const circleCut = extractCircleCut(circle);
+        const circleCode = extractCircleCode(circle);
         
         const processedCircle = {
             id: circle.id,
@@ -422,19 +442,30 @@ function processInitialStateData(data) {
         // Always add sampleworks_images array (empty if no images)
         processedCircle.sampleworks_images = sampleworksImages;
         
+        // Add circle_cut if available
+        if (circleCut) {
+            processedCircle.circle_cut = circleCut;
+        }
+        
+        // Add circle_code if available
+        if (circleCode) {
+            processedCircle.circle_code = circleCode;
+        }
+        
         processedData.push(processedCircle);
         
         // Log some examples for verification
         if (processedData.length <= 10) {
             console.log(`Example ${processedData.length}:`, {
                 name: circle.name,
-                circle_code: circle.circle_code,
+                circle_code: circleCode || 'none',
                 booths: booths,
                 day: processedCircle.day,
                 urls: urls.length > 0 ? urls : 'none',
                 fandoms: fandoms.length > 0 ? fandoms : 'none',
                 works_type: worksTypes.length > 0 ? worksTypes : 'none',
-                sampleworks_images: sampleworksImages.length > 0 ? `${sampleworksImages.length} images` : 'empty array'
+                sampleworks_images: sampleworksImages.length > 0 ? `${sampleworksImages.length} images` : 'empty array',
+                circle_cut: circleCut ? 'present' : 'none'
             });
         }
     }
@@ -474,6 +505,14 @@ function validateProcessedData(data) {
     const circlesWithSampleworksImages = data.filter(circle => circle.sampleworks_images && circle.sampleworks_images.length > 0);
     console.log(`Circles with sampleworks images: ${circlesWithSampleworksImages.length}`);
     
+    // Count circles with circle_cut
+    const circlesWithCircleCut = data.filter(circle => circle.circle_cut);
+    console.log(`Circles with circle_cut: ${circlesWithCircleCut.length}`);
+    
+    // Count circles with circle_code
+    const circlesWithCircleCode = data.filter(circle => circle.circle_code);
+    console.log(`Circles with circle_code: ${circlesWithCircleCode.length}`);
+    
     // Count URL types
     const urlTypeCounts = {};
     circlesWithUrls.forEach(circle => {
@@ -506,15 +545,17 @@ function validateProcessedData(data) {
         .slice(0, 10);
     console.log('\nTop 10 most popular fandoms:', topFandoms);
     
-    // Show some examples with URLs, fandoms, works types, and sampleworks images
-    console.log('\nExamples with URLs, fandoms, works types, and sampleworks images:');
+    // Show some examples with URLs, fandoms, works types, sampleworks images, circle_cut, and circle_code
+    console.log('\nExamples with URLs, fandoms, works types, sampleworks images, circle_cut, and circle_code:');
     const examplesWithData = circlesWithWorksTypes.slice(0, 5).map(circle => ({
         name: circle.name,
         booths: circle.booths,
         urls: circle.urls || 'none',
         fandoms: circle.fandoms || 'none',
         works_type: circle.works_type,
-        sampleworks_images: circle.sampleworks_images.length > 0 ? `${circle.sampleworks_images.length} images` : 'empty array'
+        sampleworks_images: circle.sampleworks_images.length > 0 ? `${circle.sampleworks_images.length} images` : 'empty array',
+        circle_cut: circle.circle_cut ? 'present' : 'none',
+        circle_code: circle.circle_code || 'none'
     }));
     console.log(JSON.stringify(examplesWithData, null, 2));
 }
@@ -678,5 +719,7 @@ module.exports = {
     parseCircleCode,
     normalizeDay,
     processInitialStateData,
-    extractSampleworksImages
+    extractSampleworksImages,
+    extractCircleCut,
+    extractCircleCode
 };
