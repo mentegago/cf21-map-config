@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "creators": [
     {
       "id": 5415,
@@ -6601,11 +6601,16 @@
         {
           "title": "Twitter",
           "url": "https://x.com/ryukku_k"
+        },
+        {
+          "title": "TikTok",
+          "url": "https://www.tiktok.com/@ryukku_cos"
         }
       ],
       "fandoms": [
         "Umamusume Pretty Derby",
-        "The Idolm@ster"
+        "The Idolm@ster",
+        "Cosplay"
       ],
       "works_type": [
         "Photobook General",
@@ -29289,7 +29294,13 @@
         "Commission",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/913cbdf3-c804-4795-83ca-a65bf3711936/a087e33a-eaf5-40d8-92c0-028d33f35a20/J-38ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/913cbdf3-c804-4795-83ca-a65bf3711936/2fe36c1d-5947-41d8-98e2-62ad3718b5b1/J-38ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/913cbdf3-c804-4795-83ca-a65bf3711936/8ac2bca5-cf2e-41b9-a419-bdae8b7c56d2/J-38ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/913cbdf3-c804-4795-83ca-a65bf3711936/ac7ef0ad-dc2e-4f26-9e0b-06056b81a95c/J-38ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/913cbdf3-c804-4795-83ca-a65bf3711936/ea12cb0e-5abc-438a-a74b-61cde429991d/J-38ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/sop_kucing.jpg",
       "circle_code": "J-38ab"
     },
@@ -34318,19 +34329,34 @@
         {
           "title": "Twitter",
           "url": "https://x.com/made_by_A_to_Z"
+        },
+        {
+          "title": "Linktree",
+          "url": "https://linktr.ee/AtoZCircle"
         }
       ],
       "fandoms": [
         "Hololive",
-        "Nijisanji",
+        "Nijisanji En",
         "Vtuber",
-        "Hatsune Miku",
+        "Vocaloid",
         "Original"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/6cbb1b86-28fe-47fd-aa55-27b812f624d5/L-29a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/0fbe1f93-aba8-4288-90a6-0a1ddcd38ab2/L-29a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/1741f4b0-f612-4455-b7c8-f996787f4edd/L-29a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/c86c36de-08ed-4728-bf6e-5077b42ab0d9/L-29a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/6badab46-5175-4f5f-99e3-81ee88a8898b/L-29a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/088f5730-008d-44a0-b097-4e7add479a87/L-29a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/e076f968-20a1-400c-bc32-5c60ce92bd23/L-29a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/b6d37c52-960a-43b9-86e1-8c37712df41d/L-29a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/3366fc94-fa25-441a-a4cf-c61366ccbea3/L-29a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/07dc7184-f45b-4dd9-b594-9d11f9d32386/d3a1face-a9e8-46c6-a1f5-51e20dac21bb/L-29a.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/atoz.jpg",
       "circle_code": "L-29a"
     },
@@ -43548,14 +43574,7 @@
         "Love And Deepspace",
         "Hsr",
         "Genshin",
-        "Food",
-        "Little Nightmare",
-        "Persona 3",
-        "Kpop Demon Hunter",
-        "Orv",
-        "Gbf",
-        "Seventeen",
-        "H2h"
+        "Food"
       ],
       "works_type": [
         "Goods"
@@ -47131,7 +47150,11 @@
         "Handmade Crafts",
         "Magazine"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eff7c7a2-5b41-48c9-9845-10ec2a3bec50/f6b6f082-1aa3-4967-ae30-68a1a42e2af1/Q-47ab/Q-48ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eff7c7a2-5b41-48c9-9845-10ec2a3bec50/e7860208-ec83-4860-a1fe-7f8baf2ff966/Q-47ab/Q-48ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eff7c7a2-5b41-48c9-9845-10ec2a3bec50/e55eb17f-67c8-4771-b6b9-0160b1c8b45c/Q-47ab/Q-48ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/beer+namnams.jpg",
       "circle_code": "Q-47ab/Q-48ab"
     },
