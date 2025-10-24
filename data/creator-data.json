@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "creators": [
     {
       "id": 5415,
@@ -2540,10 +2540,28 @@
         {
           "title": "Instagram",
           "url": "https://www.instagram.com/aida.lab.uph/"
+        },
+        {
+          "title": "Other",
+          "url": "https://www.instagram.com/yorushi_66/"
         }
       ],
       "fandoms": [
-        "Original"
+        "Original",
+        "Virtual Reality",
+        "Umamusume",
+        "Chainsawman",
+        "Haikyu",
+        "Kamen Rider",
+        "Demon Slayer",
+        "Zenless Zone Zero",
+        "Okamiden. Bluey",
+        "Digital Circus",
+        "Ena",
+        "Fabulous Beast",
+        "Kpop Demon Hunter",
+        "Furry",
+        "Fish."
       ],
       "works_type": [
         "Game",
@@ -28428,7 +28446,16 @@
       "works_type": [
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e2fb1124-68ab-4895-ae88-cfa608602bec/32d77a59-8ab4-4802-b347-db5692f11d36/J-19ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e2fb1124-68ab-4895-ae88-cfa608602bec/76cb179b-9188-4fdc-82c5-492ebba604ae/J-19ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e2fb1124-68ab-4895-ae88-cfa608602bec/f2e1ecb4-805b-4e4a-a2c6-0b5a19270ff5/J-19ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e2fb1124-68ab-4895-ae88-cfa608602bec/221968ee-a4af-4e7c-96d3-cf6d3f5c8b61/J-19ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e2fb1124-68ab-4895-ae88-cfa608602bec/95aaa64d-98ce-4598-83db-8e6656607e17/J-19ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e2fb1124-68ab-4895-ae88-cfa608602bec/bb9aa93c-a24e-4c5b-a144-d53d42a39f14/J-19ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e2fb1124-68ab-4895-ae88-cfa608602bec/b713d38b-ae98-4555-a7f8-59ad618c1336/J-19ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e2fb1124-68ab-4895-ae88-cfa608602bec/913bc962-2ac4-45e6-b93f-167eaf0f18a6/J-19ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/lans_craft.jpg",
       "circle_code": "J-19ab"
     },
