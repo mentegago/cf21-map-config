@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "creators": [
     {
       "id": 5415,
@@ -29656,24 +29656,61 @@
         "J-42b"
       ],
       "day": "SUN",
+      "urls": [
+        {
+          "title": "Facebook",
+          "url": "https://www.instagram.com/ducc_1200/"
+        },
+        {
+          "title": "Instagram",
+          "url": "https://www.instagram.com/chamoi_ofc/"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://www.instagram.com/purrrfectafish/"
+        },
+        {
+          "title": "Other",
+          "url": "https://www.instagram.com/aikhlya_/"
+        }
+      ],
       "fandoms": [
         "8-'s Retro Anime/game Theme",
-        "Persona",
+        "Persona 4",
+        "Persona 5",
+        "Persona 3",
         "Pokemon",
         "Minky Momo",
         "Evangelion",
         "Detective Conan",
         "Ghibli",
+        "Vocaloid",
+        "Kasane Teto",
         "Hatsune Miku",
-        "Vtuber",
-        "Jjk",
-        "The Apothecary Diaries",
-        "Castlevania"
+        "Ado Singer",
+        "Toji Jjk",
+        "Castlevania",
+        "Apothecary Diaries",
+        "Flcl",
+        "Star Crochet",
+        "Cat",
+        "Kucing"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/916b6c66-35cb-435f-831a-f2ac67922104/J-42b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/9af19782-857d-451f-9c79-619a09f44bdd/J-42b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/876bf772-d3a9-4de9-93f5-a0b6faa6f61b/J-42b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/a52036e6-294b-4daa-be4c-98fbc2773a24/J-42b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/27931a99-70e1-4de1-8ce7-13bd029a683c/J-42b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/431a6aa9-215e-468b-91b6-cace4aa35947/J-42b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/78846edc-6e21-402f-91d7-7e1d888539a4/J-42b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/dd64932b-46b6-47d0-a3af-e2c5ed0611c0/J-42b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/c2422fb5-e04e-44f4-bdd7-09b830754c78/J-42b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ee7bb4a3-216e-4a3a-8c0d-c417b2e6cedc/4d2a54a2-1817-4650-aeec-23c646aceb5d/J-42b (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Runtao_Fams.jpg",
       "circle_code": "J-42b (SUN)"
     },
