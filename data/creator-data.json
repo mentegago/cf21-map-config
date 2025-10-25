@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "creators": [
     {
       "id": 5415,
@@ -7133,7 +7133,7 @@
         "Goods"
       ],
       "sampleworks_images": [],
-      "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/",
+      "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/takutnyo.jpg",
       "circle_code": "A-04a"
     },
     {
@@ -24336,7 +24336,8 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/a515535c-4da5-4f0e-a049-75022c247554/H-41a.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/5a193155-2d0b-4f07-bb68-7360bc3001a9/H-41a.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/f3419f52-f3c1-48a8-915c-0bffb3c42b49/H-41a.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/241d307a-60ff-4b3c-8979-a75981044f84/H-41a.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/846e4fbe-6c2a-4b6b-aa62-77f89ba50780/H-41a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e73a61e7-d12c-4735-97ae-e5127f8cc5f6/9f346770-a629-4f03-9bcd-e6f92f634055/H-41a.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/just_nothing.jpg",
       "circle_code": "H-41a"
@@ -36993,20 +36994,35 @@
       "fandoms": [
         "Deltarune",
         "Mouthwashing",
+        "Team Fortress 2",
         "Rpg Maker Horror Games",
         "Vocaloid",
-        "Persona 5",
         "Boyfriend To Death",
         "Squid Game",
         "Studio Investigrave",
-        "Oshi No Ko",
-        "Countryhumans"
+        "Silent Hill F",
+        "Countryhumans",
+        "Gorillaz",
+        "Ena: Dream Bbq",
+        "Clinical Trial",
+        "Chainsaw Man",
+        "Originals",
+        "Friday Night Funkin",
+        "Just Shapes & Beats",
+        "Chowder"
       ],
       "works_type": [
         "Comic",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5d73ffdb-ba4a-4174-8af7-1f81d4015b82/1aa89a90-f6cc-4141-b6e6-05b9a8639cd6/M-26ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5d73ffdb-ba4a-4174-8af7-1f81d4015b82/d56b58bc-e620-4838-8cb9-df57539b8277/M-26ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5d73ffdb-ba4a-4174-8af7-1f81d4015b82/531cba8d-27ae-497d-8775-5c5f21bc44b7/M-26ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5d73ffdb-ba4a-4174-8af7-1f81d4015b82/21c6220d-2cf3-4fb5-a3e4-d1ea64cee340/M-26ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5d73ffdb-ba4a-4174-8af7-1f81d4015b82/320751ed-5b51-443c-be78-765c3bd462f5/M-26ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5d73ffdb-ba4a-4174-8af7-1f81d4015b82/4acda803-e61e-4269-83b0-b44b15847f1d/M-26ab.jpeg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/photocapy.jpg",
       "circle_code": "M-26ab"
     },
