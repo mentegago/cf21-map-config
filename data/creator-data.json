@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "creators": [
     {
       "id": 5415,
@@ -26491,13 +26491,19 @@
       ],
       "fandoms": [
         "Kusuriya No Hitorigoto",
-        "Frieren"
+        "Frieren",
+        "Original"
       ],
       "works_type": [
         "Comic",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/60ebc92e-8627-4ede-8862-8ffd90c9f9c7/e4ce4a9a-f129-4248-95ce-7923b58e6acd/I-28b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/60ebc92e-8627-4ede-8862-8ffd90c9f9c7/d2f85e11-edf9-464b-890c-350a4419ef64/I-28b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/60ebc92e-8627-4ede-8862-8ffd90c9f9c7/512e1327-6ae2-4325-863b-3700d0fc1147/I-28b (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/60ebc92e-8627-4ede-8862-8ffd90c9f9c7/444dfd0e-9951-4eed-aefc-cea8a2122e4f/I-28b (SUN).jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/bliss.jpg",
       "circle_code": "I-28b (SUN)"
     },
@@ -49391,20 +49397,13 @@
         "Link Click",
         "Twisted Wonderland (twst)",
         "Princess Tutu",
-        "Mermaid Melody Pichi Pichi Pitch",
         "Honkai Star Rail (hsr)",
         "Hades (game)",
         "Land Of The Lustrous/houseki No Kuni (hnk)",
-        "Heartcatch Precure",
+        "Mononoke",
         "Panty And Stocking With Garterbelt (paswg)",
-        "Good Omens",
-        "Will Wood",
-        "Tally Hall/miracle Musical",
-        "Ena: Dream Bbq",
-        "Kpop Demon Hunters",
         "Love And Deepspace",
-        "Mouthwashing",
-        "Originals (ikan, Burung, Ocs)"
+        "Originals (ikan, Buaya, Ocs)"
       ],
       "works_type": [
         "Goods"
