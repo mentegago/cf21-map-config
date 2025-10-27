@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "creators": [
     {
       "id": 5415,
@@ -26466,19 +26466,41 @@
       "day": "BOTH",
       "urls": [
         {
+          "title": "Instagram",
+          "url": "https://instagram.com/sharkkiio"
+        },
+        {
           "title": "Twitter",
+          "url": "https://x.com/Ka_Ri611"
+        },
+        {
+          "title": "Other",
           "url": "https://x.com/SHARKKIIO"
         }
       ],
       "fandoms": [
         "Dungeon Meshi",
-        "Trigun Stampede",
-        "Fear And Hunger"
+        "Originals",
+        "Twenty One Pilots",
+        "Fear&hunger",
+        "My Hero Academia",
+        "Tshd",
+        "Dc",
+        "Sonic"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eca0608f-9102-4242-b705-bb3b9b3810b6/3ba2051c-7190-40f5-b60e-80001be8b484/I-26b.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eca0608f-9102-4242-b705-bb3b9b3810b6/492ff0ed-8c43-4c65-8136-ba9515f47a1b/I-26b.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eca0608f-9102-4242-b705-bb3b9b3810b6/f5e529a9-b761-4b7e-8761-f07653247874/I-26b.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eca0608f-9102-4242-b705-bb3b9b3810b6/5208738c-c827-4ce1-931e-e34e663d4c99/I-26b.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eca0608f-9102-4242-b705-bb3b9b3810b6/93be1e3a-b696-4d80-9810-3b2edac24396/I-26b.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eca0608f-9102-4242-b705-bb3b9b3810b6/01c0acb7-a13a-4a68-8388-fdadb67d2759/I-26b.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eca0608f-9102-4242-b705-bb3b9b3810b6/94128bab-df6a-46e7-8603-9b269f053ccc/I-26b.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/eca0608f-9102-4242-b705-bb3b9b3810b6/524dde7f-3335-4134-8f46-418c10782a5f/I-26b.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/kolam_rujak.jpg",
       "circle_code": "I-26b"
     },
@@ -26711,22 +26733,24 @@
         },
         {
           "title": "Other",
-          "url": "https://www.instagram.com/vandanatjendana"
+          "url": "https://bsky.app/profile/setheatran.bsky.social"
         }
       ],
       "fandoms": [
         "Ffxiv",
-        "Original",
-        "Animals",
-        "Children Illustration",
-        "Watercolour"
+        "Original Animals",
+        "Dota2"
       ],
       "works_type": [
         "Commission",
-        "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/588377e3-5227-42a3-bf6b-d9445fc18b7b/d32a5f4a-609a-4b37-a51c-4e62ccec6f8f/I-29b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/588377e3-5227-42a3-bf6b-d9445fc18b7b/6efef290-7e4a-49c5-bef1-d8f492e6963b/I-29b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/588377e3-5227-42a3-bf6b-d9445fc18b7b/fcc1fdf7-fe28-4dea-baba-6122c4659965/I-29b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/588377e3-5227-42a3-bf6b-d9445fc18b7b/16184c4b-963a-4d50-af3a-0ad2ff89bc52/I-29b.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/setheatran.jpg",
       "circle_code": "I-29b"
     },
