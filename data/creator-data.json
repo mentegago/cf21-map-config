@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "creators": [
     {
       "id": 5415,
@@ -171,6 +171,10 @@
       "day": "BOTH",
       "urls": [
         {
+          "title": "Facebook",
+          "url": "https://www.facebook.com/padepokankembangkelape/"
+        },
+        {
           "title": "Instagram",
           "url": "https://www.instagram.com/padepokankembangkelape/"
         }
@@ -181,7 +185,15 @@
       "works_type": [
         "Comic"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/7d7dfbdc-3248-413b-8e26-e2475280284d/bdd6f635-f1e7-4274-8a68-f6eab8465b23/AA-08.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/7d7dfbdc-3248-413b-8e26-e2475280284d/7e71b057-49df-4d73-bef7-8ea93336e88b/AA-08.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/7d7dfbdc-3248-413b-8e26-e2475280284d/92f83c2c-5711-4909-a773-fde8e40bb86a/AA-08.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/7d7dfbdc-3248-413b-8e26-e2475280284d/533cf99b-33f1-48a0-ab56-cfbd7a2a7be4/AA-08.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/7d7dfbdc-3248-413b-8e26-e2475280284d/a644802d-fc83-4653-b7b8-513e02dc2417/AA-08.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/7d7dfbdc-3248-413b-8e26-e2475280284d/5b926a06-47c5-4ec9-b913-74eee8226104/AA-08.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/7d7dfbdc-3248-413b-8e26-e2475280284d/2b60813e-5bf7-4301-a118-2244dc0b8b2a/AA-08.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/padepokan_kembang_kelape.jpg",
       "circle_code": "AA-08"
     },
