@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "creators": [
     {
       "id": 5415,
@@ -1648,7 +1648,12 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/80328636-afce-422f-b4e1-af13a5d479a7/ad7b5d71-fa20-4efc-8529-5b3d32c7c931/AC-05/AC-06.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/80328636-afce-422f-b4e1-af13a5d479a7/5dbac449-1ad4-4c1d-ae14-e97da55045e2/AC-05/AC-06.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/80328636-afce-422f-b4e1-af13a5d479a7/58ba67e4-e0c8-4736-935e-9c3dbd26fa28/AC-05/AC-06.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/80328636-afce-422f-b4e1-af13a5d479a7/e41a1d76-6e37-479e-8895-8c716b3f8ff9/AC-05/AC-06.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/pt._sobat_gula_arent.jpg",
       "circle_code": "AC-05/AC-06"
     },
@@ -2933,7 +2938,18 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/bfd97c65-8042-4a27-984d-56fc78d1efee/AD-07.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/ff9bac47-3731-4d94-9d56-9ee726ca99e7/AD-07.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/429abfee-c141-45b0-86e8-9fba2b2cffc3/AD-07.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/58aa4514-ac20-44a7-8a05-ce9a9b4d7095/AD-07.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/c8f77671-98a6-4e59-831f-37db4d61dd73/AD-07.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/e70af3e2-f1d2-4529-8709-e13907ca6992/AD-07.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/ee7f0a9a-e77a-4065-8aee-44b1f46f36d8/AD-07.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/50d7e4de-7229-4756-8ee5-e8657d5e9d8d/AD-07.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/203972c3-8eb3-4b43-9943-c5923eb8b72c/AD-07.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4c452444-749e-46c5-bf94-b73fd696c2d7/0271ebea-d812-472f-a163-fdabea0598dc/AD-07.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/punopals.jpg",
       "circle_code": "AD-07"
     },
@@ -4634,8 +4650,7 @@
       "user_id": "5f0a83a3-6334-4548-b1df-ef1c0ede25f0",
       "name": "LewdLilyyy",
       "booths": [
-        "AE-18",
-        "AE-19"
+        "AE-18"
       ],
       "day": "BOTH",
       "urls": [
@@ -4671,7 +4686,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5f0a83a3-6334-4548-b1df-ef1c0ede25f0/f1be2531-34d2-48eb-a670-208c43c36de6/AE-18/AE-19.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/lewdlilyyy.jpg",
-      "circle_code": "AE-18/AE-19"
+      "circle_code": "AE-18"
     },
     {
       "id": 5552,
@@ -7480,7 +7495,6 @@
       "user_id": "e96fb48d-304d-4a86-8159-2ce67faa66c1",
       "name": "RandomPlay",
       "booths": [
-        "A-08a",
         "A-08b"
       ],
       "day": "SUN",
@@ -7510,7 +7524,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/randomplay.jpg",
-      "circle_code": "A-08ab (SUN)"
+      "circle_code": "A-08b (SUN)"
     },
     {
       "id": 5634,
@@ -7628,7 +7642,6 @@
       "user_id": "81403809-ef39-4c15-9eb2-1ed87fdadeb7",
       "name": "Budak Gacha",
       "booths": [
-        "A-14a",
         "A-14b"
       ],
       "day": "BOTH",
@@ -7652,7 +7665,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/budak_gacha.jpg",
-      "circle_code": "A-14ab"
+      "circle_code": "A-14b"
     },
     {
       "id": 5639,
@@ -7755,7 +7768,6 @@
       "user_id": "ecd14fa2-fb7b-4437-bab8-b44356cbe038",
       "name": "Stellardomains",
       "booths": [
-        "A-15a",
         "A-15b"
       ],
       "day": "SUN",
@@ -7780,7 +7792,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ecd14fa2-fb7b-4437-bab8-b44356cbe038/c2fdb3a4-8d17-4ebd-83c8-479d3c2b590f/A-15ab (SUN).png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/stellar_domain.jpg",
-      "circle_code": "A-15ab (SUN)"
+      "circle_code": "A-15b (SUN)"
     },
     {
       "id": 5642,
@@ -7824,7 +7836,6 @@
       "user_id": "039a55d7-2f48-4d46-ab84-f8dccba10bb6",
       "name": "Rizuム",
       "booths": [
-        "A-16a",
         "A-16b"
       ],
       "day": "BOTH",
@@ -7866,7 +7877,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/039a55d7-2f48-4d46-ab84-f8dccba10bb6/1f3601a4-5c4e-4d80-a8ef-471178055707/A-16ab.jpeg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/rizumu.jpg",
-      "circle_code": "A-16ab"
+      "circle_code": "A-16b"
     },
     {
       "id": 5644,
@@ -8939,7 +8950,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/gesper_dada_punisher.jpg",
-      "circle_code": "Z-10ab"
+      "circle_code": "Z-10ab (SAT)"
     },
     {
       "id": 5673,
@@ -9460,7 +9471,6 @@
       "user_id": "049e6cbb-3bb6-402b-b019-66d3e6d59caa",
       "name": "yaminoya",
       "booths": [
-        "Z-27a",
         "Z-27b"
       ],
       "day": "BOTH",
@@ -9469,7 +9479,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/circle_cut_blank.jpg",
-      "circle_code": "Z-27ab"
+      "circle_code": "Z-27b"
     },
     {
       "id": 5688,
@@ -9705,7 +9715,7 @@
         "Magazine"
       ],
       "sampleworks_images": [],
-      "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/wantja_x_garde.id.jpg",
+      "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/wantja_x_ garde_id.jpg",
       "circle_code": "Z-35ab"
     },
     {
@@ -11387,7 +11397,6 @@
       "user_id": "2c628046-9f13-4453-8b44-75e7d411293a",
       "name": "Fried Milkshake",
       "booths": [
-        "B-45a",
         "B-45b"
       ],
       "day": "BOTH",
@@ -11430,7 +11439,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2c628046-9f13-4453-8b44-75e7d411293a/6fdcb067-c2fb-4072-8308-724e16551840/B-45ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/fried_milkshake.jpg",
-      "circle_code": "B-45ab"
+      "circle_code": "B-45b"
     },
     {
       "id": 5743,
@@ -11853,7 +11862,6 @@
       "user_id": "502b6444-7100-468d-8827-518965af6457",
       "name": "Kegabutan Hqq",
       "booths": [
-        "B-60a",
         "B-60b"
       ],
       "day": "SUN",
@@ -11877,7 +11885,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/kegabutan_hqq.jpg",
-      "circle_code": "B-60ab (SUN)"
+      "circle_code": "B-60b (SUN)"
     },
     {
       "id": 5757,
@@ -12794,7 +12802,9 @@
       ],
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/4504f616-3d28-45d7-86d6-09b381a2060a/C-25ab/C-26ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/50476db5-e93f-4fd1-a4d6-250b98a255fb/C-25ab/C-26ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/50476db5-e93f-4fd1-a4d6-250b98a255fb/C-25ab/C-26ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/8b4ad41f-ec72-439a-913b-b535f9b63917/C-25ab/C-26ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/1566a487-7c08-44ab-8616-237c23f888f9/C-25ab/C-26ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/goldeenmi_x.jpg",
       "circle_code": "C-25ab/C-26ab"
@@ -13323,7 +13333,6 @@
       "user_id": "b8dcc3bb-cbb5-4356-be79-8d3221591e78",
       "name": "Artura Palette",
       "booths": [
-        "C-42a",
         "C-42b"
       ],
       "day": "BOTH",
@@ -13356,7 +13365,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/artura_palette.jpg",
-      "circle_code": "C-42ab"
+      "circle_code": "C-42b"
     },
     {
       "id": 5798,
@@ -17564,8 +17573,8 @@
       "fandoms": [
         "Ghibli",
         "Harry Potter",
-        "Oc",
-        "Pokemon"
+        "Pokemon",
+        "Oc"
       ],
       "works_type": [
         "Goods"
@@ -18803,7 +18812,6 @@
       "user_id": "e2daa02e-72f5-4021-bc51-51f38be57c63",
       "name": "Emithystly",
       "booths": [
-        "F-27a",
         "F-27b"
       ],
       "day": "SUN",
@@ -18829,7 +18837,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/emithystly.jpg",
-      "circle_code": "F-27ab (SUN)"
+      "circle_code": "F-27b (SUN)"
     },
     {
       "id": 5948,
@@ -21086,7 +21094,6 @@
       "user_id": "a16658d2-17a3-4361-8c99-5ce0b329236d",
       "name": "Suikadachi",
       "booths": [
-        "G-20a",
         "G-20b"
       ],
       "day": "BOTH",
@@ -21111,7 +21118,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/suikadachi.jpg",
-      "circle_code": "G-20ab"
+      "circle_code": "G-20b"
     },
     {
       "id": 6010,
@@ -21449,7 +21456,6 @@
       "user_id": "b05aaff2-ecac-422b-913f-caea07653c7d",
       "name": "Tidur dulu baru gambar",
       "booths": [
-        "G-31a",
         "G-31b"
       ],
       "day": "BOTH",
@@ -21472,7 +21478,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/tidur_dulu_baru_gambar.jpg",
-      "circle_code": "G-31ab"
+      "circle_code": "G-31b"
     },
     {
       "id": 6020,
@@ -21837,7 +21843,6 @@
       "user_id": "71aed66d-32de-464a-96fa-2ae2f39c58d3",
       "name": "MoMoCa",
       "booths": [
-        "G-38a",
         "G-38b"
       ],
       "day": "SUN",
@@ -21859,7 +21864,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/momoca.jpg",
-      "circle_code": "G-38ab (SUN)"
+      "circle_code": "G-38b (SUN)"
     },
     {
       "id": 6030,
@@ -22317,7 +22322,6 @@
       "user_id": "65955179-94d1-48c9-a025-c18748e10689",
       "name": "Maha ngantuk",
       "booths": [
-        "G-53a",
         "G-53b"
       ],
       "day": "SUN",
@@ -22351,7 +22355,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/65955179-94d1-48c9-a025-c18748e10689/29ddba88-9f7e-48f5-bb53-e576d7fd972a/G-53ab (SUN).png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/maha_ngantuk.jpg",
-      "circle_code": "G-53ab (SUN)"
+      "circle_code": "G-53b (SUN)"
     },
     {
       "id": 6043,
@@ -22370,16 +22374,28 @@
       ],
       "fandoms": [
         "Detective Conan",
-        "Gintama",
         "Love And Deepspace",
-        "Fruit Basket",
+        "Seventeen",
+        "Gintama",
+        "Dandadan",
         "Apothecary",
         "Witch Watch"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/2e09c91d-45f7-4449-b205-d2bebf417dd9/G-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/aa95c364-2937-450b-8ed9-14697dc367d1/G-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/c6fb021c-edb2-472a-a897-898edcd0c62c/G-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/89dab386-e55c-4ad7-ba5d-af4b59c8e795/G-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/61570d62-3055-4f76-bba0-8347c2257627/G-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/bdfa66d5-99d7-4033-9cb8-9fd3978cb495/G-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/dab644b9-9b1f-4983-a810-d3179c5229e6/G-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/a4060bdf-6801-4297-bb4a-8c23762b1308/G-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/b7dabcac-7ae6-4373-844c-6b2297c15add/G-54ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ad8e33e2-f8df-4d49-9d8a-f5d6ff3a6444/b6f2c21c-2b18-46b3-a4bd-c43727a51d85/G-54ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/everlasting_dream.jpg",
       "circle_code": "G-54ab"
     },
@@ -25406,7 +25422,6 @@
       "user_id": "17057670-8d81-4b5d-ab49-39e819d7db7d",
       "name": "CULTON LOPLEP",
       "booths": [
-        "I-01a",
         "I-01b"
       ],
       "day": "BOTH",
@@ -25434,7 +25449,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/17057670-8d81-4b5d-ab49-39e819d7db7d/3325843f-1347-42ea-bf9d-9f82267788d4/I-01ab.jpeg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/culton_loplep.jpg",
-      "circle_code": "I-01ab"
+      "circle_code": "I-01b"
     },
     {
       "id": 6121,
@@ -29857,7 +29872,6 @@
       "user_id": "69cd44c6-e3c5-4fcb-92ec-45e2610e928c",
       "name": "Kopi Kurang Tidur",
       "booths": [
-        "J-41a",
         "J-41b"
       ],
       "day": "BOTH",
@@ -29892,7 +29906,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/kopi_kurang_tidur.jpg",
-      "circle_code": "J-41ab"
+      "circle_code": "J-41b"
     },
     {
       "id": 6243,
@@ -30069,7 +30083,6 @@
       "user_id": "b9d9f60c-fc8c-4b76-914e-e69feac34d3f",
       "name": "Aloe",
       "booths": [
-        "J-43a",
         "J-43b"
       ],
       "day": "BOTH",
@@ -30108,7 +30121,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/aloe.jpg",
-      "circle_code": "J-43ab"
+      "circle_code": "J-43b"
     },
     {
       "id": 6248,
@@ -31931,7 +31944,6 @@
       "user_id": "68b55865-ff7b-4fc9-a6da-d1882abd1f10",
       "name": "Bina's Corner",
       "booths": [
-        "K-23a",
         "K-23b"
       ],
       "day": "BOTH",
@@ -31982,7 +31994,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/68b55865-ff7b-4fc9-a6da-d1882abd1f10/eecb1d73-2e97-4543-a1c2-59772f18f578/K-23ab.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/binas_corner.jpg",
-      "circle_code": "K-23ab"
+      "circle_code": "K-23b"
     },
     {
       "id": 6296,
@@ -32884,7 +32896,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/87c82339-ff1c-483a-a7fc-db9794973baf/9595be09-7ba5-4ed8-aaac-6585efd51122/K-42ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/87c82339-ff1c-483a-a7fc-db9794973baf/8a9fa120-7302-4022-80a0-4935504d5000/K-42ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/87c82339-ff1c-483a-a7fc-db9794973baf/04c8c330-0660-4067-a209-216d6310547f/K-42ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/87c82339-ff1c-483a-a7fc-db9794973baf/1bb0ddad-5d8e-402a-b38d-0cf77cdb710f/K-42ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/87c82339-ff1c-483a-a7fc-db9794973baf/890111cb-fcc5-4263-a0da-0d97ec6788df/K-42ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/pejuang_h-1.jpg",
       "circle_code": "K-42ab"
@@ -33426,7 +33438,6 @@
       "user_id": "c28b9752-81c7-4025-a083-b42387f6e1f6",
       "name": "Cafe Au Lait",
       "booths": [
-        "K-54a",
         "K-54b"
       ],
       "day": "BOTH",
@@ -33447,7 +33458,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/cafe_au_lait.jpg",
-      "circle_code": "K-54ab"
+      "circle_code": "K-54b"
     },
     {
       "id": 6332,
@@ -34448,7 +34459,6 @@
       "user_id": "912d42d6-462c-4e4b-a80d-841cf52dbc60",
       "name": "Uwauw-O",
       "booths": [
-        "L-18a",
         "L-18b"
       ],
       "day": "BOTH",
@@ -34472,7 +34482,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Uwauw-O.jpg",
-      "circle_code": "L-18ab"
+      "circle_code": "L-18b"
     },
     {
       "id": 6360,
@@ -35343,7 +35353,6 @@
       "user_id": "b0246713-59b9-4f0f-8de2-9fc9a5ecd51a",
       "name": "aWoooFa.co",
       "booths": [
-        "L-36a",
         "L-36b"
       ],
       "day": "BOTH",
@@ -35368,7 +35377,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/awooofa.co.jpg",
-      "circle_code": "L-36ab"
+      "circle_code": "L-36b"
     },
     {
       "id": 6385,
@@ -35414,7 +35423,6 @@
       "user_id": "d10c0d4e-2baf-4205-a961-7c4a6f7ba1ce",
       "name": "Nazu Pixel",
       "booths": [
-        "L-37a",
         "L-37b"
       ],
       "day": "BOTH",
@@ -35437,7 +35445,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d10c0d4e-2baf-4205-a961-7c4a6f7ba1ce/766a531d-60cf-4a76-b831-b0385d136ae5/L-37ab.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Nazu_Pixel.jpg",
-      "circle_code": "L-37ab"
+      "circle_code": "L-37b"
     },
     {
       "id": 6387,
@@ -37806,7 +37814,6 @@
       "user_id": "0c53a320-d60c-4aa2-bf6e-f549c2f411d7",
       "name": "ATATO",
       "booths": [
-        "M-38a",
         "M-38b"
       ],
       "day": "BOTH",
@@ -37826,7 +37833,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/atato.jpg",
-      "circle_code": "M-38ab"
+      "circle_code": "M-38b"
     },
     {
       "id": 6451,
@@ -38100,7 +38107,6 @@
       "user_id": "a2ed6739-8e67-488d-96ef-ebdd510e7b32",
       "name": "MixedSnack",
       "booths": [
-        "M-40a",
         "M-40b"
       ],
       "day": "SUN",
@@ -38119,7 +38125,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/mixedsnack.jpg",
-      "circle_code": "M-40ab (SUN)"
+      "circle_code": "M-40b (SUN)"
     },
     {
       "id": 6459,
@@ -40286,7 +40292,6 @@
       "user_id": "b89c1d26-65ed-4404-a286-8667ebab554f",
       "name": "Pasar Ikan Jl. Arapaima",
       "booths": [
-        "N-37a",
         "N-37b"
       ],
       "day": "BOTH",
@@ -40323,7 +40328,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/pasar_ikan_jl_arapaima.jpg",
-      "circle_code": "N-37ab"
+      "circle_code": "N-37b"
     },
     {
       "id": 6517,
@@ -40357,7 +40362,6 @@
       "user_id": "726f954f-2d06-4782-bc85-a6b1550a69b1",
       "name": "Lingkaran3Sisi",
       "booths": [
-        "N-38a",
         "N-38b"
       ],
       "day": "BOTH",
@@ -40380,7 +40384,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/lingkaran3sisi.jpg",
-      "circle_code": "N-38ab"
+      "circle_code": "N-38b"
     },
     {
       "id": 6519,
@@ -40976,7 +40980,6 @@
       "user_id": "f900fa1f-8113-486b-b291-822c9d92e6d6",
       "name": "Kiarapon",
       "booths": [
-        "N-53a",
         "N-53b"
       ],
       "day": "BOTH",
@@ -41012,7 +41015,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/kiarapon.jpg",
-      "circle_code": "N-53ab"
+      "circle_code": "N-53b"
     },
     {
       "id": 6535,
@@ -41054,7 +41057,6 @@
       "user_id": "d0167c7e-2b4e-427a-94fd-8bf8a5b28266",
       "name": "Nichony and Devy",
       "booths": [
-        "N-54a",
         "N-54b"
       ],
       "day": "BOTH",
@@ -41084,7 +41086,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Nichony_and_Devy.jpg",
-      "circle_code": "N-54ab"
+      "circle_code": "N-54b"
     },
     {
       "id": 6537,
@@ -42414,7 +42416,8 @@
         "Goods"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca5aa3e-f71f-43e9-b392-55986143a6bf/803645b5-a28f-43bc-8a2e-1e79508140e1/O-35ab/O-36ab.jpg"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca5aa3e-f71f-43e9-b392-55986143a6bf/803645b5-a28f-43bc-8a2e-1e79508140e1/O-35ab/O-36ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca5aa3e-f71f-43e9-b392-55986143a6bf/cfd5f142-0424-4f61-bdff-1ca49f9c51ab/O-35ab/O-36ab.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/budak_segitiga.jpg",
       "circle_code": "O-35ab/O-36ab"
@@ -42652,12 +42655,9 @@
       "user_id": "3a31b822-07f6-43db-b5e4-ad0847c52e13",
       "name": "Segi Empat",
       "booths": [
-        "O-35a",
-        "O-35b",
-        "O-35a",
-        "O-35b",
-        "O-36a",
-        "O-36b"
+        "O-43a",
+        "O-44a",
+        "O-44b"
       ],
       "day": "BOTH",
       "urls": [
@@ -42694,7 +42694,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/segi_empat.jpg",
-      "circle_code": "O-35ab/O-35ab/O-36ab"
+      "circle_code": "O-43a/O-44ab"
     },
     {
       "id": 6579,
@@ -43351,10 +43351,10 @@
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4e466a27-a998-4ae4-bafe-0bf460b23dda/f8a84e3d-38fa-438a-b134-420ec493d33d/P-05ab/P-06ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4e466a27-a998-4ae4-bafe-0bf460b23dda/ec6f2060-3aa5-4284-b1be-891e571c10d8/P-05ab/P-06ab.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4e466a27-a998-4ae4-bafe-0bf460b23dda/50a370f0-0218-4555-a116-4c0d38f45e2b/P-05ab/P-06ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4e466a27-a998-4ae4-bafe-0bf460b23dda/0c43035f-e78d-47a6-91c5-54ade9c55e8b/P-05ab/P-06ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4e466a27-a998-4ae4-bafe-0bf460b23dda/b9d75820-d4b9-405a-aa22-4518a282a0ab/P-05ab/P-06ab.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4e466a27-a998-4ae4-bafe-0bf460b23dda/3a6650f6-9ed9-4db7-9f5c-37d9831c3643/P-05ab/P-06ab.jpg"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4e466a27-a998-4ae4-bafe-0bf460b23dda/3a6650f6-9ed9-4db7-9f5c-37d9831c3643/P-05ab/P-06ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4e466a27-a998-4ae4-bafe-0bf460b23dda/476e13df-4777-4b58-b870-3efa38017d1c/P-05ab/P-06ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/hbd_naka.jpg",
       "circle_code": "P-05ab/P-06ab"
@@ -43858,7 +43858,6 @@
       "user_id": "7079bc88-3acd-4066-8eca-d62056c05499",
       "name": "Escapism",
       "booths": [
-        "P-19a",
         "P-19b"
       ],
       "day": "SUN",
@@ -43881,7 +43880,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/escapism.jpg",
-      "circle_code": "P-19ab (SUN)"
+      "circle_code": "P-19b (SUN)"
     },
     {
       "id": 6612,
@@ -44925,7 +44924,6 @@
       "user_id": "dbb647ff-62a0-4ec3-92a1-b82d4bfc6a1d",
       "name": "Meowstads",
       "booths": [
-        "P-41a",
         "P-41b"
       ],
       "day": "BOTH",
@@ -44952,7 +44950,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/meowstads.jpg",
-      "circle_code": "P-41ab"
+      "circle_code": "P-41b"
     },
     {
       "id": 6643,
@@ -45919,7 +45917,6 @@
       "user_id": "095f619c-ed2e-49d9-aa4e-e5cf3502c9bb",
       "name": "Himatachi",
       "booths": [
-        "Q-04a",
         "Q-04b"
       ],
       "day": "BOTH",
@@ -45956,7 +45953,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/himatachi.jpg",
-      "circle_code": "Q-04ab"
+      "circle_code": "Q-04b"
     },
     {
       "id": 6671,
@@ -46385,7 +46382,6 @@
       "user_id": "f442fe5d-5b8e-4f84-9c93-19d758280811",
       "name": "Menafkahi Husbu",
       "booths": [
-        "Q-12a",
         "Q-12b"
       ],
       "day": "BOTH",
@@ -46419,7 +46415,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/menafkahi_husbu.jpg",
-      "circle_code": "Q-12ab"
+      "circle_code": "Q-12b"
     },
     {
       "id": 6682,
@@ -47506,7 +47502,6 @@
       "user_id": "7135b3e7-9f47-4951-b7e1-a290303a82d0",
       "name": "Pos supri",
       "booths": [
-        "Q-38a",
         "Q-38b"
       ],
       "day": "BOTH",
@@ -47528,7 +47523,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/pos_supri.jpg",
-      "circle_code": "Q-38ab"
+      "circle_code": "Q-38b"
     },
     {
       "id": 6712,
@@ -47694,7 +47689,6 @@
       "user_id": "14e9cc9c-1cb2-4673-86cd-c300702a769c",
       "name": "Chalist Store",
       "booths": [
-        "Q-42a",
         "Q-42b"
       ],
       "day": "BOTH",
@@ -47721,7 +47715,7 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/chalist.jpg",
-      "circle_code": "Q-42ab"
+      "circle_code": "Q-42b"
     },
     {
       "id": 6717,
@@ -47995,7 +47989,6 @@
       "user_id": "73a1be20-ac58-4c5f-9e56-a5e93e68d967",
       "name": "Pegalotak Pegalotot",
       "booths": [
-        "Q-50a",
         "Q-50b"
       ],
       "day": "BOTH",
@@ -48029,7 +48022,7 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/73a1be20-ac58-4c5f-9e56-a5e93e68d967/3eb867a0-e302-40ac-9397-3969cf1e54ca/Q-50ab.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/pegalotak_pegalotot.jpg",
-      "circle_code": "Q-50ab"
+      "circle_code": "Q-50b"
     },
     {
       "id": 6725,
@@ -50058,7 +50051,11 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/fd47f63a-1929-429c-b9f6-8346f3bed25d/242cd47d-ee9c-4e7d-b09a-115fe64d952a/R-34b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/fd47f63a-1929-429c-b9f6-8346f3bed25d/d26c8155-27dc-4992-a85d-c33e3385e766/R-34b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/fd47f63a-1929-429c-b9f6-8346f3bed25d/2d94bf08-02e5-41dd-a191-de422ae91b00/R-34b.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/malewife_milkers.jpg",
       "circle_code": "R-34b"
     },
@@ -51053,7 +51050,30 @@
       ],
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/cheesy.jpg",
-      "circle_code": "Z-10b  (SUN)"
+      "circle_code": "Z-10b (SUN)"
+    },
+    {
+      "id": 6804,
+      "user_id": "8f34d669-0e58-4c0b-94e3-25a37f8e13c2",
+      "name": "Pejuang Finansial",
+      "booths": [
+        "Z-10a"
+      ],
+      "day": "SUN",
+      "fandoms": [
+        "Honkai: Star Rail",
+        "Bangdream!",
+        "Uma Musume",
+        "Reverse:1999"
+      ],
+      "works_type": [
+        "Comic",
+        "Goods",
+        "Magazine"
+      ],
+      "sampleworks_images": [],
+      "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/pejuang_finansial.jpg",
+      "circle_code": "Z-10a (SUN)"
     }
   ]
 }
