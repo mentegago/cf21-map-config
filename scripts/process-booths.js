@@ -298,7 +298,7 @@ function extractWorksTypes(circle) {
 }
 
 // Function to extract fandoms from circle data
-function extractFandoms(circle) {
+function extractFandoms(circle, fandomMapping = {}) {
     const fandoms = [];
     
     // Helper function to add fandoms from a field
@@ -361,8 +361,36 @@ function extractFandoms(circle) {
     // Add fandoms from other_fandom field
     addFandomsFromField(circle.other_fandom);
     
-    // Remove duplicates and return
-    return [...new Set(fandoms)];
+    // Remove duplicates from raw fandoms
+    const rawFandoms = [...new Set(fandoms)];
+    
+    // Map fandoms using fandom-mapping.json
+    function mapFandom(fandom) {
+        // O(1) case-insensitive lookup using pre-built index
+        const fandomLower = fandom.toLowerCase();
+        const mappedValue = fandomMapping[fandomLower];
+        
+        if (mappedValue !== undefined) {
+            return mappedValue;
+        }
+        
+        // If not found in mapping, return as is
+        return [fandom];
+    }
+    
+    // Map all raw fandoms and flatten the result
+    const mappedFandoms = rawFandoms
+        .flatMap(mapFandom)
+        .filter(fandom => fandom && fandom.trim()); // Remove empty strings
+    
+    // Remove duplicates and sort alphabetically
+    const finalMappedFandoms = [...new Set(mappedFandoms)]
+        .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
+    
+    return {
+        raw_fandoms: rawFandoms,
+        fandoms: finalMappedFandoms
+    };
 }
 
 // Function to extract sampleworks images from circle data
@@ -405,12 +433,29 @@ function processInitialStateData(data) {
         return processedData;
     }
     
+    // Load fandom mapping and create lowercase index for O(1) lookups
+    let fandomMappingIndex = {};
+    try {
+        const fandomMappingRaw = fs.readFileSync('data/fandom-mapping.json', 'utf8');
+        const fandomMapping = JSON.parse(fandomMappingRaw);
+        
+        // Build lowercase-to-value index in one pass
+        for (const [key, value] of Object.entries(fandomMapping)) {
+            fandomMappingIndex[key.toLowerCase()] = value;
+        }
+        
+        console.log(`Loaded fandom mapping with ${Object.keys(fandomMapping).length} entries`);
+    } catch (error) {
+        console.log('Warning: Could not load fandom-mapping.json:', error.message);
+        console.log('Continuing without fandom mapping...');
+    }
+    
     console.log(`Processing ${data.circle.allCircle.length} circles...`);
     
     for (const circle of data.circle.allCircle) {
         const booths = parseCircleCode(circle.circle_code);
         const urls = extractUrls(circle);
-        const fandoms = extractFandoms(circle);
+        const fandomsData = extractFandoms(circle, fandomMappingIndex);
         const worksTypes = extractWorksTypes(circle);
         const sampleworksImages = extractSampleworksImages(circle);
         const circleCut = extractCircleCut(circle);
@@ -429,9 +474,14 @@ function processInitialStateData(data) {
             processedCircle.urls = urls;
         }
         
-        // Only add fandoms array if there are any fandoms
-        if (fandoms.length > 0) {
-            processedCircle.fandoms = fandoms;
+        // Add raw_fandoms if there are any
+        if (fandomsData.raw_fandoms.length > 0) {
+            processedCircle.raw_fandoms = fandomsData.raw_fandoms;
+        }
+        
+        // Only add fandoms array if there are any mapped fandoms
+        if (fandomsData.fandoms.length > 0) {
+            processedCircle.fandoms = fandomsData.fandoms;
         }
         
         // Only add works_type array if there are any works types
@@ -462,7 +512,8 @@ function processInitialStateData(data) {
                 booths: booths,
                 day: processedCircle.day,
                 urls: urls.length > 0 ? urls : 'none',
-                fandoms: fandoms.length > 0 ? fandoms : 'none',
+                raw_fandoms: fandomsData.raw_fandoms.length > 0 ? fandomsData.raw_fandoms : 'none',
+                fandoms: fandomsData.fandoms.length > 0 ? fandomsData.fandoms : 'none',
                 works_type: worksTypes.length > 0 ? worksTypes : 'none',
                 sampleworks_images: sampleworksImages.length > 0 ? `${sampleworksImages.length} images` : 'empty array',
                 circle_cut: circleCut ? 'present' : 'none'
