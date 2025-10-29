@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "creators": [
     {
       "id": 5415,
@@ -7447,47 +7447,6 @@
       "sampleworks_images": [],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/kroma.jpg",
       "circle_code": "A-08ab (SAT)"
-    },
-    {
-      "id": 5632,
-      "user_id": "c2e829b3-18eb-4ab0-98fe-dd9f4c554ad5",
-      "name": "sushisalmon",
-      "booths": [
-        "A-08a"
-      ],
-      "day": "SUN",
-      "urls": [
-        {
-          "title": "Facebook",
-          "url": "https://www.facebook.com/sushisalmon95"
-        },
-        {
-          "title": "Instagram",
-          "url": "https://www.instagram.com/sushisalmon95"
-        },
-        {
-          "title": "Twitter",
-          "url": "https://x.com/sushisalmon95"
-        },
-        {
-          "title": "Other",
-          "url": "https://sushisalmon.com/"
-        }
-      ],
-      "fandoms": [
-        "Genshin Impact",
-        "Ace Attorney",
-        "Final Fantasy",
-        "Zelda",
-        "Hsr"
-      ],
-      "works_type": [
-        "Comic",
-        "Goods"
-      ],
-      "sampleworks_images": [],
-      "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/sushi_salmon.jpg",
-      "circle_code": "A-08a (SUN)"
     },
     {
       "id": 5633,
