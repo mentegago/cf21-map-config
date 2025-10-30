@@ -53,10 +53,8 @@
     "Original"
   ],
   "Komik Lokal Original": [
-    "Original"
-  ],
-  "Local Comic": [
-    "Original"
+    "Original",
+    "Komik Lokal"
   ],
   "Original (webtoon)": [
     "Original"
@@ -65,7 +63,8 @@
     "Original"
   ],
   "Soykune (original)": [
-    "Original"
+    "Original",
+    "Soykune (Original)"
   ],
   "Original Fan Art": [
     "Original"
@@ -81,58 +80,32 @@
     "Original"
   ],
   "Moon Flower (original Webtoon)": [
-    "Original"
+    "Original",
+    "Moonflower (Original Webtoon)"
   ],
   "Original Story": [
     "Original"
   ],
-  "Revenged Love": [
-    "Original"
-  ],
   "Original(cats)": [
-    "Original"
-  ],
-  "Grow A Garden": [
-    "Original"
-  ],
-  "Gadis Rambut Pendek": [
-    "Original"
-  ],
-  "Sinsekai": [
-    "Original"
-  ],
-  "My 2.5d Romance": [
-    "Original"
-  ],
-  "Luii Smollfete": [
-    "Original"
-  ],
-  "Luce & Friends": [
     "Original"
   ],
   "Original Artworks": [
     "Original"
   ],
   "Original Ip (to Get Her - Webtoon)": [
-    "Original"
-  ],
-  "Floral Theme Original Ip": [
-    "Original"
-  ],
-  "Lost In The Cloud": [
-    "Original"
+    "Original",
+    "To Get Her (Original Webtoon)"
   ],
   "⁠original": [
     "Original"
   ],
-  "Tkdb": [
-    "Original"
-  ],
   "Bunny (original)": [
-    "Original"
+    "Original",
+    "Bunny / Bunnie (Original)"
   ],
   "Original (bunga Hamster Capybara)": [
-    "Original"
+    "Original",
+    "Bunga Hamster Capybara (Original)"
   ],
   "Original Character & Personal Mascot": [
     "Original"
@@ -150,12 +123,10 @@
     "Original"
   ],
   "Silent Blues (original)": [
-    "Original"
+    "Original",
+    "Silent Blues (Original)"
   ],
   "Original Oc": [
-    "Original"
-  ],
-  "Luce (2-25 Jubilee)": [
     "Original"
   ],
   "Original Fish": [
@@ -199,10 +170,14 @@
     "Original"
   ],
   "Original Comic (pancarona, Impression, Jono In Love)": [
-    "Original"
+    "Original",
+    "Pancarona (Original Comic)",
+    "Impression (Original Comic)",
+    "Jono In Love (Original Comic)"
   ],
   "Original Webtoon (mr. Morgen's Day Off)": [
-    "Original"
+    "Original",
+    "mr. Morgen's Day Off (Original Webtoon)"
   ],
   "Original Pet": [
     "Original"
@@ -219,9 +194,6 @@
   "Original Work/non Fandom": [
     "Original"
   ],
-  "Unnamed/ U-san": [
-    "Original"
-  ],
   "Original (oc,cats)": [
     "Original"
   ],
@@ -229,9 +201,6 @@
     "Original"
   ],
   "Original Etc": [
-    "Original"
-  ],
-  "Xxl Woofia": [
     "Original"
   ],
   "And Original Ip": [
@@ -253,8 +222,77 @@
   "Originals (ikan, Buaya, Ocs)": [
     "Original"
   ],
-  "Luce": [
-    "Original"
+  "To Get Her (Original Webtoon)": [
+    "To Get Her (Original Webtoon)"
+  ],
+  "Komik Lokal": [
+    "Komik Lokal"
+  ],
+  "Local Comic": [
+    "Komik Lokal"
+  ],
+  "XXL WOOFIA": [
+    "XXL WOOFIA"
+  ],
+  "Xxl Woofia": [
+    "XXL WOOFIA"
+  ],
+  "Silent Blues (Original)": [
+    "Silent Blues (Original)"
+  ],
+  "Soykune (Original)": [
+    "Soykune (Original)"
+  ],
+  "Moonflower (Original Webtoon)": [
+    "Moonflower (Original Webtoon)"
+  ],
+  "Revenged Love": [
+    "Revenged Love"
+  ],
+  "Grow A Garden": [
+    "Grow A Garden"
+  ],
+  "Gadis Rambut Pendek": [
+    "Gadis Rambut Pendek"
+  ],
+  "Sinsekai": [
+    "Sinsekai"
+  ],
+  "My 2.5d Romance": [
+    "My 2.5d Romance"
+  ],
+  "Luii Smollfete": [
+    "Luii Smollfete"
+  ],
+  "Floral Theme Original Ip": [
+    "Floral Theme Original Ip"
+  ],
+  "Lost In The Cloud": [
+    "Lost In The Cloud"
+  ],
+  "Bunny / Bunnie (Original)": [
+    "Bunny / Bunnie (Original)"
+  ],
+  "Bunga Hamster Capybara (Original)": [
+    "Bunga Hamster Capybara (Original)"
+  ],
+  "The One Without A Name / Unnamed / U-san": [
+    "The One Without A Name / Unnamed / U-san"
+  ],
+  "Unnamed/ U-san": [
+    "The One Without A Name / Unnamed / U-san"
+  ],
+  "Pancarona (Original Comic)": [
+    "Pancarona (Original Comic)"
+  ],
+  "Impression (Original Comic)": [
+    "Impression (Original Comic)"
+  ],
+  "Jono In Love (Original Comic)": [
+    "Jono In Love (Original Comic)"
+  ],
+  "mr. Morgen's Day Off (Original Webtoon)": [
+    "mr. Morgen's Day Off (Original Webtoon)"
   ],
   "Genshin Impact": [
     "Genshin Impact"
@@ -3164,6 +3202,9 @@
     "Tokyo Debunker"
   ],
   "Phantom Buster": [
+    "Tokyo Debunker"
+  ],
+  "Tkdb": [
     "Tokyo Debunker"
   ],
   "Moriarty the Patriot": [

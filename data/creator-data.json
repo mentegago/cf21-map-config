@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "creators": [
     {
       "id": 5415,
@@ -180,6 +180,7 @@
         "Komik Lokal Original"
       ],
       "fandoms": [
+        "Komik Lokal",
         "Original"
       ],
       "works_type": [
@@ -1981,7 +1982,7 @@
         "Local Comic"
       ],
       "fandoms": [
-        "Original"
+        "Komik Lokal"
       ],
       "works_type": [
         "Comic",
@@ -6089,7 +6090,7 @@
         "Soykune (original)"
       ],
       "fandoms": [
-        "Original"
+        "Soykune (Original)"
       ],
       "works_type": [
         "Artbook",
@@ -10936,6 +10937,7 @@
         "Blue Lock",
         "Demon Slayer: Kimetsu no Yaiba",
         "K-Pop: Demon Hunters",
+        "Moonflower (Original Webtoon)",
         "Original",
         "Toilet-Bound Hanako-kun",
         "VTuber"
@@ -11233,7 +11235,7 @@
         "Green Yuri",
         "Hatsune Miku",
         "Jujutsu Kaisen",
-        "Original",
+        "Lost In The Cloud",
         "Panty & Stocking with Garterbelt",
         "Yuri"
       ],
@@ -11570,6 +11572,7 @@
         "Nana",
         "NIKI",
         "Original",
+        "Revenged Love",
         "Sonic the Hedgehog",
         "The Guy She Was Interested In Wasn't a Guy at All"
       ],
@@ -11627,6 +11630,7 @@
         "Cat",
         "Death Stranding",
         "Dragon Ball",
+        "Grow A Garden",
         "Honkai Star Rail",
         "How to Train Your Dragon",
         "Hunter x Hunter",
@@ -11737,7 +11741,7 @@
       ],
       "fandoms": [
         "Delicious in Dungeon",
-        "Original",
+        "Floral Theme Original Ip",
         "PLAVE",
         "Ranking of Kings",
         "Vocaloid"
@@ -11952,7 +11956,7 @@
         "Gadis Rambut Pendek"
       ],
       "fandoms": [
-        "Original"
+        "Gadis Rambut Pendek"
       ],
       "works_type": [
         "Photobook General",
@@ -11992,7 +11996,8 @@
         "Genshin Impact",
         "Kamitsubaki Studio",
         "Original",
-        "Punishing: Gray Raven"
+        "Punishing: Gray Raven",
+        "Sinsekai"
       ],
       "works_type": [
         "Goods"
@@ -12166,7 +12171,8 @@
       "fandoms": [
         "Ace of Diamond",
         "Link Click",
-        "Original"
+        "Original",
+        "Tokyo Debunker"
       ],
       "works_type": [
         "Comic",
@@ -12213,8 +12219,8 @@
       "fandoms": [
         "Arcane",
         "Honkai Star Rail",
+        "My 2.5d Romance",
         "Omniscient Reader's Viewpoint",
-        "Original",
         "PLAVE"
       ],
       "works_type": [
@@ -12421,6 +12427,8 @@
       ],
       "fandoms": [
         "HoYoverse",
+        "Luce & Friends",
+        "Luii Smollfete",
         "Meme",
         "Original",
         "Project SEKAI",
@@ -12700,7 +12708,8 @@
         "Gundam",
         "Gundam Witch From Mercury",
         "NIJISANJI",
-        "Original"
+        "Original",
+        "To Get Her (Original Webtoon)"
       ],
       "works_type": [
         "Artbook",
@@ -13086,6 +13095,7 @@
         "Indie Games (fan-made)"
       ],
       "fandoms": [
+        "Bunny / Bunnie (Original)",
         "Cute Art",
         "Indie Games",
         "Original"
@@ -13631,6 +13641,7 @@
         "Oshi No Ko"
       ],
       "fandoms": [
+        "Bunga Hamster Capybara (Original)",
         "Genshin Impact",
         "Honkai Star Rail",
         "Identity V",
@@ -16095,8 +16106,8 @@
         "ALNST",
         "K-Pop: Demon Hunters",
         "Love and Deepspace",
-        "Original",
-        "PLAVE"
+        "PLAVE",
+        "Silent Blues (Original)"
       ],
       "works_type": [
         "Goods",
@@ -17664,6 +17675,7 @@
         "Honkai Star Rail",
         "Identity V",
         "Initial D",
+        "Luce (2-25 Jubilee)",
         "Original",
         "Uma Musume Pretty Derby",
         "Warhammer"
@@ -24586,6 +24598,8 @@
         "Ikemen Revolution",
         "Ikemen Sengoku",
         "Ikemen Vampire",
+        "Impression (Original Comic)",
+        "Jono In Love (Original Comic)",
         "Love and Deepspace",
         "Mystic Messenger",
         "Neon Genesis Evangelion",
@@ -24593,6 +24607,7 @@
         "Obey Me!",
         "Ojamajo Doremi",
         "Original",
+        "Pancarona (Original Comic)",
         "Pop Team Epic",
         "Ranma 1/2",
         "Rurouni Kenshin",
@@ -25579,6 +25594,7 @@
         "K-pop",
         "Love and Deepspace",
         "Medalist",
+        "mr. Morgen's Day Off (Original Webtoon)",
         "One Piece",
         "Original",
         "Six",
@@ -38289,11 +38305,11 @@
         "Life Is Strange",
         "Marvel Rivals",
         "Omniscient Reader's Viewpoint",
-        "Original",
         "Persona 5",
         "Pokemon",
         "Steven Universe",
-        "Team Fortress 2"
+        "Team Fortress 2",
+        "The One Without A Name / Unnamed / U-san"
       ],
       "works_type": [
         "Goods"
@@ -48831,7 +48847,8 @@
         "RuPaul's Drag Race",
         "SEVENTEEN",
         "Tomorrow X Together",
-        "WWE"
+        "WWE",
+        "XXL WOOFIA"
       ],
       "works_type": [
         "Comic",
@@ -58944,6 +58961,7 @@
         "K9Kuro",
         "Looney Tunes",
         "Love and Deepspace",
+        "Luce",
         "Minecraft",
         "Mobile Legends: Bang Bang",
         "My Hero Academia",
