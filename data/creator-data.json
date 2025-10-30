@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "creators": [
     {
       "id": 5415,
@@ -7744,7 +7744,12 @@
         "Photobook Cosplay",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/23ca630e-69f5-4c30-8b4f-d41c12af54c6/1684dabc-ee01-4e71-ae09-d38d22e14bb2/AF-38.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/23ca630e-69f5-4c30-8b4f-d41c12af54c6/6bec4e30-7f3d-49ee-b46a-c1491744e6f4/AF-38.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/23ca630e-69f5-4c30-8b4f-d41c12af54c6/ac7fc1f5-f5b0-41ec-8cc2-ce7f4706ae64/AF-38.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/23ca630e-69f5-4c30-8b4f-d41c12af54c6/0f9b4d18-15da-4aab-a45b-c7ff9036c5ae/AF-38.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/taiki_theo.jpg",
       "circle_code": "AF-38"
     },
@@ -46498,6 +46503,7 @@
       ],
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/44d9aee9-b7f2-4523-8a2d-60a4be416be0/79420902-a095-475a-bd6b-80e223794d90/M-41b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/44d9aee9-b7f2-4523-8a2d-60a4be416be0/8b6e0d90-ae10-4251-aedd-ce5599a940af/M-41b (SUN).png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/44d9aee9-b7f2-4523-8a2d-60a4be416be0/09d201cf-fd24-4218-a4cd-fcb3243bb929/M-41b (SUN).png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/44d9aee9-b7f2-4523-8a2d-60a4be416be0/1279c29c-fea6-4b12-add1-60ec3ef8107b/M-41b (SUN).png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/44d9aee9-b7f2-4523-8a2d-60a4be416be0/4f5b1641-7e27-4150-8d9f-2b94d0cab044/M-41b (SUN).png",
