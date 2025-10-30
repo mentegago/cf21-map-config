@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "creators": [
     {
       "id": 5415,
@@ -3082,10 +3082,13 @@
         "Handmade Crafts"
       ],
       "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca14fb4-23fc-4239-82bc-436739525cb9/bb3594b0-a09e-40ce-b8e9-87997d2204bc/AD-02.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca14fb4-23fc-4239-82bc-436739525cb9/566f03de-a65a-4075-abaf-202aa492bcf6/AD-02.jpeg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca14fb4-23fc-4239-82bc-436739525cb9/13a72012-0c93-4909-9c74-5b1e5876793f/AD-02.jpeg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca14fb4-23fc-4239-82bc-436739525cb9/454355c1-3366-4a0a-9c39-315482f8d9d9/AD-02.jpeg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca14fb4-23fc-4239-82bc-436739525cb9/e63322d7-4e75-4610-9ec6-bbeb9c81b794/AD-02.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca14fb4-23fc-4239-82bc-436739525cb9/ef63c4e2-51f7-4aed-952b-44adf1339aaf/AD-02.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca14fb4-23fc-4239-82bc-436739525cb9/e3b27aa8-e4fb-46ee-a9ca-f7ff1bf7b44a/AD-02.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8ca14fb4-23fc-4239-82bc-436739525cb9/0eedd536-ad66-43e0-89b4-6229dc90db76/AD-02.jpeg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/clayon.jpg",
@@ -13758,9 +13761,11 @@
         }
       ],
       "raw_fandoms": [
-        "Original"
+        "Original",
+        "Chibi Maruko Chan"
       ],
       "fandoms": [
+        "Chibi Maruko Chan",
         "Original"
       ],
       "works_type": [
@@ -21655,7 +21660,8 @@
         "One Piece",
         "Shoujo",
         "Bl",
-        "Webtoon"
+        "Webtoon",
+        "Plave"
       ],
       "fandoms": [
         "Anime",
@@ -21663,6 +21669,7 @@
         "HoYoverse",
         "One Piece",
         "Persona",
+        "PLAVE",
         "Shoujo",
         "Webtoon"
       ],
@@ -34535,7 +34542,18 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/0b368548-e0b1-4e4e-9169-c05284427ddf/J-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/8fbce4b6-e633-4104-bee3-381df022ef28/J-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/e4121bba-f72a-46f3-9492-fcb2025cbfb4/J-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/bf35a7ed-3fb5-4a21-8111-773d345709dd/J-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/a107d287-6896-4651-8ef9-ff73451dc98d/J-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/208fbf92-534a-42f7-87b8-66d050d80ed4/J-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/8368ab30-e67b-4412-bed4-2f783b52f4e1/J-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/99e10c3f-ae8b-4c06-980b-074afd06c024/J-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/7dda66ad-2b61-41a8-a9f8-05eecc44ce52/J-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1e63b3f9-be3d-4095-9719-e7f427b9594e/2211e0f7-e721-4ef7-9f22-e3fc88997b86/J-20ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/neko_fingerprint.jpg",
       "circle_code": "J-20ab"
     },
@@ -37493,7 +37511,7 @@
         "Hollow Knight",
         "Deltarune",
         "Pgr",
-        "Ooe",
+        "Ooe / Owen",
         "Uuultrac",
         "No Salvation",
         "Shtdn",
@@ -37507,12 +37525,11 @@
         "Zenless Zone Zero"
       ],
       "fandoms": [
-        "Castlevania",
         "Cell of Empireo",
         "Deltarune",
         "Hollow Knight",
         "No Salvation",
-        "Order of Ecclesia",
+        "Ooe / Owen",
         "Original",
         "Project Moon",
         "Punishing: Gray Raven",
