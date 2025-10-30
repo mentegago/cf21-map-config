@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "creators": [
     {
       "id": 5415,
@@ -4994,13 +4994,17 @@
       "urls": [
         {
           "title": "Twitter",
-          "url": "https://x.com/NotMaruMaruru"
+          "url": "https://www.x.com/NotMaruMaruru00"
         }
       ],
       "raw_fandoms": [
-        "Zenless Zone Zero"
+        "Zenless Zone Zero",
+        "Blue Archive",
+        "Umamusume"
       ],
       "fandoms": [
+        "Blue Archive",
+        "Uma Musume Pretty Derby",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -11810,6 +11814,10 @@
         {
           "title": "Instagram 2",
           "url": "https://www.instagram.com/diiya.yaa?igsh=eTkxbTI3aTNyazFs"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/lunar_libraryy"
         }
       ],
       "raw_fandoms": [
@@ -28620,14 +28628,19 @@
       ],
       "raw_fandoms": [
         "Uma Musume",
-        "Reverse:1999",
+        "Reverse: 1999",
         "Zzz",
-        "Bocchi The Rock",
-        "Arknights"
+        "Hsr",
+        "Arknights",
+        "Umamusume",
+        "Lads",
+        "Plave"
       ],
       "fandoms": [
         "Arknights",
-        "Bocchi the Rock!",
+        "Honkai Star Rail",
+        "Love and Deepspace",
+        "PLAVE",
         "Reverse: 1999",
         "Uma Musume Pretty Derby",
         "Zenless Zone Zero"
@@ -30679,21 +30692,35 @@
         "Vtuber",
         "Honkai Star Rails",
         "Genshin Impact",
-        "Zzz"
+        "Zzz",
+        "Umamusume"
       ],
       "fandoms": [
         "Blue Archive",
         "Genshin Impact",
         "Honkai Star Rail",
+        "Uma Musume Pretty Derby",
         "VTuber",
         "Zenless Zone Zero"
       ],
       "works_type": [
-        "Comic",
         "Artbook",
-        "Goods"
+        "Photobook Cosplay",
+        "Goods",
+        "Magazine"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/6867edc3-5d56-431b-a4f9-8a7f3913abb5/I-06ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/5c1cce85-bad9-4b36-aa4d-252687494cc6/I-06ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/57574d65-ea3d-4174-b221-caefe48efa85/I-06ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/33f21518-48bc-4af5-906b-454c6d2003f5/I-06ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/c8d72f1d-0ab4-42ec-8ad6-cd2fdf4be9e4/I-06ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/2501d79e-e220-49aa-86f7-4a763012bb59/I-06ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/fbb9d8b8-254c-45cf-b8e2-a66599174dfe/I-06ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/82a4b632-429d-4758-9303-8f2604692ee3/I-06ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/6c387f43-49a0-4f94-b94e-a0e480525f14/I-06ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/85abc112-2f70-4e32-b3a3-afc80e259633/6487ee5d-9f5f-415e-ad41-60e49d188e6d/I-06ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/corocoro_shoten.jpg",
       "circle_code": "I-06ab"
     },
@@ -56794,7 +56821,13 @@
         "Commission",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1f3cf5ee-a50e-40e9-b83d-fead0162eebe/1b7b16c4-d95c-4b28-ac4d-0d6a2397e8f1/Q-19ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1f3cf5ee-a50e-40e9-b83d-fead0162eebe/8e0acc56-c08a-42d3-95ec-d490bd5eab09/Q-19ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1f3cf5ee-a50e-40e9-b83d-fead0162eebe/89438b69-a89f-4c94-8cdc-209c69aa3da4/Q-19ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1f3cf5ee-a50e-40e9-b83d-fead0162eebe/18beb0e2-7a9b-4c3f-983f-990a729362f2/Q-19ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1f3cf5ee-a50e-40e9-b83d-fead0162eebe/4348b093-f446-4dd1-b7e5-395ba7629f16/Q-19ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/yasuu_&_nerophic.jpg",
       "circle_code": "Q-19ab"
     },
@@ -61278,15 +61311,13 @@
       ],
       "raw_fandoms": [
         "Alien Stage",
-        "Ensemble Stars",
         "Limbus Company",
-        "Windbreaker"
+        "Gdcg Gsgw"
       ],
       "fandoms": [
         "Alien Stage",
-        "Ensemble Stars!",
-        "Limbus Company",
-        "Wind Breaker"
+        "Gdcg Gsgw",
+        "Limbus Company"
       ],
       "works_type": [
         "Comic",
