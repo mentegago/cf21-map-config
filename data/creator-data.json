@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "creators": [
     {
       "id": 5415,
@@ -7747,7 +7747,7 @@
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/23ca630e-69f5-4c30-8b4f-d41c12af54c6/1684dabc-ee01-4e71-ae09-d38d22e14bb2/AF-38.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/23ca630e-69f5-4c30-8b4f-d41c12af54c6/6bec4e30-7f3d-49ee-b46a-c1491744e6f4/AF-38.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/23ca630e-69f5-4c30-8b4f-d41c12af54c6/ac7fc1f5-f5b0-41ec-8cc2-ce7f4706ae64/AF-38.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/23ca630e-69f5-4c30-8b4f-d41c12af54c6/0b124602-aa23-4594-ad51-4e67575bf120/AF-38.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/23ca630e-69f5-4c30-8b4f-d41c12af54c6/0f9b4d18-15da-4aab-a45b-c7ff9036c5ae/AF-38.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/taiki_theo.jpg",
@@ -12910,7 +12910,18 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/d0e4c140-394d-4d34-ac0e-21da890f3e25/B-38ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/ac03efca-9483-43a2-9b0b-6fe69c09e369/B-38ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/efb95b0d-236d-4c39-aff0-d4678b30f377/B-38ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/b1ec3d1f-1a3e-4463-aaa6-55cd9de0a372/B-38ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/02afa3a1-1417-4fe3-89c3-c7c5a4380928/B-38ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/d1033a19-c35c-4dc3-8ce9-624079d03c61/B-38ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/829e8a17-fb53-4fc6-8442-bbf0abfedf51/B-38ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/9512ef4a-aa96-4b91-947c-7a23d8cc3384/B-38ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/893efda0-e923-4c43-bc99-d94efa6c6e98/B-38ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9d33b78d-ef95-42f5-8312-2009a5b04be6/f04747b9-e86a-4c68-ac2c-99ceda81314f/B-38ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/selowth.jpg",
       "circle_code": "B-38ab"
     },
@@ -28157,7 +28168,7 @@
         "Magazine"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e5445636-f245-4bce-948f-9a4bd4b423a4/c2e3477d-9126-4411-af18-5a996090f141/H-24ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e5445636-f245-4bce-948f-9a4bd4b423a4/3464ac6f-b0ba-4b9c-ac35-63bee1f9afdf/H-24ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e5445636-f245-4bce-948f-9a4bd4b423a4/e6a14ee6-c49c-4b55-a883-7eca0060d8fc/H-24ab.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/denonbu_indo.jpg",
@@ -30052,6 +30063,7 @@
         "Goods"
       ],
       "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/269c4aa0-5c60-4f28-a8c4-277d4971345f/a593b76e-ef2f-492e-b703-86b9976ade80/H-57a.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/269c4aa0-5c60-4f28-a8c4-277d4971345f/d5076595-129e-4b48-bc6c-2ef7ff875cc3/H-57a.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/belka.jpg",
@@ -54534,7 +54546,11 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/730a8800-7290-4cc0-a309-a589b3b5a469/f3909baf-7b4c-4a7e-894f-a7a478207797/P-37b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/730a8800-7290-4cc0-a309-a589b3b5a469/18368577-fe38-4910-994a-f07cab6a237e/P-37b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/730a8800-7290-4cc0-a309-a589b3b5a469/a5827a0f-312b-4311-8865-f4fd45cb6063/P-37b.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/cat3lier.jpg",
       "circle_code": "P-37b"
     },
