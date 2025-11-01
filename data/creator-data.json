@@ -1,5 +1,5 @@
 {
-  "version": 65,
+  "version": 66,
   "creators": [
     {
       "id": 5415,
@@ -2039,7 +2039,8 @@
         "Goods"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3fe7e2fc-ee4b-481b-9522-0303ba17770e/95f9b81f-442b-4d0f-828d-bff3d5d0a8d4/AC-16.jpg"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3fe7e2fc-ee4b-481b-9522-0303ba17770e/95f9b81f-442b-4d0f-828d-bff3d5d0a8d4/AC-16.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3fe7e2fc-ee4b-481b-9522-0303ba17770e/dec3d5f9-c7d6-4a42-b89d-bb549b1c6293/AC-16.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/gym_aa.jpg",
       "circle_code": "AC-16"
@@ -4553,8 +4554,8 @@
         "Goods"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1115eee8-7fb8-430a-998f-7fb4d8afb5dc/61630ec2-f316-4587-a0c7-1082abf96459/AD-43.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1115eee8-7fb8-430a-998f-7fb4d8afb5dc/ffcb6e14-bcaf-4638-952b-df441919d2c9/AD-43.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1115eee8-7fb8-430a-998f-7fb4d8afb5dc/ffcb6e14-bcaf-4638-952b-df441919d2c9/AD-43.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1115eee8-7fb8-430a-998f-7fb4d8afb5dc/e61b7c66-a764-4037-8e74-1fdf3d65d478/AD-43.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/starlight_ascension.jpg",
       "circle_code": "AD-43"
@@ -12012,37 +12013,37 @@
       ],
       "raw_fandoms": [
         "Original(cats)",
-        "Kucing",
         "Alien Stage",
         "Kpop Demon Hunters",
         "How To Train Your Dragon",
-        "Aespa",
         "Hunter X Hunter",
         "Dragon Ball",
-        "Call Of Duty Mw2 (2-22)",
+        "Call Of Duty Mw2 (2022)",
+        "Fear & Hunger",
+        "Hylics",
+        "Killer7",
         "Death Stranding 2",
         "Grow A Garden",
         "Ghibli",
         "Honkai Star Rail",
-        "Uma Musume",
+        "Umamusume",
         "Sonic The Hedgehog",
-        "2ne1",
-        "Katseye"
+        "Aespa"
       ],
       "fandoms": [
-        "2NE1",
         "aespa",
         "Alien Stage",
-        "Call of Duty",
-        "Cat",
+        "Call Of Duty Mw2 (2022)",
         "Death Stranding",
         "Dragon Ball",
+        "Fear & Hunger",
         "Grow A Garden",
         "Honkai Star Rail",
         "How to Train Your Dragon",
         "Hunter x Hunter",
+        "Hylics",
         "K-Pop: Demon Hunters",
-        "KATSEYE",
+        "Killer7",
         "Original",
         "Sonic the Hedgehog",
         "Studio Ghibli",
@@ -12051,7 +12052,12 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/22ff5252-8c48-4fdf-90e3-ac667e08b028/4c5332b0-5e6a-4c76-8d96-180ea2f8900c/B-20ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/22ff5252-8c48-4fdf-90e3-ac667e08b028/8c9d74d7-4aa3-4997-9428-6a7ccd6d0884/B-20ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/22ff5252-8c48-4fdf-90e3-ac667e08b028/7ba18e39-10fc-4640-a0f3-07b812f54708/B-20ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/22ff5252-8c48-4fdf-90e3-ac667e08b028/93874ff8-9185-4989-8f89-07fa42fd7763/B-20ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/sybau.jpg",
       "circle_code": "B-20ab"
     },
@@ -19286,19 +19292,15 @@
         "Kamen Rider",
         "Super Sentai",
         "Gundam",
-        "Touken Ranbu",
-        "Umineko",
-        "Nu Carnival"
+        "Nu Carnival Originals"
       ],
       "fandoms": [
         "Gundam",
         "Kamen Rider",
-        "NU: Carnival",
+        "Nu Carnival Originals",
         "Original",
         "Super Sentai",
-        "Tokusatsu",
-        "Touken Ranbu",
-        "Umineko: When They Cry"
+        "Tokusatsu"
       ],
       "works_type": [
         "Artbook",
@@ -19308,7 +19310,8 @@
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2706cc5e-441b-4a89-bf0a-b6b2db3438df/f4fbda44-4c53-4731-a246-87d71359e3f6/E-20ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2706cc5e-441b-4a89-bf0a-b6b2db3438df/2569b303-ae99-40b2-aa4f-12ad505ca3b6/E-20ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2706cc5e-441b-4a89-bf0a-b6b2db3438df/a37323d8-f9ec-4a93-84a6-dd61cb4ceedb/E-20ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2706cc5e-441b-4a89-bf0a-b6b2db3438df/a37323d8-f9ec-4a93-84a6-dd61cb4ceedb/E-20ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2706cc5e-441b-4a89-bf0a-b6b2db3438df/28e0b945-e569-47bc-b963-bd8c6f01c1e8/E-20ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/cbt_gang.jpg",
       "circle_code": "E-20ab"
@@ -29700,8 +29703,6 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d5e23a93-03d7-4091-96fb-c3749683029a/2086073c-4430-442a-a43e-7a678dbe6bf7/H-47ab/H-48ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d5e23a93-03d7-4091-96fb-c3749683029a/96f136bf-669c-4e88-b16a-3f4aa05cf162/H-47ab/H-48ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d5e23a93-03d7-4091-96fb-c3749683029a/22e82001-d9b5-4210-bff9-ef9b03eeb047/H-47ab/H-48ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d5e23a93-03d7-4091-96fb-c3749683029a/f6aa2b01-c8f4-41e8-9230-cba128776b64/H-47ab/H-48ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d5e23a93-03d7-4091-96fb-c3749683029a/c4f1b524-d03d-4405-88df-858987c7845a/H-47ab/H-48ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d5e23a93-03d7-4091-96fb-c3749683029a/37d8fd2b-e8c4-4bf5-b748-0c0a73a70b20/H-47ab/H-48ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/om-om_buluan.jpg",
@@ -36187,13 +36188,11 @@
         "Ace Attorney",
         "Spy X Family",
         "Doraemon",
-        "Dcmk",
-        "Doctor Who"
+        "Dcmk"
       ],
       "fandoms": [
         "Ace Attorney",
         "Detective Conan",
-        "Doctor Who",
         "Doraemon",
         "Spy x Family",
         "The Great Ace Attorney"
@@ -37744,7 +37743,11 @@
       ],
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2cd02348-0868-4d37-ba2d-1332a6dd785f/81492a9b-3b5c-4902-8232-5fc542fb9358/K-04ab (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2cd02348-0868-4d37-ba2d-1332a6dd785f/2966c7d7-fadd-4dd9-9e5f-635a6fbc3fae/K-04ab (SUN).png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2cd02348-0868-4d37-ba2d-1332a6dd785f/2966c7d7-fadd-4dd9-9e5f-635a6fbc3fae/K-04ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2cd02348-0868-4d37-ba2d-1332a6dd785f/58a3279f-b04b-48bb-864c-fc212043203a/K-04ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2cd02348-0868-4d37-ba2d-1332a6dd785f/75165229-1b2f-46fb-ad12-218ebfea3d67/K-04ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2cd02348-0868-4d37-ba2d-1332a6dd785f/93002883-5722-44b3-abd7-0fe30d3289bc/K-04ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2cd02348-0868-4d37-ba2d-1332a6dd785f/2d33a3b3-d889-481c-925f-b454670cf2e9/K-04ab (SUN).png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Cult_of_Gears.jpg",
       "circle_code": "K-04ab (SUN)"
@@ -43052,20 +43055,22 @@
       ],
       "raw_fandoms": [
         "Hololive",
-        "Honkaistarrail (hsr)",
-        "Zenlesszonezero (zzz)",
+        "Genshin Impact",
         "Umamusume"
       ],
       "fandoms": [
+        "Genshin Impact",
         "Hololive",
-        "Honkai Star Rail",
-        "Uma Musume Pretty Derby",
-        "Zenless Zone Zero"
+        "Uma Musume Pretty Derby"
       ],
       "works_type": [
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/b0246713-59b9-4f0f-8de2-9fc9a5ecd51a/2d8bf583-e018-4564-a686-9c28b033a234/L-36b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/b0246713-59b9-4f0f-8de2-9fc9a5ecd51a/76b25b67-dd42-4f6b-a9f1-5b501ec34bd1/L-36b.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/awooofa.co.jpg",
       "circle_code": "L-36b"
     },
