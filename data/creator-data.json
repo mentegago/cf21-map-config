@@ -1,5 +1,5 @@
 {
-  "version": 64,
+  "version": 65,
   "creators": [
     {
       "id": 5415,
@@ -5718,7 +5718,12 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/648af3f5-3856-4880-8497-13d99c29bcc1/20229110-056a-49e6-94b3-10bdc6bd8faf/AE-27.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/648af3f5-3856-4880-8497-13d99c29bcc1/9776cef8-0992-4657-968c-ee9baf74116b/AE-27.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/648af3f5-3856-4880-8497-13d99c29bcc1/ada8f692-af1a-4c6a-8f10-33d13cd1de39/AE-27.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/648af3f5-3856-4880-8497-13d99c29bcc1/e81afb78-b4bb-4ad7-910e-844e9b9a9b47/AE-27.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/fumafu.jpg",
       "circle_code": "AE-27"
     },
@@ -14933,8 +14938,8 @@
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/4504f616-3d28-45d7-86d6-09b381a2060a/C-25ab/C-26ab.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/50476db5-e93f-4fd1-a4d6-250b98a255fb/C-25ab/C-26ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/8b4ad41f-ec72-439a-913b-b535f9b63917/C-25ab/C-26ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/1566a487-7c08-44ab-8616-237c23f888f9/C-25ab/C-26ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/ea67bb99-01f8-43af-a426-2f2e4126961e/C-25ab/C-26ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/33d4bc26-ee18-4abe-931e-805c03e9933e/8c976dbe-c953-489c-a2b8-893c5a3805d5/C-25ab/C-26ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/goldeenmi_x.jpg",
       "circle_code": "C-25ab/C-26ab"
@@ -37293,10 +37298,14 @@
         "Sherlock"
       ],
       "works_type": [
-        "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/84767456-3276-4438-883b-df18953a3837/a5c691d8-8b18-454d-9dfa-84fd0b6edfb0/J-57ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/84767456-3276-4438-883b-df18953a3837/d1c2d310-6d2e-41f5-902d-9c8e2ade5a4f/J-57ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/84767456-3276-4438-883b-df18953a3837/0c914502-be37-458e-9916-a3d29dd71048/J-57ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/84767456-3276-4438-883b-df18953a3837/2b47539f-6d36-4dce-aa37-19d3dd54ff01/J-57ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/telemiette.jpg",
       "circle_code": "J-57ab"
     },
