@@ -1,5 +1,5 @@
 {
-  "version": 69,
+  "version": 70,
   "creators": [
     {
       "id": 5415,
@@ -26840,7 +26840,11 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/153c7611-3446-41a6-866c-adae557b385d/3d29ff4f-21bf-4430-a626-3919d0b02451/G-56ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/153c7611-3446-41a6-866c-adae557b385d/9f4b7adb-c545-43bc-a3e7-aa466c54bdc4/G-56ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/153c7611-3446-41a6-866c-adae557b385d/157c321e-b5cd-4127-88a3-79b953ffb46e/G-56ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/sakit_jiwa_server.jpg",
       "circle_code": "G-56ab"
     },
@@ -52241,23 +52245,61 @@
         "Honkai Star Rail",
         "Genshin Impact",
         "Ensemble Stars",
-        "Persona",
-        "Kingdom Hearts",
-        "Original"
-      ],
-      "fandoms": [
-        "Ensemble Stars!",
-        "Genshin Impact",
-        "Honkai Star Rail",
         "Kingdom Hearts",
         "Original",
-        "Persona"
+        "Dc",
+        "Uma Musume",
+        "Vocaloid",
+        "Nozaki",
+        "Frieren",
+        "Death Note",
+        "Nso",
+        "Wuwa",
+        "Nijisanji",
+        "Haikyuu!!",
+        "One Piece",
+        "Sonic",
+        "Sakamoto Days",
+        "Dandadan",
+        "Jjk",
+        "Ghibli",
+        "Dress Up Darling",
+        "Spyxf",
+        "Orb"
+      ],
+      "fandoms": [
+        "Dandadan",
+        "DC Comics",
+        "Death Note",
+        "Dress Up Darling",
+        "Ensemble Stars!",
+        "Frieren: Beyond Journey's End",
+        "Genshin Impact",
+        "Haikyu!!",
+        "Honkai Star Rail",
+        "Jujutsu Kaisen",
+        "Kingdom Hearts",
+        "Monthly Girls' Nozaki-kun",
+        "NIJISANJI",
+        "Nso",
+        "One Piece",
+        "Orb",
+        "Original",
+        "Sakamoto Days",
+        "Sonic the Hedgehog",
+        "Spyxf",
+        "Studio Ghibli",
+        "Uma Musume",
+        "Vocaloid",
+        "Wuthering Waves"
       ],
       "works_type": [
-        "Comic",
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/726b49c4-fcc2-4cbf-9399-df2edd30de76/2fcbcfca-ba89-4b41-88d5-f466628c35ff/O-41ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/alam_sambung.jpg",
       "circle_code": "O-41ab"
     },
