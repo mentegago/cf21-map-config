@@ -887,26 +887,26 @@
   "Yuki Sakuna": [
     "Yuki Sakuna"
   ],
-  "Uma Musume Pretty Derby": [
-    "Uma Musume Pretty Derby"
-  ],
   "Uma Musume": [
-    "Uma Musume Pretty Derby"
+    "Uma Musume"
+  ],
+  "Uma Musume Pretty Derby": [
+    "Uma Musume"
   ],
   "Umamusume": [
-    "Uma Musume Pretty Derby"
+    "Uma Musume"
   ],
   "Umamusume: Pretty Derby": [
-    "Uma Musume Pretty Derby"
+    "Uma Musume"
   ],
   "Uma Musume: Pretty Derby": [
-    "Uma Musume Pretty Derby"
+    "Uma Musume"
   ],
   "Uma Museum": [
-    "Uma Musume Pretty Derby"
+    "Uma Musume"
   ],
   "Umamusume Pretty Derby": [
-    "Uma Musume Pretty Derby"
+    "Uma Musume"
   ],
   "Pokemon": [
     "Pokemon"
@@ -2352,7 +2352,11 @@
     "Call of Duty"
   ],
   "Call Of Duty Mw2 (2-22)": [
-    "Call of Duty"
+    "Call of Duty",
+    "Call of Duty: Modern Warfare II (2022)"
+  ],
+  "Call of Duty: Modern Warfare II (2022)": [
+    "Call of Duty: Modern Warfare II (2022)"
   ],
   "Dr. STONE": [
     "Dr. STONE"
