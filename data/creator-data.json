@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "creators": [
     {
       "id": 5415,
@@ -1079,7 +1079,7 @@
         "Hololive",
         "Kasane Teto",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber"
       ],
       "works_type": [
@@ -1288,7 +1288,12 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3de8a1ee-406d-4f3b-9fb5-cb28f952f0bf/7ce52cac-66d8-4f07-8ced-24dbbb87b67a/AB-39.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3de8a1ee-406d-4f3b-9fb5-cb28f952f0bf/d563d349-3561-41b9-99b6-49bf60aedcc8/AB-39.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3de8a1ee-406d-4f3b-9fb5-cb28f952f0bf/f1c0b34f-c8bc-4f37-8547-b5d55a1a671d/AB-39.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3de8a1ee-406d-4f3b-9fb5-cb28f952f0bf/8ca7c2c6-0b96-45b8-af82-cf48aa08e5c2/AB-39.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Zhielogy.jpg",
       "circle_code": "AB-39"
     },
@@ -1678,7 +1683,7 @@
         "Girls' Frontline",
         "Hololive",
         "Honkai Star Rail",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "VTuber"
       ],
@@ -2894,7 +2899,7 @@
         "Okamiden",
         "Original",
         "The Amazing Digital Circus",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Virtual Reality",
         "Zenless Zone Zero"
       ],
@@ -3619,7 +3624,7 @@
         "Honkai Star Rail",
         "Kaiju No. 8",
         "Punishing: Gray Raven",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Wuthering Waves",
         "Zenless Zone Zero"
       ],
@@ -3989,7 +3994,7 @@
         "Arknights",
         "Honkai Star Rail",
         "NIJISANJI",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber"
       ],
       "works_type": [
@@ -4340,7 +4345,7 @@
       ],
       "fandoms": [
         "Blue Archive",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -4804,7 +4809,7 @@
         "Hololive",
         "Honkai Star Rail",
         "HoYoverse",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber",
         "Wuthering Waves"
       ],
@@ -4903,7 +4908,7 @@
         "HoYoverse",
         "Jujutsu Kaisen",
         "Love and Deepspace",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -5027,7 +5032,7 @@
       ],
       "fandoms": [
         "Blue Archive",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -5538,7 +5543,7 @@
         "Princess Connect! Re:Dive",
         "Shadowverse",
         "The Idolm@ster Cinderella Girls",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods",
@@ -6107,7 +6112,7 @@
         "Super Smash Bros.",
         "Tsukihime",
         "TYPE-MOON",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Artbook",
@@ -6115,7 +6120,7 @@
       ],
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e69353d5-83b8-43cc-9af1-a8d2da481c61/2a654ea4-a44e-4843-98eb-7a24faa6dfd5/AE-38.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e69353d5-83b8-43cc-9af1-a8d2da481c61/00265764-e954-4aeb-9780-112c078cfede/AE-38.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e69353d5-83b8-43cc-9af1-a8d2da481c61/32490ce4-17a3-4f74-8a7d-abfebd3ffb36/AE-38.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e69353d5-83b8-43cc-9af1-a8d2da481c61/e8d88dab-f212-4188-b581-635cb56a908a/AE-38.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e69353d5-83b8-43cc-9af1-a8d2da481c61/e7c6304d-f60d-4d24-bed2-30cf5ceac6b6/AE-38.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e69353d5-83b8-43cc-9af1-a8d2da481c61/cdff264a-4ff1-4f2b-87fd-9c76f1e1efd8/AE-38.png",
@@ -6780,7 +6785,7 @@
       "fandoms": [
         "Blue Archive",
         "Reverse: 1999",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Wuthering Waves",
         "Zenless Zone Zero"
       ],
@@ -6832,7 +6837,7 @@
       ],
       "fandoms": [
         "BanG Dream!",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -6866,7 +6871,7 @@
       "fandoms": [
         "Blue Archive",
         "Gakuen Idolmaster",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -7027,7 +7032,7 @@
         "Automotive",
         "Hololive",
         "Original",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Game",
@@ -7253,7 +7258,7 @@
         "Cosplay",
         "Hololive",
         "HoYoverse",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber",
         "Wuthering Waves"
       ],
@@ -7518,7 +7523,7 @@
         "Blue Archive",
         "Genshin Impact",
         "Honkai Star Rail",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Photobook Cosplay",
@@ -7835,7 +7840,7 @@
       "fandoms": [
         "Cosplay",
         "The Idolm@ster",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Photobook General",
@@ -8594,7 +8599,7 @@
         "Honkai Star Rail",
         "Original",
         "Spice and Wolf",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Wuthering Waves"
       ],
       "works_type": [
@@ -9273,7 +9278,7 @@
       "fandoms": [
         "Honkai Star Rail",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Yuri"
       ],
       "works_type": [
@@ -9532,7 +9537,7 @@
         "HoYoverse",
         "JoJo's Bizarre Adventure",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Wuthering Waves",
         "Zenless Zone Zero"
       ],
@@ -10180,7 +10185,7 @@
         "Project SEKAI",
         "Silent Hill",
         "The Guy She Was Interested In Wasn't a Guy at All",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Undertale",
         "UTAU",
         "Valorant",
@@ -10275,7 +10280,7 @@
         "Honkai Star Rail",
         "Original",
         "Reverse: 1999",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -11823,7 +11828,7 @@
         },
         {
           "title": "Twitter",
-          "url": "https://x.com/bambaaram_"
+          "url": "https://x.com/MaerelHibadita"
         },
         {
           "title": "ArtStation",
@@ -11852,6 +11857,7 @@
         "Goods"
       ],
       "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a09a6ad5-ad82-440e-8c2e-db4e48367a70/68a974dc-d7ab-4f70-89bd-c43fcdb30dc0/B-15ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a09a6ad5-ad82-440e-8c2e-db4e48367a70/034b29af-6c27-4cb8-9679-108e808b1014/B-15ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a09a6ad5-ad82-440e-8c2e-db4e48367a70/3d92db11-3c4d-4fd7-9c4b-16c3e2008f87/B-15ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a09a6ad5-ad82-440e-8c2e-db4e48367a70/7dbf27ab-9cb7-443e-adf2-8771679e0de2/B-15ab.jpg",
@@ -12063,7 +12069,7 @@
         "Original",
         "Sonic the Hedgehog",
         "Studio Ghibli",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -12303,7 +12309,10 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/b6e1b157-dff3-4ac6-b233-2851e5ccd2d9/64631e22-99e1-4ec5-be8b-cb3539a74587/B-25ab/B-26ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/b6e1b157-dff3-4ac6-b233-2851e5ccd2d9/793c50ad-1ed9-4b39-b0d2-1dbff618726b/B-25ab/B-26ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Cangcimerch.jpg",
       "circle_code": "B-25ab/B-26ab"
     },
@@ -13376,7 +13385,7 @@
         "Omniscient Reader's Viewpoint",
         "Original",
         "The Legend of Zelda",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "Wind Breaker"
       ],
@@ -14134,18 +14143,56 @@
         {
           "title": "Instagram",
           "url": "https://instagram.com/_tokoikan_"
+        },
+        {
+          "title": "Twitter 1",
+          "url": "https://x.com/tr333z"
+        },
+        {
+          "title": "Twitter 2",
+          "url": "https://x.com/ruiitoki"
+        },
+        {
+          "title": "Twitter 3",
+          "url": "https://x.com/oddshumi"
+        },
+        {
+          "title": "Twitter 4",
+          "url": "https://x.com/nori____04"
         }
       ],
       "raw_fandoms": [
-        "Original"
+        "Original",
+        "Genshin Impact",
+        "Frieren",
+        "Mlp",
+        "Txt",
+        "Apothecary Dearies"
       ],
       "fandoms": [
-        "Original"
+        "Apothecary Dearies",
+        "Frieren: Beyond Journey's End",
+        "Genshin Impact",
+        "My Little Pony",
+        "Original",
+        "Tomorrow X Together"
       ],
       "works_type": [
+        "Commission",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/1a8e6f37-572b-44ed-9a3a-13fce1c58e13/C-08b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/0748277d-1e32-48ac-b85a-ad5f45a9b74d/C-08b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/7bc83d6f-4804-4013-91b3-5c66a3577704/C-08b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/dd463518-0859-449b-9fe0-71b9ef8e7249/C-08b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/0f373bd9-19ec-40d6-ad11-ca92ee847565/C-08b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/2bcfeeaf-6aec-45b3-acd9-e6c7007e6f55/C-08b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/557084ee-aa6e-4757-8ffb-237046516404/C-08b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/ee898512-c336-46ac-820b-08f714e49137/C-08b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/567c0b21-ba9b-49ec-a54e-c3fe2c0df9d6/C-08b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9e588aca-ac3d-402d-a6b7-ad52f987fff5/96a050c8-8eb7-43bf-97f5-878a8fd4093d/C-08b.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/tokoikan.jpg",
       "circle_code": "C-08b"
     },
@@ -16796,7 +16843,7 @@
         "The Apothecary Diaries",
         "The Legend of Zelda: Breath of the Wild",
         "The Legend of Zelda: Tears of the Kingdom",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -17263,7 +17310,7 @@
         "Original",
         "RPG Maker",
         "Tokyo Debunker",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Yu-Gi-Oh!",
         "Zenless Zone Zero"
       ],
@@ -17680,7 +17727,7 @@
         "Roblox",
         "Team Fortress 2",
         "Touhou",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -18092,7 +18139,7 @@
         "DJMAX",
         "Original",
         "Touhou",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "Warhammer",
         "Zenless Zone Zero"
@@ -18325,7 +18372,7 @@
         "Initial D",
         "Luce (2-25 Jubilee)",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Warhammer"
       ],
       "works_type": [
@@ -18423,7 +18470,7 @@
         "Hololive",
         "Original",
         "Reverse: 1999",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -20201,7 +20248,7 @@
         "Persona",
         "Rune Factory 4",
         "SEVENTEEN",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -20441,16 +20488,19 @@
       ],
       "raw_fandoms": [
         "Original",
-        "Windbreaker",
-        "Idolish7",
-        "World Trigger",
-        "Hunterxhunter",
-        "Ai Somnium Genshin Impact",
-        "Honkai:star Rail",
-        "Zzz",
+        "Wbk",
+        "I7",
+        "Hxh",
+        "Lotm",
         "Alien Stage",
-        "Lord Of Mystery",
-        "Nijisanji"
+        "R99 World Trigger",
+        "Ai Somnium",
+        "Gi",
+        "Hsr",
+        "Zzz",
+        "Nijisanji",
+        "Plave",
+        "Wuwa"
       ],
       "fandoms": [
         "AI: The Somnium Files",
@@ -20458,19 +20508,26 @@
         "Genshin Impact",
         "Honkai Star Rail",
         "Hunter x Hunter",
-        "IDOLiSH7",
+        "I7",
         "Lord of the Mysteries",
         "NIJISANJI",
         "Original",
+        "PLAVE",
+        "R99 World Trigger",
         "Wind Breaker",
-        "World Trigger",
+        "Wuthering Waves",
         "Zenless Zone Zero"
       ],
       "works_type": [
         "Commission",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ac30dace-2a49-4e43-96a7-dd2bf30d3a19/101bb4e4-daed-4610-bc34-9c7cda4a1738/E-49ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ac30dace-2a49-4e43-96a7-dd2bf30d3a19/63a3c54b-a5a7-4ccf-818a-5517af87e7e6/E-49ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ac30dace-2a49-4e43-96a7-dd2bf30d3a19/54d7a5cb-d927-40ae-b4f7-482dced9fb6c/E-49ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ac30dace-2a49-4e43-96a7-dd2bf30d3a19/1971d571-a5bb-4d90-9078-653e8bfb2274/E-49ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/macanoana.jpg",
       "circle_code": "E-49ab"
     },
@@ -21533,7 +21590,7 @@
         "PLAVE",
         "Pokemon",
         "Studio Ghibli",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods",
@@ -22059,7 +22116,7 @@
         "Genshin Impact",
         "Honkai Star Rail",
         "The Summer Hikaru Died",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Valorant"
       ],
       "works_type": [
@@ -23049,7 +23106,7 @@
         "Persona",
         "Pokemon",
         "Tamagotchi",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -25176,7 +25233,7 @@
         "Pokemon",
         "Promare",
         "Tokusatsu",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Artbook",
@@ -26007,7 +26064,7 @@
         "Blue Archive",
         "Forsaken",
         "Regretevator",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -27021,7 +27078,7 @@
         "PLAVE",
         "Project SEKAI",
         "Reverse: 1999",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Commission",
@@ -28388,7 +28445,7 @@
         "The Bear",
         "Twisted Wonderland",
         "Ultraman",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Welcome to Demon School! Iruma-kun",
         "World Trigger",
         "Zenless Zone Zero"
@@ -28467,9 +28524,9 @@
         "Orb",
         "Boboiboy",
         "Gachiakuta",
-        "Gegenazo",
         "South Park",
-        "Nintama Rantarou"
+        "Nintama Rantarou",
+        "Gegenazo"
       ],
       "fandoms": [
         "BoBoiBoy",
@@ -28483,7 +28540,18 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/365b3109-067e-4cb5-b735-698a61e52919/H-27a (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/3c9fe1e8-e98a-4bfe-9cfa-8894b037b671/H-27a (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/89c5a506-a143-47b7-85fb-d28e90b58dde/H-27a (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/9e139e0f-82d6-4a18-81da-5474ac8491c3/H-27a (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/55e3b493-f7f0-4984-aac2-8daea9697ae9/H-27a (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/3246f0eb-e2ca-499d-b358-d4bcc0895249/H-27a (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/32683238-f9e6-44f8-a114-5f70e2069d4e/H-27a (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/ae4135cd-013f-409c-a5f4-68f124e589f0/H-27a (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/4e902344-d4ce-41ac-adde-a2b9108ff369/H-27a (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/4ecd8e80-79de-4346-aee8-21af3738a05c/4081d60d-73e9-4d77-be6c-d2b23e49021f/H-27a (SAT).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/two-way_rocket.jpg",
       "circle_code": "H-27a (SAT)"
     },
@@ -28580,7 +28648,7 @@
         "PLAVE",
         "RIIZE",
         "Twisted Wonderland",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -28627,7 +28695,7 @@
         "Girls' Frontline 2: Exilium",
         "Honkai Star Rail",
         "Limbus Company",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Commission",
@@ -28669,7 +28737,7 @@
         "Love and Deepspace",
         "Medalist",
         "Puella Magi Madoka Magica",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -28703,7 +28771,7 @@
       ],
       "fandoms": [
         "Hololive",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -28776,7 +28844,7 @@
         "Love and Deepspace",
         "PLAVE",
         "Reverse: 1999",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -28816,7 +28884,7 @@
         "Ace Attorney",
         "Arknights",
         "My Little Pony",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -28851,7 +28919,7 @@
         "Love and Deepspace",
         "Moriarty the Patriot",
         "Project SEKAI",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -28901,7 +28969,7 @@
         "Honkai Star Rail",
         "Link Click",
         "Omniscient Reader's Viewpoint",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -28951,7 +29019,7 @@
         "Bocchi the Rock!",
         "HoYoverse",
         "Jujutsu Kaisen",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Wuthering Waves"
       ],
       "works_type": [
@@ -28983,7 +29051,7 @@
       ],
       "fandoms": [
         "Blue Archive",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -29030,7 +29098,7 @@
         "Monster Hunter",
         "Rhythm Games",
         "Tower Defense Simulator",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -29072,7 +29140,7 @@
       "fandoms": [
         "Hololive",
         "Original",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Commission",
@@ -29215,7 +29283,7 @@
         "The Amazing Digital Circus",
         "The Amazing World of Gumball",
         "The Powerpuff Girls",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Western Cartoon",
         "Wuthering Waves"
       ],
@@ -29263,7 +29331,7 @@
         "Omniscient Reader's Viewpoint",
         "Omori",
         "One Piece",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Wuthering Waves"
       ],
       "works_type": [
@@ -29309,7 +29377,7 @@
         "Persona 3",
         "Persona 5",
         "Stardew Valley",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -29580,7 +29648,7 @@
         "Arknights",
         "Hololive",
         "HoYoverse",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Wuthering Waves"
       ],
       "works_type": [
@@ -29753,7 +29821,7 @@
         "BanG Dream!",
         "Gakuen Idolmaster",
         "Reverse: 1999",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Commission",
@@ -29870,7 +29938,7 @@
       ],
       "fandoms": [
         "Gakuen Idolmaster",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -30018,7 +30086,7 @@
         "Needy Streamer Overload",
         "Project SEKAI",
         "Roblox",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -30248,7 +30316,7 @@
         "Puella Magi Madoka Magica",
         "Takopi's Original Sin",
         "The Idolm@ster",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -30293,7 +30361,7 @@
         "Shangri-La Frontier",
         "The Idolm@ster",
         "Tsukipro",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "Xenoblade Chronicles"
       ],
@@ -30384,7 +30452,7 @@
         "Blue Archive",
         "Project SEKAI",
         "The Idolm@ster",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber"
       ],
       "works_type": [
@@ -30545,7 +30613,7 @@
       ],
       "fandoms": [
         "Love Live!",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "Yuri"
       ],
@@ -30627,7 +30695,7 @@
       "fandoms": [
         "Blue Archive",
         "Bocchi the Rock!",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -30671,7 +30739,7 @@
         "Blue Archive",
         "The Idolm@ster",
         "Touhou",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -30815,7 +30883,7 @@
         "Blue Archive",
         "Hololive",
         "HoYoverse",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Video Games",
         "Wuthering Waves"
       ],
@@ -30864,7 +30932,7 @@
         "Blue Archive",
         "Genshin Impact",
         "Honkai Star Rail",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber",
         "Zenless Zone Zero"
       ],
@@ -30916,7 +30984,7 @@
       "fandoms": [
         "Blue Archive",
         "Honkai Star Rail",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Artbook",
@@ -31004,7 +31072,7 @@
         "Blue Archive",
         "Hololive",
         "Honkai Star Rail",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber",
         "Wuthering Waves",
         "Zenless Zone Zero"
@@ -31072,7 +31140,7 @@
         "Pokemon",
         "Tears of Themis",
         "The Apothecary Diaries",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Yakuza"
       ],
       "works_type": [
@@ -31241,7 +31309,7 @@
         "My Little Pony",
         "Original",
         "Touhou",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods",
@@ -31293,7 +31361,7 @@
         "Object Show",
         "Original",
         "PLAVE",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Yurikuma Arashi"
       ],
       "works_type": [
@@ -31338,7 +31406,7 @@
         "Fate/Grand Order",
         "Granblue Fantasy",
         "Hololive",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -31371,7 +31439,7 @@
         "Granblue Fantasy",
         "HoYoverse",
         "Touhou",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Handmade Crafts"
@@ -31699,7 +31767,7 @@
         "Reverse: 1999",
         "The Apothecary Diaries",
         "The Disastrous Life of Saiki K.",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Commission",
@@ -33059,7 +33127,7 @@
         "Tales of",
         "Touhou",
         "Trigun",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "Wuthering Waves",
         "Yakuza"
@@ -33342,7 +33410,7 @@
         "Touhou",
         "Trigun",
         "ULTRAKILL",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Umineko: When They Cry",
         "Utaite",
         "Vampire Hunter D",
@@ -34818,7 +34886,7 @@
         "Pokemon",
         "Project SEKAI",
         "Sonic the Hedgehog",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "UTAU",
         "Video Games",
         "Vocaloid",
@@ -34953,7 +35021,7 @@
         "Stardew Valley",
         "Teen Titans",
         "The Legend of Zelda",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Yakuza"
       ],
       "works_type": [
@@ -36198,7 +36266,7 @@
         "Marvel",
         "Original",
         "Squid Game",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Western"
       ],
       "works_type": [
@@ -36638,7 +36706,7 @@
         "SpongeBob SquarePants",
         "The Amazing Digital Circus",
         "The Little Prince",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -36947,7 +37015,7 @@
         "Orb",
         "Original",
         "Re-Animator",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Yama Wayama"
       ],
       "works_type": [
@@ -37720,7 +37788,7 @@
         "The Idolm@ster",
         "Tokusatsu",
         "Touhou",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -37779,7 +37847,7 @@
         "SHTDN",
         "Touhou",
         "Transformers",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "UuUltraC",
         "Zenless Zone Zero",
         "Zeno Remake"
@@ -38151,7 +38219,7 @@
         "Pokemon",
         "Project SEKAI",
         "Sakamoto Days",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Utaite",
         "VTuber"
       ],
@@ -38199,7 +38267,7 @@
         "Library of Ruina",
         "Limbus Company",
         "Tokusatsu",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -38410,7 +38478,7 @@
         "Pokemon",
         "Sonic the Hedgehog",
         "Twisted Wonderland",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -38574,7 +38642,7 @@
         "One Piece",
         "Stardew Valley",
         "Studio InvestiGrave",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Valorant"
       ],
       "works_type": [
@@ -38654,7 +38722,7 @@
         "Omori",
         "Order of Ecclesia",
         "Shikanoko Nokonoko Koshitantan",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Umineko: When They Cry"
       ],
       "works_type": [
@@ -38767,7 +38835,7 @@
         "Original",
         "Roblox",
         "Shin Megami Tensei",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Wind Breaker",
         "WWE",
         "Yakuza",
@@ -38984,7 +39052,7 @@
         "Genshin Impact",
         "Hazbin Hotel",
         "Honkai Star Rail",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -39351,7 +39419,7 @@
         "Hatsune Miku",
         "Needy Streamer Overload",
         "Re:Zero",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -39878,7 +39946,7 @@
         "The Kid at the Back",
         "To Be Hero X",
         "Twisted Wonderland",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Undertale",
         "Your Turn to Die",
         "Zeno Remake"
@@ -39944,7 +40012,7 @@
         "Slam Dunk",
         "The Guy She Was Interested In Wasn't a Guy at All",
         "The Magnus Archives",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -40037,7 +40105,7 @@
         "Team Fortress 2",
         "The Amazing Digital Circus",
         "The Boys",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Western"
       ],
       "works_type": [
@@ -40110,7 +40178,7 @@
         "Original",
         "Persona",
         "The Disastrous Life of Saiki K.",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "Witch Hat Atelier",
         "Witch's Heart",
@@ -40360,7 +40428,7 @@
         "Pokemon",
         "Reverse: 1999",
         "Touhou",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -42008,7 +42076,7 @@
       "fandoms": [
         "Arknights",
         "Hololive",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -42106,7 +42174,7 @@
         "Naruto",
         "Needy Streamer Overload",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -42873,7 +42941,7 @@
         "Genshin Impact",
         "Love and Deepspace",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber",
         "Zenless Zone Zero"
       ],
@@ -42996,7 +43064,7 @@
         "Crazy Raccoon",
         "Devil May Cry",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber"
       ],
       "works_type": [
@@ -43061,7 +43129,7 @@
         "Pressure",
         "Regretevator",
         "Roblox",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -43108,7 +43176,7 @@
       "fandoms": [
         "Genshin Impact",
         "Hololive",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods",
@@ -43459,7 +43527,7 @@
         "Honkai Star Rail",
         "Original",
         "Persona",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "VTuber"
       ],
@@ -43797,7 +43865,7 @@
         "Omniscient Reader's Viewpoint",
         "Project SEKAI",
         "Sacabambaspis",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -44369,7 +44437,7 @@
       ],
       "fandoms": [
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -44451,7 +44519,7 @@
         "Rhythm Games",
         "Splatoon",
         "The Idolm@ster",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "V.W.P",
         "Vocaloid"
       ],
@@ -44491,7 +44559,7 @@
         "Zenless Zone Zero"
       ],
       "fandoms": [
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Wuthering Waves",
         "Zenless Zone Zero"
       ],
@@ -44662,7 +44730,7 @@
         "To Be Hero X",
         "Tomorrow X Together",
         "Transformers",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Valorant",
         "Vocaloid"
       ],
@@ -45096,7 +45164,7 @@
         "NIJISANJI",
         "Project SEKAI",
         "The Apothecary Diaries",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "VTuber",
         "Wuthering Waves",
@@ -45160,7 +45228,7 @@
         "Project SEKAI",
         "Seraph of the End",
         "Tomorrow X Together",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Yurikuma Arashi"
       ],
       "works_type": [
@@ -45605,7 +45673,7 @@
         "Original",
         "Project SEKAI",
         "Silent Hill",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -45936,7 +46004,7 @@
         "Blue Lock",
         "Grand Chase",
         "Honkai Star Rail",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -46217,7 +46285,7 @@
         "Blue Archive",
         "Genshin Impact",
         "Honkai Star Rail",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -46712,7 +46780,7 @@
       "fandoms": [
         "Arknights",
         "HoYoverse",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -46771,7 +46839,7 @@
         "Original",
         "Punishing: Gray Raven",
         "The Guy She Was Interested In Wasn't a Guy at All",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber"
       ],
       "works_type": [
@@ -46915,22 +46983,44 @@
         "Honkai Star Rail",
         "Zenless Zone Zero",
         "Genshin Impact",
-        "Hololive",
-        "Rezero",
-        "Vocaloid"
+        "Chainsawman",
+        "Uma Musume",
+        "Pokemon",
+        "Elden Ring: Nightreign",
+        "Frieren: Beyond The Journey's End",
+        "Jojo's Bizarre Adventure",
+        "Darling In The Franxx",
+        "Boku No Hero Academia",
+        "The Boys",
+        "Jujutsu Kaisen"
       ],
       "fandoms": [
+        "Chainsaw Man",
+        "Darling In The Franxx",
+        "Elden Ring",
+        "Frieren: Beyond The Journey's End",
         "Genshin Impact",
-        "Hololive",
         "Honkai Star Rail",
-        "Re:Zero",
-        "Vocaloid",
+        "JoJo's Bizarre Adventure",
+        "Jujutsu Kaisen",
+        "My Hero Academia",
+        "Pokemon",
+        "The Boys",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2fc8c75c-e12a-4de3-9dd7-8e7f6a2b30a4/cf9eca9f-9c83-4440-a04c-feef119c5559/M-46ab (SAT).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2fc8c75c-e12a-4de3-9dd7-8e7f6a2b30a4/74929952-69ea-435a-b496-299c11b1982e/M-46ab (SAT).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2fc8c75c-e12a-4de3-9dd7-8e7f6a2b30a4/8e877738-4ff5-4339-ae14-d372533ec4a8/M-46ab (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2fc8c75c-e12a-4de3-9dd7-8e7f6a2b30a4/61d67800-b158-4798-af0a-84aaed447934/M-46ab (SAT).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2fc8c75c-e12a-4de3-9dd7-8e7f6a2b30a4/60450ca0-5850-4988-96de-55f72b84fe1f/M-46ab (SAT).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2fc8c75c-e12a-4de3-9dd7-8e7f6a2b30a4/56a60707-6ebd-4529-9cf4-c1b625509da5/M-46ab (SAT).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Way_of_Tomoe.jpg",
       "circle_code": "M-46ab (SAT)"
     },
@@ -47245,7 +47335,7 @@
         "HoYoverse",
         "Movies",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Valorant"
       ],
       "works_type": [
@@ -49053,7 +49143,7 @@
         "Project SEKAI",
         "Studio Ghibli",
         "The Case Study of Vanitas",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -50024,7 +50114,7 @@
         "HoYoverse",
         "Original",
         "Project SEKAI",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "VTuber",
         "Zenless Zone Zero"
       ],
@@ -50613,7 +50703,7 @@
         "Original",
         "Overwatch 2",
         "Pokemon",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -50883,7 +50973,7 @@
         "Original",
         "Project Moon",
         "Stardew Valley",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -51917,7 +52007,7 @@
         "Project SEKAI",
         "Studio Ghibli",
         "The Case Study of Vanitas",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -52827,7 +52917,7 @@
         "Hololive",
         "Honkai Star Rail",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -53049,7 +53139,7 @@
         "Grand Theft Auto IV",
         "Honkai Star Rail",
         "Public Transportation",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "Zenless Zone Zero"
       ],
@@ -53439,7 +53529,7 @@
         "Genshin Impact",
         "Honkai Star Rail",
         "Omniscient Reader's Viewpoint",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -54038,7 +54128,7 @@
         "Genshin Impact",
         "Honkai Star Rail",
         "Original",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Umineko: When They Cry",
         "Yakuza"
       ],
@@ -54105,7 +54195,7 @@
       "raw_fandoms": [
         "Genshin Impact",
         "Zenless Zone Zero",
-        "Xiao Hei",
+        "Luo Xiao Hei",
         "Alien Stage",
         "Kpop Demon Hunters",
         "Tokyo Mew Mew"
@@ -54114,14 +54204,20 @@
         "Alien Stage",
         "Genshin Impact",
         "K-Pop: Demon Hunters",
-        "The Legend of Hei",
+        "Luo Xiao Hei",
         "Tokyo Mew Mew",
         "Zenless Zone Zero"
       ],
       "works_type": [
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3ebe603c-b86c-456a-bf33-817a2a41d972/3cffa80d-c2b5-4b9f-b7c1-979083bff81c/P-23b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3ebe603c-b86c-456a-bf33-817a2a41d972/efd54b83-c092-40dc-87ad-72c5d7aaba26/P-23b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3ebe603c-b86c-456a-bf33-817a2a41d972/8fac5929-0a1f-4037-a332-dbdc459f6477/P-23b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3ebe603c-b86c-456a-bf33-817a2a41d972/a80a06d8-5993-4143-aa06-f2b52001133f/P-23b (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/sundae.jpg",
       "circle_code": "P-23b (SUN)"
     },
@@ -54152,7 +54248,7 @@
       ],
       "fandoms": [
         "BanG Dream!",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "Zenless Zone Zero"
       ],
@@ -54881,7 +54977,7 @@
         "Persona 5",
         "The Apothecary Diaries",
         "Ultraman",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -55629,7 +55725,7 @@
         "NIJISANJI",
         "Original",
         "Project SEKAI",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -55812,7 +55908,7 @@
         "K-Pop: Demon Hunters",
         "My Hero Academia",
         "NU: Carnival",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
@@ -56057,7 +56153,7 @@
         "Gundam",
         "Gundam Seed",
         "Haikyu!!",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
@@ -57415,7 +57511,7 @@
         "The Amazing Digital Circus",
         "The Guy She Was Interested In Wasn't a Guy at All",
         "To Be Hero X",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid"
       ],
       "works_type": [
@@ -57575,7 +57671,7 @@
         "HoYoverse",
         "K-Pop: Demon Hunters",
         "Love and Deepspace",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Artbook",
@@ -60759,7 +60855,7 @@
         "Land of the Lustrous",
         "Original",
         "Project SEKAI",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Valorant",
         "Vocaloid"
       ],
@@ -61268,7 +61364,7 @@
         "Puella Magi Madoka Magica",
         "SEVENTEEN",
         "Tomorrow X Together",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Vocaloid",
         "Western"
       ],
@@ -61414,7 +61510,7 @@
         "Rain World",
         "Reverse: 1999",
         "ULTRAKILL",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Undertale"
       ],
       "works_type": [
@@ -61767,7 +61863,7 @@
         "Holostars",
         "K-Pop: Demon Hunters",
         "KATSEYE",
-        "Uma Musume Pretty Derby",
+        "Uma Musume",
         "Yuri",
         "Zenless Zone Zero"
       ],
@@ -62539,7 +62635,7 @@
         "Persona 5",
         "Sonic the Hedgehog",
         "Tears of Themis",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Goods",
@@ -62656,16 +62752,16 @@
         "Goods"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/2a1a1f8e-f1a3-4220-a078-4c76c50d98de/Z-10b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/3fa09315-aecc-4741-9890-40ab1078b188/Z-10b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/db983d7b-a9ef-401a-aca8-3c7681dcef10/Z-10b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/aa6e214e-7dbd-436e-9706-78ad3af92639/Z-10b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/b4655c91-9c5b-41e2-8f48-765ffa0853ed/Z-10b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/6cbc68a6-c6e1-4296-85a5-31d9f27a7908/Z-10b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/b50a7417-1057-4dd9-bdc0-d2057e196af5/Z-10b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/315e52c4-774d-4f76-9777-a901fb49701d/Z-10b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/034bd310-2c54-48e0-8f7a-b97832587f7b/Z-10b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/ea1eff4e-75e8-4ac6-a707-dde964c18b2a/Z-10b (SUN).png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/8b6f20a1-4edc-47f7-9564-bedbbab331d2/Z-10b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/1f5f376b-c1dc-4227-a441-7266e1361e44/Z-10b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/21fc4991-4588-4672-81b7-e6ed493968e9/Z-10b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/5232b79e-ba0a-46e1-b001-45e4b87759fd/Z-10b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/316ade8c-bad2-4855-984f-dc5c2f328776/Z-10b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/f827beba-97ca-4da7-a695-6047b3a238c4/Z-10b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/78186738-ec45-45f2-816b-857c4effb3ba/Z-10b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/1afcecae-aba2-45d5-b440-059964c6779c/Z-10b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/c847906a-bb2d-4c24-8f68-fa897c20f587/Z-10b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d88981e2-d84b-4f19-86d9-5d92c9579da2/a50fc7f5-04a1-466a-96eb-8f17e9bb16c6/Z-10b (SUN).png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/cheesy.jpg",
       "circle_code": "Z-10b (SUN)"
@@ -62688,7 +62784,7 @@
         "Bangdream!",
         "Honkai Star Rail",
         "Reverse: 1999",
-        "Uma Musume Pretty Derby"
+        "Uma Musume"
       ],
       "works_type": [
         "Comic",
