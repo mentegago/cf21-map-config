@@ -1,5 +1,5 @@
 {
-  "version": 70,
+  "version": 71,
   "creators": [
     {
       "id": 5415,
@@ -2313,7 +2313,14 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/412bf95a-163b-440e-ae0f-c00b642a785b/ee118466-4d36-4dd8-a350-76a03fd19dda/AC-27.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/412bf95a-163b-440e-ae0f-c00b642a785b/415d9da5-6ca6-4c46-8e09-530d3d32249c/AC-27.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/412bf95a-163b-440e-ae0f-c00b642a785b/d7b95123-472f-4d7a-bce1-6196c1c9de11/AC-27.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/412bf95a-163b-440e-ae0f-c00b642a785b/02be0b33-5b83-4592-973a-b3799594ede3/AC-27.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/412bf95a-163b-440e-ae0f-c00b642a785b/6c824d44-b6f1-4d3c-b580-f911c059c1e4/AC-27.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/412bf95a-163b-440e-ae0f-c00b642a785b/38c89977-2928-43d1-afa8-1c7a2191e605/AC-27.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/nekomori_art.jpg",
       "circle_code": "AC-27"
     },
@@ -47146,28 +47153,8 @@
       "day": "BOTH",
       "urls": [
         {
-          "title": "Other 1",
-          "url": "https://x.com/icynorwell"
-        },
-        {
-          "title": "Other 2",
-          "url": "https://x.com/daybydaylights"
-        },
-        {
-          "title": "Other 3",
-          "url": "https://x.com/HeiFuukaze"
-        },
-        {
-          "title": "Other 4",
-          "url": "https://x.com/kadalseksi"
-        },
-        {
-          "title": "Other 5",
-          "url": "https://x.com/EatSleepNaps"
-        },
-        {
-          "title": "Other 6",
-          "url": "https://x.com/_LunaEl_"
+          "title": "Twitter",
+          "url": "https://x.com/daybydaylights/status/1985211435484586311"
         }
       ],
       "raw_fandoms": [
@@ -47197,10 +47184,11 @@
         "Wind Breaker"
       ],
       "works_type": [
-        "Goods",
-        "Handmade Crafts"
+        "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e2c0dfc9-8338-48ca-990a-a0c7713a4dd4/77f0c4a8-7530-40bf-84d8-e92a255ad992/M-49ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/colorful_pitik_market.jpg",
       "circle_code": "M-49ab"
     },
