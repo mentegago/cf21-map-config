@@ -1,5 +1,5 @@
 {
-  "version": 74,
+  "version": 75,
   "creators": [
     {
       "id": 5415,
@@ -6853,10 +6853,18 @@
       ],
       "raw_fandoms": [
         "Uma Musume",
-        "Bangdream"
+        "Blue Archive",
+        "Bangdream",
+        "Togenashi Togeari",
+        "Teto",
+        "Bocchi The Rock"
       ],
       "fandoms": [
         "BanG Dream!",
+        "Blue Archive",
+        "Bocchi the Rock!",
+        "Girls Band Cry",
+        "Kasane Teto",
         "Uma Musume"
       ],
       "works_type": [
@@ -6864,7 +6872,11 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a82f150e-048c-475c-849a-cebf763a5937/9e19dca7-be64-434b-b807-787183ef1010/AF-09.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a82f150e-048c-475c-849a-cebf763a5937/bd903c50-a501-4f12-8405-92237fdaf075/AF-09.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a82f150e-048c-475c-849a-cebf763a5937/b7a9a725-d898-4a06-ae3e-8b7c69db7921/AF-09.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/nanaken.jpg",
       "circle_code": "AF-09"
     },
@@ -19103,7 +19115,9 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/da0032d6-9efc-4bda-af7f-abbb73402344/f30a322b-bb24-4dfa-befe-89c61d70361e/E-12ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/petite_rabbit_studio.jpg",
       "circle_code": "E-12ab"
     },
@@ -42234,7 +42248,7 @@
         },
         {
           "title": "Twitter",
-          "url": "https://x.com/shrazawa"
+          "url": "https://x.com/aokiro02"
         }
       ],
       "raw_fandoms": [
