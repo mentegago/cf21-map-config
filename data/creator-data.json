@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "creators": [
     {
       "id": 5415,
@@ -18090,15 +18090,19 @@
         "Ffxiv",
         "Reverse:1999",
         "Hololive",
-        "Fire Emblem"
+        "Fire Emblem",
+        "Arknights",
+        "Lads"
       ],
       "fandoms": [
         "Alien Stage",
+        "Arknights",
         "Cookie Run",
         "Final Fantasy XIV",
         "Fire Emblem",
         "Hololive",
         "Link Click",
+        "Love and Deepspace",
         "Original",
         "PLAVE",
         "Reverse: 1999",
@@ -18108,10 +18112,11 @@
         "Goods"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a94f708d-cd1a-4c3d-bf66-703d73b215ad/37a2526f-bb13-45d6-b373-c21e6184ef2c/D-45ab.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a94f708d-cd1a-4c3d-bf66-703d73b215ad/1b5bc2da-0d3c-4fea-b347-adc008249fcf/D-45ab.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a94f708d-cd1a-4c3d-bf66-703d73b215ad/e037305e-a7a6-4287-8895-b4232d6de8df/D-45ab.jpg",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a94f708d-cd1a-4c3d-bf66-703d73b215ad/81eda6b3-90bd-485f-a52f-339a7101f030/D-45ab.jpg"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a94f708d-cd1a-4c3d-bf66-703d73b215ad/28e2b85f-b827-4820-8402-40c75fa7c2ae/D-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a94f708d-cd1a-4c3d-bf66-703d73b215ad/8ab259f1-b0e3-4f26-b231-63ba534448a1/D-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a94f708d-cd1a-4c3d-bf66-703d73b215ad/72de1498-8ee9-49bc-bf96-35bc59304873/D-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a94f708d-cd1a-4c3d-bf66-703d73b215ad/ff8cafd6-b5a5-4b04-b469-8f1506119eea/D-45ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a94f708d-cd1a-4c3d-bf66-703d73b215ad/edd297fa-3ee9-4ecb-972f-8671762672c2/D-45ab.jpg"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Qei_x_Shei.jpg",
       "circle_code": "D-45ab"
@@ -31093,19 +31098,30 @@
       ],
       "raw_fandoms": [
         "Blue Archive",
+        "Uma Musume",
+        "Hibike Euphonium",
         "Honkai Star Rail",
-        "Uma Musume"
+        "Vocaloid",
+        "Gochiusa"
       ],
       "fandoms": [
         "Blue Archive",
+        "Hibike Euphonium",
         "Honkai Star Rail",
-        "Uma Musume"
+        "Is the Order a Rabbit?",
+        "Uma Musume",
+        "Vocaloid"
       ],
       "works_type": [
+        "Commission",
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2191e867-79df-4c03-a7d2-448c9347eb77/c1fecd7e-3535-42a1-ab97-2ecf6aee18c3/I-07ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2191e867-79df-4c03-a7d2-448c9347eb77/87a49543-72cc-42e3-a7d4-0c01bc96da97/I-07ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/2191e867-79df-4c03-a7d2-448c9347eb77/fbb68ba2-f6b6-40f2-bcf8-6c5f4e89a57c/I-07ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/kopi_susu.jpg",
       "circle_code": "I-07ab"
     },
@@ -33325,15 +33341,26 @@
       "day": "SUN",
       "urls": [
         {
+          "title": "Facebook",
+          "url": "https://www.facebook.com/share/1AxicaeWx3/"
+        },
+        {
           "title": "Instagram",
           "url": "https://www.instagram.com/kikaia11?igsh=M3JyMGZpaHN1OW84"
         }
       ],
       "raw_fandoms": [
         "Zelda",
-        "Zenleszonezero"
+        "Zenless Zone Zero",
+        "The Legend Of Zelda",
+        "Dandadan",
+        "Ghibli",
+        "Original"
       ],
       "fandoms": [
+        "Dandadan",
+        "Original",
+        "Studio Ghibli",
         "The Legend of Zelda",
         "Zenless Zone Zero"
       ],
@@ -33341,7 +33368,12 @@
         "Comic",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/28143336-7b11-41c0-89eb-40f3f4267e86/04cdd653-69c9-4158-a372-9cd71fedd838/I-45b (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/28143336-7b11-41c0-89eb-40f3f4267e86/fe6dc769-cd4f-4719-a892-f3205cd285bc/I-45b (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/28143336-7b11-41c0-89eb-40f3f4267e86/7fb41c7a-8179-49f4-8a5b-c284e51b9910/I-45b (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/28143336-7b11-41c0-89eb-40f3f4267e86/d7cf145b-f635-4857-8703-7175f6448970/I-45b (SUN).jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/pecinta_ulat_bulu.jpg",
       "circle_code": "I-45b (SUN)"
     },
@@ -37922,7 +37954,8 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3e10a2fe-d421-4523-8ae5-4c2e422383b5/71bc54f0-fb78-494f-aefd-581d45a6ae66/K-04ab (SAT).png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3e10a2fe-d421-4523-8ae5-4c2e422383b5/86cbfaa1-d9e2-48b3-b3b6-bbb65af9d741/K-04ab (SAT).png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3e10a2fe-d421-4523-8ae5-4c2e422383b5/2112f611-c97b-42ab-9c41-32fc3a2ca6f6/K-04ab (SAT).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3e10a2fe-d421-4523-8ae5-4c2e422383b5/a656c7c9-90a6-42a2-9db6-d5c2dde91e9b/K-04ab (SAT).png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3e10a2fe-d421-4523-8ae5-4c2e422383b5/a656c7c9-90a6-42a2-9db6-d5c2dde91e9b/K-04ab (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/3e10a2fe-d421-4523-8ae5-4c2e422383b5/987b5062-f13a-4af7-b477-dfe37f4490b4/K-04ab (SAT).png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/bekasi_scions.jpg",
       "circle_code": "K-04ab (SAT)"
