@@ -1,5 +1,5 @@
 {
-  "version": 84,
+  "version": 85,
   "creators": [
     {
       "id": 5415,
@@ -3863,7 +3863,11 @@
         "Comic",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8a613275-942e-4017-a29b-166cd8b76169/47bbe4da-ca37-48b7-ad6d-7275c31c31e2/AD-21/AD-22.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8a613275-942e-4017-a29b-166cd8b76169/4e5b2530-1b80-4dc4-9155-38b3c869ae1b/AD-21/AD-22.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8a613275-942e-4017-a29b-166cd8b76169/02670e7f-ff08-4c85-afa0-a14d704318f3/AD-21/AD-22.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/dinokano_x_levrux_x_nioniku.jpg",
       "circle_code": "AD-21/AD-22"
     },
@@ -4598,7 +4602,8 @@
       ],
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1115eee8-7fb8-430a-998f-7fb4d8afb5dc/ffcb6e14-bcaf-4638-952b-df441919d2c9/AD-43.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1115eee8-7fb8-430a-998f-7fb4d8afb5dc/e61b7c66-a764-4037-8e74-1fdf3d65d478/AD-43.jpg"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1115eee8-7fb8-430a-998f-7fb4d8afb5dc/e61b7c66-a764-4037-8e74-1fdf3d65d478/AD-43.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1115eee8-7fb8-430a-998f-7fb4d8afb5dc/68dae263-62c0-4a93-9508-7ea0ec8d83ea/AD-43.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/starlight_ascension.jpg",
       "circle_code": "AD-43"
@@ -12654,7 +12659,7 @@
       ],
       "fandoms": [
         "Dandadan",
-        "Fmab",
+        "Fullmetal Alchemist: Brotherhood",
         "Jujutsu Kaisen",
         "Op",
         "Original",
@@ -16990,7 +16995,8 @@
         "Handmade Crafts"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1308ca29-d4f5-46a0-8b01-2c523c8a331a/9c3727fb-2fff-48b6-af20-41209087967c/D-12ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1308ca29-d4f5-46a0-8b01-2c523c8a331a/9c3727fb-2fff-48b6-af20-41209087967c/D-12ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/1308ca29-d4f5-46a0-8b01-2c523c8a331a/dda919b2-7540-4445-81ac-0cf004a211c7/D-12ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/absolute_circle.jpg",
       "circle_code": "D-12ab"
@@ -18156,7 +18162,8 @@
       "fandoms": [
         "Alien Stage",
         "Arknights",
-        "Cookie Run: Kingdom Witch's Castle",
+        "Cookie Run: Kingdom",
+        "Cookie Run: Witch's Castle",
         "Delicious in Dungeon",
         "Final Fantasy XIV",
         "Fire Emblem",
@@ -18165,11 +18172,11 @@
         "Hololive",
         "Link Click",
         "Love and Deepspace",
-        "Mairimashita! Iruma-kun (if: Mafia Au)",
-        "Nier:automata",
+        "NieR: Automata",
         "Original",
         "PLAVE",
-        "Reverse: 1999"
+        "Reverse: 1999",
+        "Welcome to Demon School! Iruma-kun"
       ],
       "works_type": [
         "Goods"
@@ -18296,10 +18303,11 @@
         "Goddess of Victory: NIKKE",
         "Hololive",
         "Original",
-        "Pokemon +vocaloid",
+        "Pokemon",
+        "Project SEKAI",
         "Touhou",
         "Uma Musume",
-        "Wh40k",
+        "Warhammer",
         "Zenless Zone Zero",
         "Zentreya"
       ],
@@ -20686,7 +20694,7 @@
       "fandoms": [
         "AI: The Somnium Files",
         "ALNST",
-        "Es21",
+        "Eyeshield 21",
         "Genshin Impact",
         "Honkai Star Rail",
         "Hunter x Hunter",
@@ -20697,7 +20705,7 @@
         "PLAVE",
         "R99",
         "Wind Breaker",
-        "Wortri",
+        "World Trigger",
         "Wuthering Waves",
         "Zenless Zone Zero"
       ],
@@ -26220,17 +26228,19 @@
       "raw_fandoms": [
         "Arknights",
         "Genshin Impact",
-        "Zenless Zone Zero"
+        "Original"
       ],
       "fandoms": [
         "Arknights",
         "Genshin Impact",
-        "Zenless Zone Zero"
+        "Original"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e43a7227-2ac3-487b-a258-7daeef39679b/25882adc-81a3-46a7-b74e-41f340107593/G-38b (SAT).jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/GhostApple.jpg",
       "circle_code": "G-38b (SAT)"
     },
@@ -30490,6 +30500,8 @@
       ],
       "sampleworks_images": [
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/269c4aa0-5c60-4f28-a8c4-277d4971345f/a593b76e-ef2f-492e-b703-86b9976ade80/H-57a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/269c4aa0-5c60-4f28-a8c4-277d4971345f/9861fd26-985e-45f3-8bf2-dd9516e140ce/H-57a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/269c4aa0-5c60-4f28-a8c4-277d4971345f/28423bba-d255-4897-8b0c-024948c2c436/H-57a.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/269c4aa0-5c60-4f28-a8c4-277d4971345f/d5076595-129e-4b48-bc6c-2ef7ff875cc3/H-57a.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/269c4aa0-5c60-4f28-a8c4-277d4971345f/07e993e9-c52d-422b-9104-bfc69973efba/H-57a.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/269c4aa0-5c60-4f28-a8c4-277d4971345f/040dc43b-d739-4475-8c26-b21369b9b93a/H-57a.png",
@@ -31204,9 +31216,9 @@
       ],
       "fandoms": [
         "Blue Archive",
-        "Hibike Euphonium",
         "Honkai Star Rail",
         "Is the Order a Rabbit?",
+        "Sound! Euphonium",
         "Uma Musume",
         "Vocaloid"
       ],
@@ -52651,14 +52663,14 @@
         "Jujutsu Kaisen",
         "Kingdom Hearts",
         "Monthly Girls' Nozaki-kun",
+        "Needy Streamer Overload",
         "NIJISANJI",
-        "Nso",
         "One Piece",
         "Orb",
         "Original",
         "Sakamoto Days",
         "Sonic the Hedgehog",
-        "Spyxf",
+        "Spy x Family",
         "Studio Ghibli",
         "Uma Musume",
         "Vocaloid",
@@ -55417,13 +55429,12 @@
         "Goods"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/4be70377-bdda-48cf-80ab-293694226898/P-39ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/edf43413-7365-4622-ae8f-e898f885fa00/P-39ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/6be5d29c-dc74-43ce-8c7d-8e0a6f64e87d/P-39ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/c4784506-84d5-43ae-a6ab-0ea8aab8032b/P-39ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/6f4e6f7e-34bb-4f50-8474-4c922873582d/P-39ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/41bf6aee-915c-4c24-8671-fbdb3d86fb64/P-39ab.jpeg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/32ac2ce3-24f1-441f-92a8-2a9ab0d5c8fc/P-39ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/2643df0a-20f6-4190-a199-fc8f5642a257/P-39ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/2643df0a-20f6-4190-a199-fc8f5642a257/P-39ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/9f15a74f-b502-488e-b0be-110cbb9ee165/P-39ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/e75dedc7-23c4-43a6-b30e-af7005c76f92/P-39ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/127dd86f-8e70-4285-9484-6a60dd529931/4be70377-bdda-48cf-80ab-293694226898/P-39ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/warkop_simping.jpg",
       "circle_code": "P-39ab"
