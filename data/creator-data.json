@@ -1,5 +1,5 @@
 {
-  "version": 82,
+  "version": 83,
   "creators": [
     {
       "id": 5415,
@@ -5684,11 +5684,11 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://www.instagram.com/sonia_statice/"
+          "url": "https://www.instagram.com/statice_factory/"
         },
         {
           "title": "Twitter",
-          "url": "https://x.com/sonia_statice?lang=en"
+          "url": "https://x.com/sonia_statice"
         }
       ],
       "raw_fandoms": [
@@ -9785,7 +9785,7 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://www.instagram.com/zhienzhienx_x?igsh=MTNzMTZuNGdqdm85MA=="
+          "url": "https://www.instagram.com/trikorobaka?igsh=MTgwd2tqbDYzcHk4ag=="
         }
       ],
       "raw_fandoms": [
@@ -9794,20 +9794,35 @@
         "Reverse 1999",
         "Devil May Cry",
         "Forsaken",
-        "Honkai Star Rail"
+        "Honkai Star Rail",
+        "Uma Musume",
+        "Genshin Impact",
+        "Alien Stage",
+        "Dead Plate"
       ],
       "fandoms": [
+        "Alien Stage",
+        "Dead Plate",
         "Devil May Cry",
         "Forsaken",
+        "Genshin Impact",
         "Hannibal",
         "Honkai Star Rail",
         "Project SEKAI",
-        "Reverse: 1999"
+        "Reverse: 1999",
+        "Uma Musume"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/861cbedc-be81-46b5-a39b-6c5eb8cce1c3/6afac0f0-21ce-482f-bd14-9ee3f9b2d5a0/A-33b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/861cbedc-be81-46b5-a39b-6c5eb8cce1c3/b85b16bd-de36-4ae0-8aec-44207b440644/A-33b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/861cbedc-be81-46b5-a39b-6c5eb8cce1c3/6a6b16a3-4d22-451e-a71c-c7bb7b039322/A-33b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/861cbedc-be81-46b5-a39b-6c5eb8cce1c3/747c9507-8318-4445-8e00-659f21e61863/A-33b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/861cbedc-be81-46b5-a39b-6c5eb8cce1c3/01372022-1771-46ba-852a-ec7db1e9a652/A-33b.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/861cbedc-be81-46b5-a39b-6c5eb8cce1c3/25a41ca0-a7c8-4888-bcb4-1e615ff56e5a/A-33b.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/tri_koro_baka.jpg",
       "circle_code": "A-33b"
     },
@@ -42656,7 +42671,9 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f576a418-8694-438c-a83f-d222958b4ff0/0baa16f5-2908-4434-be74-0ec4a50c3bab/L-22ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/warung_wayang.jpg",
       "circle_code": "L-22ab"
     },
@@ -53995,6 +54012,10 @@
         {
           "title": "Twitter",
           "url": "https://x.com/matcharie/highlights"
+        },
+        {
+          "title": "Carrd",
+          "url": "https://pizzars.carrd.co"
         }
       ],
       "raw_fandoms": [
@@ -54002,14 +54023,24 @@
         "Original",
         "Nijisanji",
         "Jjk",
-        "Haikyuu"
+        "Haikyuu",
+        "Vocaloid",
+        "Sacabambaspis",
+        "Animal Crossing",
+        "Cats",
+        "Fish"
       ],
       "fandoms": [
+        "Animal Crossing",
+        "Cats",
+        "Fish",
         "Haikyu!!",
         "Honkai Star Rail",
         "Jujutsu Kaisen",
         "NIJISANJI",
-        "Original"
+        "Original",
+        "Sacabambaspis",
+        "Vocaloid"
       ],
       "works_type": [
         "Comic",
@@ -54017,7 +54048,10 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/239d0cb6-b3cc-4c76-987e-dcd73670159a/17e33ae2-91c3-40a8-8c5b-c8ab57e13592/P-17ab/P-18ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/239d0cb6-b3cc-4c76-987e-dcd73670159a/1854ff26-8c2a-470d-a948-91a920063d90/P-17ab/P-18ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/pizzars.jpg",
       "circle_code": "P-17ab/P-18ab"
     },
