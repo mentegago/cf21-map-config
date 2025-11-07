@@ -1,5 +1,5 @@
 {
-  "version": 87,
+  "version": 88,
   "creators": [
     {
       "id": 5415,
@@ -21984,7 +21984,18 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/a36ef9d5-14d2-4503-a631-6c7d09117651/F-20ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/91c82394-f36e-4839-a225-9498801fb82c/F-20ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/28efaa18-c90e-4c65-a6e6-6ba42936da66/F-20ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/a00f9280-c843-47a7-9723-fe8d57884680/F-20ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/52a9bbb1-3e95-45e1-90b3-2756778cfe47/F-20ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/bc487843-cba1-4fc6-8c06-16cf13bae1d8/F-20ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/e529842f-971d-44c7-af38-5720de614312/F-20ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/a7ccb904-ac14-4302-8f2d-be3228cce0a8/F-20ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/a766bbf1-c8b4-4363-8895-d2ab17d71767/F-20ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/95603657-1917-4844-a12b-6cc4e3836caf/24087dc9-0656-40f9-8a7a-bdfac6c6a299/F-20ab.jpeg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/FeelishXIninikkei.jpg",
       "circle_code": "F-20ab"
     },
@@ -40305,16 +40316,13 @@
         "Handmade Crafts"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/cc195c70-cc16-4f2a-a5d0-d48e9065157e/K-39ab/K-40ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/8fd5a02f-c417-4513-9fa5-396d5468dd38/K-39ab/K-40ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/9e1c554b-8600-4f54-aee0-46778fa93414/K-39ab/K-40ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/6a5a55a7-24de-41c7-b751-3ef226e5a5d4/K-39ab/K-40ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/62f99249-b8a1-4d21-b3ef-30ecf7158354/K-39ab/K-40ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/b63ab8f9-6fdd-4762-97ab-b0f22697f974/K-39ab/K-40ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/889883ea-1c76-4059-8b07-c489f3965665/K-39ab/K-40ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/514981df-ba31-491e-b3e1-f7ca937e17c8/K-39ab/K-40ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/0666e88d-0b64-449b-abe9-43702a89c73b/K-39ab/K-40ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/4683e2a3-cc31-4933-b48c-3faefc61ab7c/K-39ab/K-40ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/01f23394-ed84-47d4-9157-4cab73125548/K-39ab/K-40ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/351c1dba-4f02-48b4-9efe-ee47f297282d/K-39ab/K-40ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/3a726ada-3404-46f0-b719-1e86aaadef42/K-39ab/K-40ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/6dd63ebb-0e8c-4c5f-b249-e94f14e9fd59/K-39ab/K-40ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/a2406d04-0909-4e78-bbde-7cd62cc1cf99/K-39ab/K-40ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/4c242e17-4ea1-4256-9b32-59ee65a5fd97/K-39ab/K-40ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/a008ff76-6432-45e4-85a7-5adb5e5d4a23/8e690d23-ab43-43da-8886-3e2fc3f0f5a1/K-39ab/K-40ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/Dripsain_Komunicrazy_Rizzual.jpg",
       "circle_code": "K-39ab/K-40ab"
@@ -42682,14 +42690,11 @@
         {
           "title": "Instagram",
           "url": "https://www.instagram.com/warungwayang_/"
-        },
-        {
-          "title": "Twitter",
-          "url": "https://x.com/jyxrei"
         }
       ],
       "raw_fandoms": [
         "Vtuber",
+        "Nijisanji",
         "Plave",
         "Black Butler",
         "Love And Deepspace",
@@ -42699,6 +42704,7 @@
         "Black Butler",
         "Genshin Impact",
         "Love and Deepspace",
+        "NIJISANJI",
         "PLAVE",
         "VTuber"
       ],
