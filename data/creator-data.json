@@ -1,5 +1,5 @@
 {
-  "version": 90,
+  "version": 91,
   "creators": [
     {
       "id": 5415,
@@ -23523,21 +23523,23 @@
         {
           "title": "Twitter",
           "url": "https://x.com/ackmaism"
+        },
+        {
+          "title": "Other",
+          "url": "https://x.com/vivevolatile"
         }
       ],
       "raw_fandoms": [
         "Jujutsu Kaisen",
+        "Originals",
         "The Guy She Was Interested In Wasn't A Guy At All",
-        "Wind Breaker",
-        "Sol.4ce",
-        "Originals"
+        "Sol.4ce"
       ],
       "fandoms": [
         "Jujutsu Kaisen",
         "Original",
         "Sol4ce",
-        "The Guy She Was Interested In Wasn't a Guy at All",
-        "Wind Breaker"
+        "The Guy She Was Interested In Wasn't a Guy at All"
       ],
       "works_type": [
         "Comic",
@@ -27198,28 +27200,36 @@
       "raw_fandoms": [
         "Dr. Stone",
         "Moriarty The Patriot",
-        "Honkai Star Rail",
-        "Bungou Stray Dogs",
-        "Vtubers",
-        "Mashle",
-        "Ace Attorney",
-        "Hades",
         "Twisted Wonderland",
+        "Hades",
+        "Persona 5",
+        "Tgaa",
+        "Ace Attorney",
         "Tiger & Bunny",
-        "Originals"
+        "Zenless Zone Zero",
+        "Arashi",
+        "Original (bunny)",
+        "Mashle",
+        "Bungou Stray Dogs",
+        "Natsume Yuujinchou",
+        "Orb On The Movements Of Earth / Chi"
       ],
       "fandoms": [
         "Ace Attorney",
+        "Arashi",
         "Bungo Stray Dogs",
         "Dr. STONE",
         "Hades",
-        "Honkai Star Rail",
         "Mashle: Magic and Muscles",
         "Moriarty the Patriot",
-        "Original",
+        "Natsume's Book of Friends",
+        "Orb On The Movements Of Earth / Chi",
+        "Original (bunny)",
+        "Persona 5",
+        "The Great Ace Attorney",
         "Tiger & Bunny",
         "Twisted Wonderland",
-        "VTuber"
+        "Zenless Zone Zero"
       ],
       "works_type": [
         "Goods"
@@ -29732,7 +29742,18 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/4a31096a-1cec-4aaf-8901-599c3ab287d3/H-39ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/b82f38e4-47f5-42bc-91e4-66ffcae22cf7/H-39ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/f000c9fe-f1ac-4c68-8d26-85d71b5150f7/H-39ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/a5db7007-de99-4330-9609-f117c080027a/H-39ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/7a8b74b5-969a-4646-a664-b1582eaef9d3/H-39ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/6fbfcd69-a000-498b-bfa2-20c8ced42697/H-39ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/8993596d-39cc-469e-aa83-961908fff0d0/H-39ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/bc0d595d-48b3-4c7b-8acc-61d84d04dd36/H-39ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/d00dc6a5-06f4-47e0-8422-ba4fab74597c/H-39ab (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/962f4e32-d9a8-48ea-a3d7-9d351131834a/c540499f-9eee-4928-aa66-cc7b79acff41/H-39ab (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/mixcu.co.jpg",
       "circle_code": "H-39ab (SUN)"
     },
@@ -38676,42 +38697,58 @@
       ],
       "raw_fandoms": [
         "Limbus Company",
-        "Attack On Titan",
+        "Gachiakuta",
         "Utaite",
         "Gundam",
         "Orb",
-        "Pokemon",
         "Vtuber",
+        "Hololive",
+        "Holostars",
+        "Nijisanji",
         "Uma Musume",
         "Bsd",
         "Charisma House",
         "Project Sekai",
         "Sakamoto Days",
         "Hsr",
+        "Zzz",
         "Ffxiv",
         "Original"
       ],
       "fandoms": [
-        "Attack on Titan",
         "Bungo Stray Dogs",
         "Charisma",
         "Final Fantasy XIV",
+        "Gachiakuta",
         "Gundam",
+        "Hololive",
+        "Holostars",
         "Honkai Star Rail",
         "Limbus Company",
+        "NIJISANJI",
         "Orb",
         "Original",
-        "Pokemon",
         "Project SEKAI",
         "Sakamoto Days",
         "Uma Musume",
         "Utaite",
-        "VTuber"
+        "VTuber",
+        "Zenless Zone Zero"
       ],
       "works_type": [
-        "Goods"
+        "Goods",
+        "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5c872e2d-3359-4a05-8a8f-6c5f29155c29/39cc9cbf-e8fc-40ff-8715-209e7be1acc5/K-11ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5c872e2d-3359-4a05-8a8f-6c5f29155c29/150d5ccf-f0e5-4f67-aa10-ecd1b4daf7e9/K-11ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5c872e2d-3359-4a05-8a8f-6c5f29155c29/467d7547-b96c-4d59-9eb7-b8cbe47b2af1/K-11ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5c872e2d-3359-4a05-8a8f-6c5f29155c29/33dd0768-3536-42c1-a398-adcc7bef9863/K-11ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5c872e2d-3359-4a05-8a8f-6c5f29155c29/f038e158-4f93-480e-955e-f3cee36ef415/K-11ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5c872e2d-3359-4a05-8a8f-6c5f29155c29/0a05b074-e47c-4afa-92fb-3831301e3acf/K-11ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5c872e2d-3359-4a05-8a8f-6c5f29155c29/0e511c7d-7bed-46d8-8b71-66c9dc2d7058/K-11ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/5c872e2d-3359-4a05-8a8f-6c5f29155c29/65d2f9e7-05d3-4996-8bd9-4b533ec409d7/K-11ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/kambing_x_sotonks.jpg",
       "circle_code": "K-11ab"
     },
@@ -43475,16 +43512,16 @@
         "Genshin Impact",
         "Zzz",
         "Love And Deepspace",
-        "Uma Musume",
         "Original",
-        "Bocchi The Rock"
+        "Bocchi The Rock",
+        "Alien Stage"
       ],
       "fandoms": [
+        "Alien Stage",
         "Bocchi the Rock!",
         "Genshin Impact",
         "Love and Deepspace",
         "Original",
-        "Uma Musume",
         "VTuber",
         "Zenless Zone Zero"
       ],
