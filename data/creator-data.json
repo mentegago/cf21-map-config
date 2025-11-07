@@ -1,5 +1,5 @@
 {
-  "version": 88,
+  "version": 89,
   "creators": [
     {
       "id": 5415,
@@ -12673,11 +12673,14 @@
         "Magazine"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/0847cf0d-7024-4288-be21-692b10cfd705/B-30b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/24c3fc74-e368-4f02-a6f5-269d13e4f4dc/B-30b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/049ad0e9-c15e-47c7-a2a4-7f1353a10c5b/B-30b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/541e0ed8-562b-4b92-86d3-2fd81a19a265/B-30b (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/5116af7f-5f7d-4fec-9f74-6fb295b32cd3/B-30b (SUN).png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/000be7b2-d44e-48f1-801d-6710a97a9be6/B-30b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/dc45f6fb-59d9-4043-bf8a-7a365a6e685a/B-30b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/514d191e-0c1c-4935-85ab-a0c761c7e5d1/B-30b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/e644426c-dc18-4d2a-896b-90b46a9d00be/B-30b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/c7d598d5-134d-4e2b-855e-133d7a75c559/B-30b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/493fc7d4-3ba9-479d-9bac-f19fdef51603/B-30b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/613684fb-6950-4b6f-be62-85549e538a4f/B-30b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/70d2c658-498f-49b6-bc67-be4b93ad1e85/999da419-eeba-41ba-acab-c0e06c712140/B-30b (SUN).png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/kulinari.jpg",
       "circle_code": "B-30b (SUN)"
@@ -23392,23 +23395,48 @@
       "raw_fandoms": [
         "Bleach",
         "Jesus",
+        "Catholic",
         "Naruto",
         "Natsume Yuujinchou",
         "Love And Deepspace",
-        "Detective Conan"
+        "Detective Conan",
+        "Nana",
+        "Gakuen Alice",
+        "Demon Slayer",
+        "Apothecary Diaries",
+        "Ojamajo Doremi",
+        "Kimi Ni Todoke"
       ],
       "fandoms": [
         "Bleach",
+        "Catholic",
+        "Demon Slayer: Kimetsu no Yaiba",
         "Detective Conan",
+        "Gakuen Alice",
         "Jesus",
+        "Kimi ni Todoke",
         "Love and Deepspace",
+        "Nana",
         "Naruto",
-        "Natsume's Book of Friends"
+        "Natsume's Book of Friends",
+        "Ojamajo Doremi",
+        "The Apothecary Diaries"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/1c056b05-412f-4f21-bca2-d05ec1b09bbf/F-43ab/F-44ab (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/cc7efb97-c242-4f4e-bc47-52c46d8bfef2/F-43ab/F-44ab (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/3add3ab8-a235-4e36-af81-035ef5e9251e/F-43ab/F-44ab (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/911d0d9f-f92f-4eef-8e56-3fed9a31462f/F-43ab/F-44ab (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/84d72a5f-0575-438d-bf74-1e9b08a1a852/F-43ab/F-44ab (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/46dc0af0-b026-412c-996b-327c20cf2c59/F-43ab/F-44ab (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/2d86e79a-03d9-49d1-9545-0968bbd16eb7/F-43ab/F-44ab (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/014e4c57-4dd2-469f-b955-fd27be26e17d/F-43ab/F-44ab (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/358325d9-bba2-409b-827a-e70fcdc4874e/F-43ab/F-44ab (SUN).jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/407b5bbd-0f75-42f3-8f54-af72af3f0568/b1486319-bab0-40ee-b794-4b18ea55a316/F-43ab/F-44ab (SUN).jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/hotaru_goodies.jpg",
       "circle_code": "F-43ab/F-44ab (SUN)"
     },
