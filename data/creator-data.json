@@ -1,5 +1,5 @@
 {
-  "version": 94,
+  "version": 95,
   "creators": [
     {
       "id": 5415,
@@ -25857,20 +25857,17 @@
         "Ikemen Sengoku",
         "Ikemen Vampire",
         "Love And Deepspace",
-        "Magical Doremi",
         "Michi Mochievee (vshojo)",
         "Mystic Messenger",
         "Nijisanji En (by The Beat)",
         "Obey Me!",
-        "Original (kucing, Meng, Ikan, Japan Shrine, Food, Fruit)",
-        "Original Comic (pancarona, Impression, Jono In Love)",
+        "Original (kucing, Meng, Japan Shrine, Food, Fruit)",
+        "Original Comic (pancarona, Impression)",
         "Pop Team Epic",
         "Ranma 1/2",
         "Rurouni Kenshin (samurai X)",
         "Sailor Moon",
         "Saint Seiya",
-        "Slipknot",
-        "Sugar Sugar Rune",
         "Vocaloid",
         "Webtoon Kanvas (someone Still Loves You)",
         "Wedding Peach",
@@ -25890,23 +25887,18 @@
         "Ikemen Revolution",
         "Ikemen Sengoku",
         "Ikemen Vampire",
-        "Impression (Original Comic)",
-        "Jono In Love (Original Comic)",
         "Love and Deepspace",
         "Mystic Messenger",
         "Neon Genesis Evangelion",
         "NIJISANJI",
         "Obey Me!",
-        "Ojamajo Doremi",
-        "Original",
-        "Pancarona (Original Comic)",
+        "Original (kucing, Meng, Japan Shrine, Food, Fruit)",
+        "Original Comic (pancarona, Impression)",
         "Pop Team Epic",
         "Ranma 1/2",
         "Rurouni Kenshin",
         "Sailor Moon",
         "Saint Seiya",
-        "Slipknot",
-        "Sugar Sugar Rune",
         "Vocaloid",
         "VShojo",
         "VTuber",
@@ -25919,7 +25911,9 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/c5f28fa2-429b-4b44-80cc-a8ea68b19c99/570b4168-f213-4567-a1ea-401acdfd77de/G-30ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/bazotao.jpg",
       "circle_code": "G-30ab"
     },
@@ -33018,20 +33012,39 @@
         "Zelda",
         "Ace Attorney",
         "Good Omens",
-        "Dungeon Meshi"
+        "Dungeon Meshi",
+        "Ffxiv",
+        "Hades 1",
+        "Hades 2",
+        "D&d",
+        "Dungeons And Dragons",
+        "Hollow Knight: Silksong",
+        "Metaphor: Refantazio",
+        "Gyakuten Saiban"
       ],
       "fandoms": [
         "Ace Attorney",
         "Delicious in Dungeon",
+        "Dungeons & Dragons",
         "Final Fantasy XIV",
         "Good Omens",
+        "Gyakuten Saiban",
+        "Hades",
+        "Hades II",
+        "Hollow Knight",
+        "Metaphor: ReFantazio",
         "The Legend of Zelda"
       ],
       "works_type": [
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d41d1e8f-349a-434d-a460-025cfc5839bb/dfc5e09f-f117-41cf-ae0a-5b0ef49ae309/I-31a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d41d1e8f-349a-434d-a460-025cfc5839bb/5061335a-357f-4ac3-8129-25e8c8df3427/I-31a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d41d1e8f-349a-434d-a460-025cfc5839bb/e2f0fce7-0252-4aaf-8f14-7be805ffe848/I-31a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/d41d1e8f-349a-434d-a460-025cfc5839bb/21bb5ae9-b8b3-4af2-99c5-280e5d88fc44/I-31a (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/WoLmart.jpg",
       "circle_code": "I-31a (SUN)"
     },
@@ -34265,7 +34278,8 @@
         "Honkai Star Rail",
         "Genshin Impact",
         "Frieren",
-        "Mzdz"
+        "Mzdz",
+        "Silent Hill F"
       ],
       "fandoms": [
         "Alien Stage",
@@ -34276,14 +34290,17 @@
         "Honkai Star Rail",
         "Love and Deepspace",
         "Metaphor: ReFantazio",
-        "Persona"
+        "Persona",
+        "Silent Hill"
       ],
       "works_type": [
         "Commission",
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/cdcdd58a-41ff-44b6-9af3-c926a8a9bde7/dd30dbef-f93f-43c3-957f-d9e40ca8906c/I-54ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/susumurni_sariboti.jpg",
       "circle_code": "I-54ab"
     },
@@ -40049,18 +40066,34 @@
       ],
       "raw_fandoms": [
         "Minecraft",
-        "Roblox (forsaken, Blocktales)"
+        "Roblox (forsaken, Block Tales, Dream Game, Brandon Works, Let Him Go, Admins)",
+        "Mbti",
+        "Mouthwashing (daisuke)",
+        "Adrianne Lenker",
+        "Cookie Run Kingdom",
+        "Murder Drones"
       ],
       "fandoms": [
-        "BlockTales",
-        "Forsaken",
+        "Adrianne Lenker",
+        "Cookie Run: Kingdom",
+        "MBTI",
         "Minecraft",
-        "Roblox"
+        "Mouthwashing (daisuke)",
+        "Murder Drones",
+        "Roblox (forsaken, Block Tales, Dream Game, Brandon Works, Let Him Go, Admins)"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/ab5139a8-193c-4346-b4c7-7cb89bce20ff/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/a7233f80-56cd-4d6f-b16b-b67da9db725c/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/ce81f988-9fc7-4883-9f98-4a2066e8e357/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/635f3747-a645-4d66-bc09-4863bc71ca4c/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/d36d0261-6b22-497f-9a0b-824080797733/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/9f4c5422-95e7-47f2-b7eb-fddb47f8da17/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/d08bf42f-0624-4d1d-9ead-505ca05aeef4/K-30b.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/mengkotak.jpg",
       "circle_code": "K-30b"
     },
