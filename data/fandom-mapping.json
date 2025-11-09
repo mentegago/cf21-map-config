@@ -222,6 +222,18 @@
   "Originals (ikan, Buaya, Ocs)": [
     "Original"
   ],
+  "Original Weirdcore": [
+    "Original"
+  ],
+  "Original (kucing, Meng, Japan Shrine, Food, Fruit)": [
+    "Original"
+  ],
+  "Original (novel, Zine, Stickers, Photocard Holder, Sticker Book)": [
+    "Original"
+  ],
+  "Supermarket Theme": [
+    "Supermarket Theme"
+  ],
   "To Get Her (Original Webtoon)": [
     "To Get Her (Original Webtoon)"
   ],
@@ -258,8 +270,14 @@
   "Sinsekai": [
     "Sinsekai"
   ],
+  "My 2.5d Romance (Original)": [
+    "My 2.5d Romance (Original)"
+  ],
   "My 2.5d Romance": [
-    "My 2.5d Romance"
+    "My 2.5d Romance (Original)"
+  ],
+  "My 2.5d Romance (original Work)": [
+    "My 2.5d Romance (Original)"
   ],
   "Luii Smollfete": [
     "Luii Smollfete"
@@ -273,6 +291,9 @@
   "Bunny / Bunnie (Original)": [
     "Bunny / Bunnie (Original)"
   ],
+  "Original (bunny)": [
+    "Bunny / Bunnie (Original)"
+  ],
   "Bunga Hamster Capybara (Original)": [
     "Bunga Hamster Capybara (Original)"
   ],
@@ -284,6 +305,10 @@
   ],
   "Pancarona (Original Comic)": [
     "Pancarona (Original Comic)"
+  ],
+  "Original Comic (pancarona, Impression)": [
+    "Pancarona (Original Comic)",
+    "Impression (Original Comic)"
   ],
   "Impression (Original Comic)": [
     "Impression (Original Comic)"
@@ -397,6 +422,10 @@
   "Genshin Impac": [
     "Genshin Impact"
   ],
+  "-genshin Impact _ Honkai Staraills": [
+    "Genshin Impact",
+    "Honkai Star Rail"
+  ],
   "Honkai Star Rail": [
     "Honkai Star Rail"
   ],
@@ -461,6 +490,9 @@
   "Honkai Starail": [
     "Honkai Star Rail"
   ],
+  "Honkai Starraills": [
+    "Honkai Star Rail"
+  ],
   "Alien Stage": [
     "Alien Stage"
   ],
@@ -475,6 +507,9 @@
     "Alien Stage"
   ],
   "Alnst (alien Stage)": [
+    "Alien Stage"
+  ],
+  "Alstg": [
     "Alien Stage"
   ],
   "Love and Deepspace": [
@@ -579,6 +614,9 @@
   "Hoyo": [
     "HoYoverse"
   ],
+  "Mihoyo": [
+    "HoYoverse"
+  ],
   "Hololive": [
     "Hololive"
   ],
@@ -680,7 +718,7 @@
   "Anime (haikyuu!, Apothecary Diaries, Dandadan)": [
     "Haikyu!!",
     "Dandadan",
-    "The Apothecary Diaries"
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
   ],
   "Haikyu!": [
     "Haikyu!!"
@@ -778,6 +816,9 @@
   "⁠jujutsu Kaisen": [
     "Jujutsu Kaisen"
   ],
+  "Jujutsu No Kaisen": [
+    "Jujutsu Kaisen"
+  ],
   "VTuber": [
     "VTuber"
   ],
@@ -834,7 +875,8 @@
   ],
   "By The Beat (vtuber/nijisanji)": [
     "VTuber",
-    "NIJISANJI"
+    "NIJISANJI",
+    "BY THE BEAT"
   ],
   "Self-vtuber": [
     "VTuber",
@@ -1003,6 +1045,9 @@
   "One Peace": [
     "One Piece"
   ],
+  "Op": [
+    "One Piece"
+  ],
   "Project SEKAI": [
     "Project SEKAI"
   ],
@@ -1088,7 +1133,8 @@
     "NIJISANJI"
   ],
   "Nijien Btb": [
-    "NIJISANJI"
+    "NIJISANJI",
+    "BY THE BEAT"
   ],
   "Nijisanji Ex-id": [
     "NIJISANJI"
@@ -1101,10 +1147,12 @@
     "NIJISANJI"
   ],
   "Nijisanji En (by The Beat)": [
-    "NIJISANJI"
+    "NIJISANJI",
+    "BY THE BEAT"
   ],
   "Nijisanji En (btb)": [
-    "NIJISANJI"
+    "NIJISANJI",
+    "BY THE BEAT"
   ],
   "Crossick": [
     "NIJISANJI"
@@ -1133,7 +1181,18 @@
     "NIJISANJI"
   ],
   "Rof-mao": [
-    "NIJISANJI"
+    "NIJISANJI",
+    "ROF-MAO"
+  ],
+  "By The Beat": [
+    "NIJISANJI",
+    "BY THE BEAT"
+  ],
+  "ROF-MAO": [
+    "ROF-MAO"
+  ],
+  "BY THE BEAT": [
+    "BY THE BEAT"
   ],
   "Arcane": [
     "Arcane"
@@ -1284,6 +1343,9 @@
   "Frierien": [
     "Frieren: Beyond Journey's End"
   ],
+  "Frieren: Beyond The Journey's End": [
+    "Frieren: Beyond Journey's End"
+  ],
   "Dandadan": [
     "Dandadan"
   ],
@@ -1348,33 +1410,39 @@
   "Chaonsaw Man": [
     "Chainsaw Man"
   ],
+  "The Apothecary Diaries (Kusuriya no Hitorigoto)": [
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
+  ],
   "The Apothecary Diaries": [
-    "The Apothecary Diaries"
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
   ],
   "Apothecary Diaries": [
-    "The Apothecary Diaries"
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
   ],
   "Kusuriya No Hitorigoto": [
-    "The Apothecary Diaries"
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
   ],
   "Kusuriya": [
-    "The Apothecary Diaries"
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
   ],
   "Apothecary Diary": [
-    "The Apothecary Diaries"
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
   ],
   "Apothecary": [
-    "The Apothecary Diaries"
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
   ],
   "Kusuriya No Hitorigoto/the Apothecary Diaries": [
-    "The Apothecary Diaries"
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
   ],
   "Anime (kusuriya, Bocchi The Rock)": [
-    "The Apothecary Diaries",
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)",
     "Bocchi the Rock!"
   ],
   "The Apothecary Diary": [
-    "The Apothecary Diaries"
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
+  ],
+  "Apothecary Dearies": [
+    "The Apothecary Diaries (Kusuriya no Hitorigoto)"
   ],
   "Sakamoto Days": [
     "Sakamoto Days"
@@ -1514,6 +1582,9 @@
   "Mouth Washing": [
     "Mouthwashing"
   ],
+  "Mouthwashing (daisuke)": [
+    "Mouthwashing"
+  ],
   "Twisted Wonderland": [
     "Twisted Wonderland"
   ],
@@ -1554,6 +1625,9 @@
     "The Summer Hikaru Died"
   ],
   "Summer Hikaru Dies": [
+    "The Summer Hikaru Died"
+  ],
+  "That Summer Hikaru Died (tshd)": [
     "The Summer Hikaru Died"
   ],
   "Detective Conan": [
@@ -1822,6 +1896,9 @@
   "Ace Attorney (game Anime)": [
     "Ace Attorney"
   ],
+  "Gyakuten Saiban": [
+    "Ace Attorney"
+  ],
   "Hetalia": [
     "Hetalia"
   ],
@@ -1865,6 +1942,9 @@
     "Reverse: 1999"
   ],
   "Re:99": [
+    "Reverse: 1999"
+  ],
+  "R99": [
     "Reverse: 1999"
   ],
   "Cookie Run: Kingdom": [
@@ -1913,6 +1993,15 @@
     "Forsaken",
     "Roblox",
     "BlockTales"
+  ],
+  "Roblox (forsaken, Block Tales, Dream Game, Brandon Works, Let Him Go, Admins)": [
+    "Forsaken",
+    "Roblox",
+    "Video Games",
+    "BlockTales",
+    "Brandon Works",
+    "Let Him Go",
+    "Admins"
   ],
   "Adventure Time": [
     "Adventure Time"
@@ -1971,6 +2060,10 @@
   ],
   "Tgswiiwaa": [
     "The Guy She Was Interested In Wasn't a Guy at All"
+  ],
+  "Gdcg Gsgw": [
+    "The Guy She Was Interested In Wasn't a Guy at All",
+    "GDCG"
   ],
   "Undertale": [
     "Undertale"
@@ -2071,6 +2164,9 @@
     "BanG Dream!",
     "ARGONAVIS from BanG Dream!"
   ],
+  "Bangdream!": [
+    "BanG Dream!"
+  ],
   "Harry Potter": [
     "Harry Potter"
   ],
@@ -2154,6 +2250,10 @@
   ],
   "Cats": [
     "Cats"
+  ],
+  "Homicipher. Cats": [
+    "Cats",
+    "Homicipher"
   ],
   "Hades": [
     "Hades"
@@ -2318,29 +2418,32 @@
   "Tbhx": [
     "To Be Hero X"
   ],
+  "My Hero Academia (Boku No Hero Academia)": [
+    "My Hero Academia (Boku No Hero Academia)"
+  ],
   "My Hero Academia": [
-    "My Hero Academia"
+    "My Hero Academia (Boku No Hero Academia)"
   ],
   "Boku No Hero Academia": [
-    "My Hero Academia"
+    "My Hero Academia (Boku No Hero Academia)"
   ],
   "Mha": [
-    "My Hero Academia"
+    "My Hero Academia (Boku No Hero Academia)"
   ],
   "Boku No Hero": [
-    "My Hero Academia"
+    "My Hero Academia (Boku No Hero Academia)"
   ],
   "Bnha": [
-    "My Hero Academia"
+    "My Hero Academia (Boku No Hero Academia)"
   ],
   "Hiroaka": [
-    "My Hero Academia"
+    "My Hero Academia (Boku No Hero Academia)"
   ],
   "Boku No Hero Vigilante": [
-    "My Hero Academia"
+    "My Hero Academia (Boku No Hero Academia)"
   ],
   "My Hero Academia Vigilantes": [
-    "My Hero Academia"
+    "My Hero Academia (Boku No Hero Academia)"
   ],
   "Tokusatsu": [
     "Tokusatsu"
@@ -2373,6 +2476,9 @@
     "Call of Duty: Modern Warfare II (2022)"
   ],
   "Call of Duty: Modern Warfare II (2022)": [
+    "Call of Duty: Modern Warfare II (2022)"
+  ],
+  "Call Of Duty Mw2 (2022)": [
     "Call of Duty: Modern Warfare II (2022)"
   ],
   "Dr. STONE": [
@@ -2504,6 +2610,9 @@
   "Idolish 7": [
     "IDOLiSH7"
   ],
+  "I7": [
+    "IDOLiSH7"
+  ],
   "Slam Dunk": [
     "Slam Dunk"
   ],
@@ -2586,6 +2695,9 @@
     "Orb"
   ],
   "Chi Chikyuu No Undou Ni Tsuite": [
+    "Orb"
+  ],
+  "Orb On The Movements Of Earth / Chi": [
     "Orb"
   ],
   "Needy Streamer Overload": [
@@ -2741,6 +2853,9 @@
     "NU: Carnival"
   ],
   "Nu-carnival": [
+    "NU: Carnival"
+  ],
+  "Nu Carnival Originals": [
     "NU: Carnival"
   ],
   "Minecraft": [
@@ -2939,6 +3054,10 @@
   ],
   "Casstlevania": [
     "Castlevania"
+  ],
+  "Ooe / Owen": [
+    "Order of Ecclesia",
+    "Owen"
   ],
   "Fallout": [
     "Fallout"
@@ -3194,6 +3313,12 @@
   "Hamster": [
     "Animal"
   ],
+  "Fish": [
+    "Animal"
+  ],
+  "Sacabambaspis": [
+    "Animal"
+  ],
   "Metaphor: ReFantazio": [
     "Metaphor: ReFantazio"
   ],
@@ -3410,6 +3535,9 @@
   "Minecraft Youtubers": [
     "MCYT"
   ],
+  "Minecraft Youtuber (mcyt)": [
+    "MCYT"
+  ],
   "BOYNEXTDOOR": [
     "BOYNEXTDOOR"
   ],
@@ -3417,6 +3545,9 @@
     "BOYNEXTDOOR"
   ],
   "⁠⁠boynextdoor": [
+    "BOYNEXTDOOR"
+  ],
+  "Boynexdoor": [
     "BOYNEXTDOOR"
   ],
   "Dragon Age": [
@@ -3566,6 +3697,9 @@
   "DAY6": [
     "DAY6"
   ],
+  "Day 6": [
+    "DAY6"
+  ],
   "HoneyWorks": [
     "HoneyWorks"
   ],
@@ -3597,6 +3731,9 @@
     "Indie Games"
   ],
   "Indie Games (fan-made)": [
+    "Indie Games"
+  ],
+  "Indie": [
     "Indie Games"
   ],
   "NCT": [
@@ -4814,6 +4951,9 @@
   "Fall Out Boy": [
     "Fall Out Boy"
   ],
+  "Fob": [
+    "Fall Out Boy"
+  ],
   "Mickey 17": [
     "Mickey 17"
   ],
@@ -5101,6 +5241,9 @@
     "Crafts"
   ],
   "Handcrafts": [
+    "Crafts"
+  ],
+  "Crochet.": [
     "Crafts"
   ],
   "Cute Art": [
@@ -5669,6 +5812,9 @@
   "Chibi Maruko-chan": [
     "Chibi Maruko-chan"
   ],
+  "Chibi Maruko Chan": [
+    "Chibi Maruko-chan"
+  ],
   "Chappell Roan": [
     "Chappell Roan"
   ],
@@ -6137,6 +6283,9 @@
   "xlov": [
     "xlov"
   ],
+  "⁠⁠xlov": [
+    "xlov"
+  ],
   "Dark Gathering": [
     "Dark Gathering"
   ],
@@ -6443,6 +6592,9 @@
   "Shiny Colors": [
     "The Idolm@ster Shiny Colors"
   ],
+  "Idolmaster Shiny Colors": [
+    "The Idolm@ster Shiny Colors"
+  ],
   "Hatsuboshi Gakuen": [
     "Hatsuboshi Gakuen"
   ],
@@ -6539,6 +6691,9 @@
   "Dress-up Darling": [
     "My Dress-Up Darling"
   ],
+  "Dress Up Darling": [
+    "My Dress-Up Darling"
+  ],
   "GeGeGe no Kitaro": [
     "GeGeGe no Kitaro"
   ],
@@ -6558,6 +6713,9 @@
     "The Magnus Archives"
   ],
   "Panic! at the Disco": [
+    "Panic! at the Disco"
+  ],
+  "P!atd": [
     "Panic! at the Disco"
   ],
   "AMV": [
@@ -6979,6 +7137,9 @@
   "Shikanoko Nokonoko Koshitantan": [
     "Shikanoko Nokonoko Koshitantan"
   ],
+  "Shikanoko": [
+    "Shikanoko Nokonoko Koshitantan"
+  ],
   "No More Heroes": [
     "No More Heroes"
   ],
@@ -7094,6 +7255,9 @@
     "The Morose Mononokean"
   ],
   "VShojo": [
+    "VShojo"
+  ],
+  "Zentreya": [
     "VShojo"
   ],
   "Code Lyoko": [
@@ -7297,6 +7461,9 @@
   "LGBTQ+": [
     "LGBTQ"
   ],
+  "Pride": [
+    "LGBTQ"
+  ],
   "Our Youth": [
     "Our Youth"
   ],
@@ -7307,6 +7474,9 @@
     "The Legend of Hei"
   ],
   "Luo Xiaohei": [
+    "The Legend of Hei"
+  ],
+  "Luo Xiao Hei": [
     "The Legend of Hei"
   ],
   "Oshikatsu": [
@@ -7501,5 +7671,125 @@
   ],
   "idwtbamg": [
     "I Don't Want to be a Magical Girl"
+  ],
+  "Hylics": [
+    "Hylics"
+  ],
+  "killer7": [
+    "killer7"
+  ],
+  "Luce & Friends": [
+    "Luce & Friends"
+  ],
+  "Luce (2-25 Jubilee)": [
+    "Luce & Friends"
+  ],
+  "Luce": [
+    "Luce & Friends"
+  ],
+  "xxxHOLiC": [
+    "xxxHOLiC"
+  ],
+  "Chobits": [
+    "Chobits"
+  ],
+  "Paradise Kiss": [
+    "Paradise Kiss"
+  ],
+  "Trickcal Chibi-go": [
+    "Trickcal Chibi-go"
+  ],
+  "Catholic": [
+    "Catholic"
+  ],
+  "Gakuen Alice": [
+    "Gakuen Alice"
+  ],
+  "Alice Academy": [
+    "Gakuen Alice"
+  ],
+  "The 100 Girlfriends (100 Kanojo)": [
+    "The 100 Girlfriends (100 Kanojo)"
+  ],
+  "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You": [
+    "The 100 Girlfriends (100 Kanojo)"
+  ],
+  "1-- Girlfriend": [
+    "The 100 Girlfriends (100 Kanojo)"
+  ],
+  "3SKM": [
+    "3SKM"
+  ],
+  "The Fairly OddParents": [
+    "The Fairly OddParents"
+  ],
+  "Fairly Odd Parents": [
+    "The Fairly OddParents"
+  ],
+  "Teen Titans Go!": [
+    "Teen Titans Go!"
+  ],
+  "Teen Titans Go": [
+    "Teen Titans Go!"
+  ],
+  "ABO Desire": [
+    "ABO Desire"
+  ],
+  "Project VA-Liv": [
+    "Project VA-Liv"
+  ],
+  "Stella Sora": [
+    "Stella Sora"
+  ],
+  "Senren Banka": [
+    "Senren Banka"
+  ],
+  "The Freak Circus": [
+    "The Freak Circus"
+  ],
+  "Horror": [
+    "Horror"
+  ],
+  "Circus": [
+    "Circus"
+  ],
+  "Owen": [
+    "Owen"
+  ],
+  "Noragami": [
+    "Noragami"
+  ],
+  "Brandon Works": [
+    "Brandon Works"
+  ],
+  "Let Him Go": [
+    "Let Him Go"
+  ],
+  "Admins": [
+    "Admins"
+  ],
+  "Adrianne Lenker": [
+    "Adrianne Lenker"
+  ],
+  "DLL": [
+    "DLL"
+  ],
+  "Darling in the Franxx": [
+    "Darling in the Franxx"
+  ],
+  "SHINee": [
+    "SHINee"
+  ],
+  "Live Commission": [
+    "Live Commission"
+  ],
+  "Live Commission.": [
+    "Live Commission"
+  ],
+  "BABYMONSTER": [
+    "BABYMONSTER"
+  ],
+  "Baby Monster": [
+    "BABYMONSTER"
   ]
 }
