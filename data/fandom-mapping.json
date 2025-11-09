@@ -3511,17 +3511,17 @@
   "Azur Lane": [
     "Azur Lane"
   ],
+  "Idolmaster": [
+    "Idolmaster"
+  ],
   "The Idolm@ster": [
-    "The Idolm@ster"
+    "Idolmaster"
   ],
   "Idolm@ster": [
-    "The Idolm@ster"
-  ],
-  "Idolmaster": [
-    "The Idolm@ster"
+    "Idolmaster"
   ],
   "The Idolmaster": [
-    "The Idolm@ster"
+    "Idolmaster"
   ],
   "MCYT": [
     "MCYT"
@@ -4140,17 +4140,23 @@
   "RIIZE": [
     "RIIZE"
   ],
+  "Gakuen Idolmaster (Hatsuboshi Gakuen)": [
+    "Gakuen Idolmaster (Hatsuboshi Gakuen)"
+  ],
   "Gakuen Idolmaster": [
-    "Gakuen Idolmaster"
+    "Gakuen Idolmaster (Hatsuboshi Gakuen)"
   ],
   "Gakuen Idolm@ster": [
-    "Gakuen Idolmaster"
+    "Gakuen Idolmaster (Hatsuboshi Gakuen)"
   ],
   "Gakuen Idomaster": [
-    "Gakuen Idolmaster"
+    "Gakuen Idolmaster (Hatsuboshi Gakuen)"
   ],
   "Gakumas": [
-    "Gakuen Idolmaster"
+    "Gakuen Idolmaster (Hatsuboshi Gakuen)"
+  ],
+  "Hatsuboshi Gakuen": [
+    "Gakuen Idolmaster (Hatsuboshi Gakuen)"
   ],
   "Visual Novel": [
     "Visual Novel"
@@ -5312,14 +5318,17 @@
   "Priconne": [
     "Princess Connect! Re:Dive"
   ],
+  "Idolmaster: Cinderella Girls": [
+    "Idolmaster: Cinderella Girls"
+  ],
   "The Idolm@ster Cinderella Girls": [
-    "The Idolm@ster Cinderella Girls"
+    "Idolmaster: Cinderella Girls"
   ],
   "Idolmaster Cinderella Girls": [
-    "The Idolm@ster Cinderella Girls"
+    "Idolmaster: Cinderella Girls"
   ],
   "Im@s All Branches: Idolm@ster Cinderella Girls": [
-    "The Idolm@ster Cinderella Girls"
+    "Idolmaster: Cinderella Girls"
   ],
   "Fire Force": [
     "Fire Force"
@@ -6568,35 +6577,38 @@
   "Heaven Burns Red": [
     "Heaven Burns Red"
   ],
+  "Idolmaster Million Live!": [
+    "Idolmaster Million Live!"
+  ],
   "The Idolm@ster Million Live!": [
-    "The Idolm@ster Million Live!"
+    "Idolmaster Million Live!"
   ],
   "Million Live!": [
-    "The Idolm@ster Million Live!"
+    "Idolmaster Million Live!"
+  ],
+  "Idolmaster SideM": [
+    "Idolmaster SideM"
   ],
   "The Idolm@ster SideM": [
-    "The Idolm@ster SideM"
+    "Idolmaster SideM"
   ],
   "Side-m": [
-    "The Idolm@ster SideM"
+    "Idolmaster SideM"
   ],
   "SideM": [
-    "The Idolm@ster SideM"
+    "Idolmaster SideM"
   ],
   "Idolm@ster Sidem": [
-    "The Idolm@ster SideM"
-  ],
-  "The Idolm@ster Shiny Colors": [
-    "The Idolm@ster Shiny Colors"
-  ],
-  "Shiny Colors": [
-    "The Idolm@ster Shiny Colors"
+    "Idolmaster SideM"
   ],
   "Idolmaster Shiny Colors": [
-    "The Idolm@ster Shiny Colors"
+    "Idolmaster Shiny Colors"
   ],
-  "Hatsuboshi Gakuen": [
-    "Hatsuboshi Gakuen"
+  "The Idolm@ster Shiny Colors": [
+    "Idolmaster Shiny Colors"
+  ],
+  "Shiny Colors": [
+    "Idolmaster Shiny Colors"
   ],
   "Encouragement of Climb": [
     "Encouragement of Climb"
