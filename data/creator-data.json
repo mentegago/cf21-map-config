@@ -1,5 +1,5 @@
 {
-  "version": 95,
+  "version": 96,
   "creators": [
     {
       "id": 5415,
@@ -22782,7 +22782,17 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/05e90b52-cf30-4596-a6d0-fc80fb80eddc/9bb50769-b5f4-40c8-8b35-e724b97cec5d/F-31ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/05e90b52-cf30-4596-a6d0-fc80fb80eddc/36a2b7c8-731d-4575-a40d-4c212c7f3866/F-31ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/05e90b52-cf30-4596-a6d0-fc80fb80eddc/37ae768b-f0fb-4615-bf27-375b01a034a8/F-31ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/05e90b52-cf30-4596-a6d0-fc80fb80eddc/ab00c741-56a7-4461-9922-3b9998e051d1/F-31ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/05e90b52-cf30-4596-a6d0-fc80fb80eddc/df97d74d-1183-4a05-b8c2-179cb1bb9f9b/F-31ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/05e90b52-cf30-4596-a6d0-fc80fb80eddc/98a7b4af-f102-4264-a54b-643251280b7d/F-31ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/05e90b52-cf30-4596-a6d0-fc80fb80eddc/a790b5c4-c9cc-4833-b318-e4bb50d82b6a/F-31ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/05e90b52-cf30-4596-a6d0-fc80fb80eddc/d3d1a720-cbd0-4225-8964-ef305c1b1375/F-31ab.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/05e90b52-cf30-4596-a6d0-fc80fb80eddc/1d202c72-9345-4fbd-afc1-5a3b9e25daf6/F-31ab.jpeg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/shoujo_corner.jpg",
       "circle_code": "F-31ab"
     },
@@ -24235,27 +24245,25 @@
         "Genshin Impact",
         "Chainsawman",
         "Dandadan",
-        "Sakamoto Days",
         "Honkai Star Rail",
         "Wuthering Waves",
         "Orv",
-        "Tcf",
-        "Kpop Demon Hunter",
         "Honeyworks",
-        "Reverse1999"
+        "Attack On Titan",
+        "Madoka Magica",
+        "Mouthwashing"
       ],
       "fandoms": [
+        "Attack on Titan",
         "Chainsaw Man",
         "Dandadan",
         "Genshin Impact",
         "HoneyWorks",
         "Honkai Star Rail",
         "Jujutsu Kaisen",
-        "K-Pop: Demon Hunters",
-        "Lout of Count's Family",
+        "Mouthwashing",
         "Omniscient Reader's Viewpoint",
-        "Reverse: 1999",
-        "Sakamoto Days",
+        "Puella Magi Madoka Magica",
         "Wuthering Waves"
       ],
       "works_type": [
@@ -24263,7 +24271,12 @@
         "Comic",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8d693e95-bd2b-4429-8873-0cfae2d2c7f5/a80b3da3-4ce4-4c44-b1a1-88668d946a50/F-56ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8d693e95-bd2b-4429-8873-0cfae2d2c7f5/dbcfff02-0bf7-44f8-9108-79b907b56414/F-56ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8d693e95-bd2b-4429-8873-0cfae2d2c7f5/66a5c701-cc8b-4faa-b603-5c464e7ee513/F-56ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/8d693e95-bd2b-4429-8873-0cfae2d2c7f5/213fdd9f-4125-4a90-9390-aae063589d50/F-56ab.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/sekaleng_telor_ceplok.jpg",
       "circle_code": "F-56ab"
     },
@@ -34160,7 +34173,8 @@
         "Psycho-pass",
         "Ateez",
         "Path To Nowhere",
-        "K-pop Demon Hunter"
+        "K-pop Demon Hunter",
+        "Tawog"
       ],
       "fandoms": [
         "Arknights",
@@ -34176,6 +34190,7 @@
         "Persona 5",
         "PLAVE",
         "Psycho-Pass",
+        "The Amazing World of Gumball",
         "Zenless Zone Zero"
       ],
       "works_type": [
@@ -52359,7 +52374,9 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e629e080-bb51-44c2-b65a-d5cde9b361fd/c566f9ec-a2bb-42b0-84e9-f32bb7372426/O-21ab/O-22ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e629e080-bb51-44c2-b65a-d5cde9b361fd/bfbc4ade-da0d-414b-b99b-70b5146cc141/O-21ab/O-22ab.jpg",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e629e080-bb51-44c2-b65a-d5cde9b361fd/7e0d4ba1-190f-4b57-afec-d5cdb75d9816/O-21ab/O-22ab.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e629e080-bb51-44c2-b65a-d5cde9b361fd/8c8468af-8c8c-41db-a777-c38ff6dd74bc/O-21ab/O-22ab.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e629e080-bb51-44c2-b65a-d5cde9b361fd/8c8468af-8c8c-41db-a777-c38ff6dd74bc/O-21ab/O-22ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e629e080-bb51-44c2-b65a-d5cde9b361fd/efc6ceab-489b-49dc-b34f-7dc3eb8dea77/O-21ab/O-22ab.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e629e080-bb51-44c2-b65a-d5cde9b361fd/80edccf9-1014-42d6-a62e-ceb4e85b0cd0/O-21ab/O-22ab.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/kimcihonnytoast.jpg",
       "circle_code": "O-21ab/O-22ab"
@@ -60808,7 +60825,11 @@
       "urls": [
         {
           "title": "Instagram",
-          "url": "https://www.instagram.com/kurosacystudio/?hl=en"
+          "url": "https://www.instagram.com/nikipopz_/"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/Nikipopz_?t=ehQzyNgyPvxkYUd_VyIyyA&s=09"
         },
         {
           "title": "Other",
@@ -60817,34 +60838,50 @@
       ],
       "raw_fandoms": [
         "Plave",
-        "Original",
+        "Original (novel, Zine, Stickers, Photocard Holder, Sticker Book)",
         "Seventeen",
+        "Newjeans",
         "Treasure",
+        "Original",
         "One Piece",
+        "Baby Monster",
         "Orv",
+        "Ateez",
+        "Mashle",
+        "Jjk",
+        "Frieren",
         "Enhypen",
         "Kpop Demon Hunters",
         "Persona",
         "Day6",
         "Maimai",
-        "Bocchi"
+        "Bocchi The Rock"
       ],
       "fandoms": [
+        "ATEEZ",
+        "Baby Monster",
         "Bocchi the Rock!",
         "DAY6",
         "ENHYPEN",
+        "Frieren: Beyond Journey's End",
+        "Jujutsu Kaisen",
         "K-Pop: Demon Hunters",
         "maimai",
+        "Mashle: Magic and Muscles",
+        "NewJeans",
         "Omniscient Reader's Viewpoint",
         "One Piece",
         "Original",
+        "Original (novel, Zine, Stickers, Photocard Holder, Sticker Book)",
         "Persona",
         "PLAVE",
         "SEVENTEEN",
         "TREASURE"
       ],
       "works_type": [
+        "Comic",
         "Artbook",
+        "Novel",
         "Goods",
         "Magazine"
       ],
