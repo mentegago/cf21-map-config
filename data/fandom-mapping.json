@@ -231,6 +231,15 @@
   "Original (novel, Zine, Stickers, Photocard Holder, Sticker Book)": [
     "Original"
   ],
+  "- Original Art": [
+    "Original"
+  ],
+  "Original Character Lydia & Rowley": [
+    "Original"
+  ],
+  "Original Comic": [
+    "Original"
+  ],
   "Supermarket Theme": [
     "Supermarket Theme"
   ],
@@ -785,6 +794,9 @@
     "Zenless Zone Zero"
   ],
   "Zenlesszonezero": [
+    "Zenless Zone Zero"
+  ],
+  "Zzz Bangboo": [
     "Zenless Zone Zero"
   ],
   "Jujutsu Kaisen": [
@@ -1607,6 +1619,9 @@
   "Twisted Wonderland (twst)": [
     "Twisted Wonderland"
   ],
+  "Twisted Wonderland (heartslabyul)": [
+    "Twisted Wonderland"
+  ],
   "The Summer Hikaru Died": [
     "The Summer Hikaru Died"
   ],
@@ -1697,6 +1712,9 @@
     "Fate/Grand Order",
     "Fate Series"
   ],
+  "Fate/grand Order Bbno$": [
+    "Fate/Grand Order"
+  ],
   "Devil May Cry": [
     "Devil May Cry"
   ],
@@ -1711,6 +1729,10 @@
   ],
   "Evangalion": [
     "Neon Genesis Evangelion"
+  ],
+  "Owari No Seraph. Evangelion": [
+    "Neon Genesis Evangelion",
+    "Seraph of the End"
   ],
   "DC Comics": [
     "DC Comics"
@@ -2696,6 +2718,9 @@
     "The Legend of Zelda"
   ],
   "Legend Of Zelda": [
+    "The Legend of Zelda"
+  ],
+  "- Legend Of Zelda": [
     "The Legend of Zelda"
   ],
   "Orb": [
@@ -4300,6 +4325,9 @@
   "Bookish": [
     "Bookish"
   ],
+  "Children's Story Book": [
+    "Bookish"
+  ],
   "Warhammer": [
     "Warhammer"
   ],
@@ -4409,6 +4437,9 @@
     "Daomu Biji"
   ],
   "Dmj": [
+    "Daomu Biji"
+  ],
+  "Daomubiji": [
     "Daomu Biji"
   ],
   "Twenty One Pilots": [
@@ -4830,6 +4861,9 @@
     "Monthly Girls' Nozaki-kun"
   ],
   "Gekkan Shoujo Nazaki": [
+    "Monthly Girls' Nozaki-kun"
+  ],
+  "Gekkan Shojo Nozaki-kun": [
     "Monthly Girls' Nozaki-kun"
   ],
   "The Fragrant Flower Blooms With Dignity": [
@@ -5292,6 +5326,9 @@
   "Cute Stuff Enthusiast": [
     "Cute Art"
   ],
+  "Cute": [
+    "Cute Art"
+  ],
   "Comedy": [
     "Comedy"
   ],
@@ -5680,6 +5717,9 @@
     "Ranking of Kings"
   ],
   "Ousama Ranking": [
+    "Ranking of Kings"
+  ],
+  "Rangking Of Kings": [
     "Ranking of Kings"
   ],
   "Arakawa Under the Bridge": [
@@ -7778,8 +7818,15 @@
   "ABO Desire": [
     "ABO Desire"
   ],
+  "Abodesire": [
+    "ABO Desire"
+  ],
   "Project VA-Liv": [
     "Project VA-Liv"
+  ],
+  "Project Va-liv. Idoly Pride": [
+    "Project VA-Liv",
+    "IDOLY PRIDE"
   ],
   "Stella Sora": [
     "Stella Sora"
@@ -7900,5 +7947,59 @@
   ],
   "Supernatural": [
     "Supernatural"
+  ],
+  "Shakugan no Shana": [
+    "Shakugan no Shana"
+  ],
+  "The Familiar of Zero": [
+    "The Familiar of Zero"
+  ],
+  "Zero No Tsukaima": [
+    "The Familiar of Zero"
+  ],
+  "Hayate the Combat Butler": [
+    "Hayate the Combat Butler"
+  ],
+  "Hayate No Gotoku": [
+    "Hayate the Combat Butler"
+  ],
+  "Hogwarts Legacy": [
+    "Hogwarts Legacy"
+  ],
+  "Red Velvet": [
+    "Red Velvet"
+  ],
+  "Poppy Playtime": [
+    "Poppy Playtime"
+  ],
+  "Poppy Play Time": [
+    "Poppy Playtime"
+  ],
+  "Choujin X": [
+    "Choujin X"
+  ],
+  "IDOLY PRIDE": [
+    "IDOLY PRIDE"
+  ],
+  "DOOM Eternal": [
+    "DOOM Eternal"
+  ],
+  "FAITH": [
+    "FAITH"
+  ],
+  "Lady Gaga": [
+    "Lady Gaga"
+  ],
+  "Charli XCX": [
+    "Charli XCX"
+  ],
+  "Black Souls": [
+    "Black Souls"
+  ],
+  "Desire": [
+    "Desire"
+  ],
+  "Peacemaker": [
+    "Peacemaker"
   ]
 }
