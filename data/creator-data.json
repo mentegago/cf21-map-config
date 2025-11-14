@@ -1,5 +1,5 @@
 {
-  "version": 125,
+  "version": 126,
   "creators": [
     {
       "id": 5415,
@@ -13304,6 +13304,11 @@
       ],
       "raw_fandoms": [
         "My 2.5d Romance",
+        "Original Character",
+        "Honkai Impact 3rd",
+        "Persona",
+        "Shin Megami Tensei",
+        "Vocaloid",
         "Omniscient Reader’s Viewpoint",
         "Plave",
         "Honkai Star Rail",
@@ -13312,10 +13317,15 @@
       ],
       "fandoms": [
         "Arcane",
+        "Honkai Impact 3rd",
         "Honkai Star Rail",
         "My 2.5d Romance (Original)",
         "Omniscient Reader's Viewpoint",
-        "PLAVE"
+        "Original",
+        "Persona",
+        "PLAVE",
+        "Shin Megami Tensei",
+        "Vocaloid"
       ],
       "works_type": [
         "Comic",
@@ -16288,7 +16298,18 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/1ee3ba9e-755b-40da-9711-399d8b329d92/C-42a.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/76220ff6-9bb8-42d7-8fb3-46a195818459/C-42a.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/3bb379c7-3e26-4b14-b736-5d7adfba7683/C-42a.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/de863329-3a4f-43b3-8b31-decef0ead2b4/C-42a.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/25553581-45af-4265-803b-d7d3fb7af931/C-42a.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/8c656b88-7f28-46fc-9c10-ec53390dcb5f/C-42a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/fbec042c-d0ed-4fc5-9456-2350259a4631/C-42a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/db7b47c1-d724-4e12-9571-5dae3770b32f/C-42a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/6db6c792-ff06-4a7a-b1d1-3e372984eb21/C-42a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/151fbd07-e0cd-48aa-8467-ce9e749fd2ff/ba952732-85d2-4c60-87ac-e9a1c189086e/C-42a.png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/hana_luna.jpg",
       "circle_code": "C-42a"
     },
@@ -33409,7 +33430,12 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/c4b99692-dff6-4ad3-bea3-64afcdec731b/d6a38683-ddc4-4add-a0bd-3a883f9011c1/I-23ab (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/c4b99692-dff6-4ad3-bea3-64afcdec731b/b954afe3-9176-4865-8893-ccb3d3c2e37b/I-23ab (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/c4b99692-dff6-4ad3-bea3-64afcdec731b/2e6a6777-5035-47da-bd25-f1de4bc7d221/I-23ab (SAT).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/c4b99692-dff6-4ad3-bea3-64afcdec731b/660cf289-617b-439d-b6fc-24e93308c6db/I-23ab (SAT).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/soots_and_sweets.jpg",
       "circle_code": "I-23ab (SAT)"
     },
@@ -35765,6 +35791,7 @@
         "Kuroko No Basket",
         "Mob Psycho 100",
         "Demon Slayer",
+        "Death Note",
         "Sherlock Holmes",
         "Animal Farm",
         "Frutiger Aero",
@@ -35773,6 +35800,7 @@
       ],
       "fandoms": [
         "Animal Farm",
+        "Death Note",
         "Demon Slayer: Kimetsu no Yaiba",
         "Frutiger Aero",
         "Kuroko's Basketball",
@@ -35787,7 +35815,12 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/b92fce6c-75e4-4aae-8f52-7c2e8dfed5c5/6d0b8c77-6c6e-420b-95d2-a70005309b15/I-57ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/b92fce6c-75e4-4aae-8f52-7c2e8dfed5c5/7555cd43-5a28-4279-ae6e-330e8ad51190/I-57ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/b92fce6c-75e4-4aae-8f52-7c2e8dfed5c5/5f2ec40e-8aa4-410f-92a9-700927ac650e/I-57ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/b92fce6c-75e4-4aae-8f52-7c2e8dfed5c5/11d4d3e5-5f23-4ed0-a91f-a63e712b22b8/I-57ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/remahan_garlic_bread.jpg",
       "circle_code": "I-57ab"
     },
@@ -38417,8 +38450,8 @@
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9b6c1594-d68f-4782-89c1-14e749c2401a/7bc31b70-a575-47bf-9742-37eca0b18f05/J-43a.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9b6c1594-d68f-4782-89c1-14e749c2401a/2e114e2f-014f-4eaa-937d-23447a3ed309/J-43a.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9b6c1594-d68f-4782-89c1-14e749c2401a/70b42a4d-2554-483d-ac59-485150854d28/J-43a.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9b6c1594-d68f-4782-89c1-14e749c2401a/df7ec017-3d70-4473-aac4-7260a1a1b6b6/J-43a.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9b6c1594-d68f-4782-89c1-14e749c2401a/8e0a2c66-fcaa-4cf9-8b89-71a932278943/J-43a.png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9b6c1594-d68f-4782-89c1-14e749c2401a/839564fe-f58a-4308-b164-45a27c192ca1/J-43a.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/9b6c1594-d68f-4782-89c1-14e749c2401a/b6511fb6-0398-4807-a4fd-74374455065a/J-43a.png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/mbg.jpg",
       "circle_code": "J-43a"
@@ -47244,7 +47277,14 @@
         "Goods",
         "Handmade Crafts"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ae136d07-7272-4dd8-8269-e2563644e725/8639f9af-f9af-478c-a2db-5f5b4b17ffe3/M-08b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ae136d07-7272-4dd8-8269-e2563644e725/ece77551-7395-4c3a-b294-986766a913e8/M-08b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ae136d07-7272-4dd8-8269-e2563644e725/7f335e72-f02e-440f-a8c0-940bc4be661d/M-08b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ae136d07-7272-4dd8-8269-e2563644e725/f9730064-7b85-4172-9be4-528656b66d7a/M-08b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ae136d07-7272-4dd8-8269-e2563644e725/2d08ba36-f219-47e2-8d87-920a14d708ee/M-08b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/ae136d07-7272-4dd8-8269-e2563644e725/37a6aa81-2d92-4cd7-96e3-119b65687e64/M-08b (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/sekte_awan_jaya.jpg",
       "circle_code": "M-08b (SUN)"
     },
@@ -54342,11 +54382,11 @@
         "Genshin Impact",
         "Honkai Star Rail",
         "Fgo",
-        "Haikyuu",
         "Plave",
         "Baldurs Gate 3",
         "Bluelock",
-        "Windbreaker",
+        "My Dress-up Darling",
+        "The Fragrant Flower Blooms With Dignity",
         "Jujutsu Kaisen",
         "Original"
       ],
@@ -54355,12 +54395,12 @@
         "Blue Lock",
         "Fate/Grand Order",
         "Genshin Impact",
-        "Haikyu!!",
         "Honkai Star Rail",
         "Jujutsu Kaisen",
+        "My Dress-Up Darling",
         "Original",
         "PLAVE",
-        "Wind Breaker"
+        "The Fragrant Flower Blooms With Dignity"
       ],
       "works_type": [
         "Commission",
@@ -54368,7 +54408,13 @@
         "Artbook",
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f4e9d261-fc60-4bc2-9a0e-456e7b1935ec/c44233e5-90de-4b73-9097-9921f8c2e38d/O-34ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f4e9d261-fc60-4bc2-9a0e-456e7b1935ec/41b2ffa3-3bec-4385-acc9-f42586b7151c/O-34ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f4e9d261-fc60-4bc2-9a0e-456e7b1935ec/e9305930-827e-4076-9437-050103faba35/O-34ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f4e9d261-fc60-4bc2-9a0e-456e7b1935ec/37996030-91a5-40e6-9e8a-7f6da16f7a1c/O-34ab.jpg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/f4e9d261-fc60-4bc2-9a0e-456e7b1935ec/5a5fa3dd-00c4-41a6-9ea8-1d55ee39d7f2/O-34ab.jpg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/potlucky.jpg",
       "circle_code": "O-34ab"
     },
