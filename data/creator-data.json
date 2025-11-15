@@ -1,5 +1,5 @@
 {
-  "version": 128,
+  "version": 129,
   "creators": [
     {
       "id": 5415,
@@ -32337,8 +32337,12 @@
       "day": "SUN",
       "urls": [
         {
-          "title": "Twitter",
+          "title": "Twitter 1",
           "url": "https://x.com/diaitu_jan"
+        },
+        {
+          "title": "Twitter 2",
+          "url": "https://x.com/ryom1nt"
         }
       ],
       "raw_fandoms": [
@@ -32355,11 +32359,11 @@
         "Goods"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/2c65004e-3716-4be1-9f6d-e032f155b355/I-03a (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/8ce89634-7b81-48cc-a394-8cbdf4aa0336/I-03a (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/12ea1a87-ce94-411c-802e-3454b85ea227/I-03a (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/31dabdb6-68de-4396-9ad6-5a83fcaaed7b/I-03a (SUN).png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/26d5dcf9-ae6c-49be-ab10-61aa54df927f/I-03a (SUN).png"
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/2db80c9f-9f03-4c45-b65d-99270f664495/I-03a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/c1a2ed23-801c-4ed0-b0a6-a78827d440d8/I-03a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/8cf006d2-8eb6-4c0a-bbec-ee28aa0bd527/I-03a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/52edace8-0b0f-45ea-8c58-0ad5929e8171/I-03a (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e1e37013-5589-46ad-82c4-634b6179875b/218fb3d6-0fb5-4c61-ad23-256fea3b3658/I-03a (SUN).png"
       ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/wxyz.jpg",
       "circle_code": "I-03a (SUN)"
@@ -41533,9 +41537,12 @@
         "Goods"
       ],
       "sampleworks_images": [
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/ab5139a8-193c-4346-b4c7-7cb89bce20ff/K-30b.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/a7233f80-56cd-4d6f-b16b-b67da9db725c/K-30b.png",
-        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/ce81f988-9fc7-4883-9f98-4a2066e8e357/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/fc365301-a329-49ec-b130-6a87205b72ae/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/5c1f98f5-a05e-4709-97aa-22226c9233cd/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/e865e27d-dc80-4e62-9f5c-30944ca7605f/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/2b4590b9-c0ae-4f0f-8235-fd0a85a78352/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/66e5f4c8-7723-48b9-b958-2627ed6bd80e/K-30b.png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/652c891e-358b-4c03-b219-72aa530e54b3/K-30b.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/635f3747-a645-4d66-bc09-4863bc71ca4c/K-30b.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/d36d0261-6b22-497f-9a0b-824080797733/K-30b.png",
         "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/42e9c905-2847-4c99-9d75-d87432c3d889/9f4c5422-95e7-47f2-b7eb-fddb47f8da17/K-30b.png",
@@ -61926,28 +61933,27 @@
       ],
       "raw_fandoms": [
         "괴담에 떨어져도 출근을 해야 하는구나 (got Dropped Into A Ghost Story, Still Gotta Work)",
-        "Alien Stage",
-        "The Earth Is Online",
-        "Kpop Demon Hunter",
         "Spy X Family",
         "Mob Psycho",
         "Haikyuu!",
-        "Chainsaw Man"
+        "Chainsaw Man",
+        "Genshin"
       ],
       "fandoms": [
-        "Alien Stage",
         "Chainsaw Man",
         "GDCG",
+        "Genshin Impact",
         "Haikyu!!",
-        "K-Pop: Demon Hunters",
         "Mob Psycho 100",
-        "Spy x Family",
-        "The Earth Is Online"
+        "Spy x Family"
       ],
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/65b1ae69-6331-4bc1-872d-2fd4ce47544d/1568f583-facf-4806-b96e-69bdf560c619/Q-51b (SUN).png",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/65b1ae69-6331-4bc1-872d-2fd4ce47544d/f49c31ab-e709-4af2-9fbc-a36b5ef8dce2/Q-51b (SUN).png"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/tsubomi_mart.jpg",
       "circle_code": "Q-51b (SUN)"
     },
