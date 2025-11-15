@@ -1,5 +1,5 @@
 {
-  "version": 126,
+  "version": 127,
   "creators": [
     {
       "id": 5415,
@@ -43752,18 +43752,18 @@
       ],
       "raw_fandoms": [
         "Nijisanji",
-        "Ensemble Stars",
         "Project Sekai",
         "Break My Case",
         "Alien Stage",
         "18trip",
-        "Honkai Star Rail"
+        "Honkai Star Rail",
+        "Genshin Impact"
       ],
       "fandoms": [
         "18trip",
         "Alien Stage",
         "Break My Case",
-        "Ensemble Stars!",
+        "Genshin Impact",
         "Honkai Star Rail",
         "NIJISANJI",
         "Project SEKAI"
@@ -43771,7 +43771,12 @@
       "works_type": [
         "Goods"
       ],
-      "sampleworks_images": [],
+      "sampleworks_images": [
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e49f6a73-73da-4bec-8b2b-e52e23f517a4/12780aa0-2910-451b-8759-f80de2fcbc26/L-06a.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e49f6a73-73da-4bec-8b2b-e52e23f517a4/a049f80c-5db7-4cb4-bbdb-217deea9c29b/L-06a.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e49f6a73-73da-4bec-8b2b-e52e23f517a4/1565fc27-e35d-43f4-b705-6f3cff2f9c5c/L-06a.jpeg",
+        "https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-21/e49f6a73-73da-4bec-8b2b-e52e23f517a4/6c572505-a2ab-4fad-a746-93e7e854fa82/L-06a.jpeg"
+      ],
       "circle_cut": "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-21/blue_bunnies.jpg",
       "circle_code": "L-06a"
     },
