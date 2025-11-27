@@ -1,5 +1,5 @@
 {
-  "version": 131,
+  "version": 132,
   "creators": [
     {
       "id": 5415,
@@ -3325,7 +3325,6 @@
       ],
       "fandoms": [
         "Alien Stage",
-        "Batboys",
         "BoBoiBoy",
         "Chobits",
         "DC Comics",
@@ -7891,7 +7890,7 @@
         "Arknights",
         "Azur Lane",
         "Blue Archive",
-        "Brown Dust2",
+        "Brown Dust",
         "Goddess of Victory: NIKKE",
         "Granblue Fantasy"
       ],
@@ -15542,11 +15541,11 @@
         "Chainsaw Man"
       ],
       "fandoms": [
-        "Arknights Sui Siblings",
+        "Arknights",
         "Chainsaw Man",
         "Genshin Impact",
         "Honkai Star Rail",
-        "Mob Psyco 100 Serizawa",
+        "Mob Psycho 100",
         "Original"
       ],
       "works_type": [
@@ -21510,7 +21509,7 @@
         "Hunter x Hunter",
         "IDOLiSH7",
         "Lord of the Mysteries",
-        "Magi",
+        "Magi: The Labyrinth of Magic",
         "NIJISANJI",
         "Original",
         "PLAVE",
@@ -23339,8 +23338,8 @@
         "Ib",
         "Identity V",
         "JoJo's Bizarre Adventure",
-        "Limbus",
-        "Lmk Sun Wukong",
+        "LEGO Monkie Kid",
+        "Limbus Company",
         "MCYT",
         "MILGRAM",
         "Mo Xiang Tong Xiu",
@@ -23351,11 +23350,11 @@
         "Pressure",
         "Project SEKAI",
         "Red Dead Redemption",
-        "Rgg",
         "To Be Hero X",
         "Uma Musume",
         "Witch Hat Atelier",
-        "Yttd"
+        "Yakuza",
+        "Your Turn to Die"
       ],
       "works_type": [
         "Commission",
@@ -26448,8 +26447,8 @@
         "Exo"
       ],
       "fandoms": [
-        "Blackpink",
-        "Exo",
+        "BLACKPINK",
+        "EXO",
         "Haikyu!!",
         "Hunter x Hunter",
         "One Piece",
@@ -28876,7 +28875,7 @@
         "Gokurakugai",
         "Haikyu!!",
         "Honkai Star Rail",
-        "Jujutsu Kaizen",
+        "Jujutsu Kaisen",
         "Kaiju No. 8",
         "Love and Deepspace",
         "My Hero Academia (Boku No Hero Academia)",
@@ -34288,8 +34287,9 @@
       "fandoms": [
         "Final Fantasy VII",
         "Honkai Star Rail",
+        "Indie VTuber",
         "Kirby",
-        "Self-vtuber/oc"
+        "Original"
       ],
       "works_type": [
         "Goods"
@@ -34389,12 +34389,10 @@
       "fandoms": [
         "Final Fantasy XIV",
         "Holostars",
-        "Majora's Mask",
         "NIJISANJI",
         "The Legend of Zelda",
         "The Legend of Zelda: Breath of the Wild",
-        "The Legend of Zelda: Tears of the Kingdom",
-        "Twilight Princess"
+        "The Legend of Zelda: Tears of the Kingdom"
       ],
       "works_type": [
         "Commission",
@@ -34838,7 +34836,6 @@
         "Naoki Urasawa",
         "Orb",
         "Original",
-        "Yu-gi-oh",
         "Yu-Gi-Oh!",
         "Zutto Mayonaka de Iinoni."
       ],
@@ -35978,8 +35975,11 @@
         "Pokemon Ghibli Kirby Stardew Valley Miffy"
       ],
       "fandoms": [
+        "Kirby",
+        "Miffy",
         "Pokemon",
-        "Pokemon Ghibli Kirby Stardew Valley Miffy"
+        "Stardew Valley",
+        "Studio Ghibli"
       ],
       "works_type": [
         "Goods",
@@ -36074,7 +36074,7 @@
       ],
       "fandoms": [
         "Chainsaw Man",
-        "Cult Of The Lamb",
+        "Cult of the Lamb",
         "My Little Pony",
         "Okegom",
         "One Piece",
@@ -37418,8 +37418,8 @@
         "Link Click",
         "Original",
         "RPG Maker",
+        "Sonic the Hedgehog",
         "Spy x Family",
-        "Super Sonic",
         "Suzume",
         "Wuthering Waves"
       ],
@@ -39021,6 +39021,7 @@
         "Bullseye",
         "Call of Duty",
         "Dark Souls",
+        "DC Comics",
         "Death Stranding",
         "Dorohedoro",
         "Elden Ring",
@@ -39028,13 +39029,12 @@
         "Fear & Hunger",
         "Ghost",
         "JoJo's Bizarre Adventure",
-        "Mickey17",
+        "Marvel",
+        "Mickey 17",
         "Mouthwashing",
         "Sekiro: Shadows Die Twice",
         "Silent Hill",
         "Sleep Token",
-        "Suicide Squad",
-        "Thunderbolts",
         "Yellowjackets"
       ],
       "works_type": [
@@ -42484,13 +42484,13 @@
       "fandoms": [
         "Baldur's Gate 3",
         "DC Comics",
-        "Kermit The Frog",
         "Marvel",
         "Mickey 17",
         "Mouthwashing",
         "Resident Evil",
         "Severance",
         "Stardew Valley",
+        "The Muppets",
         "Ultraman"
       ],
       "works_type": [
@@ -47915,9 +47915,9 @@
         "Lieat"
       ],
       "fandoms": [
-        "Harvestmoon",
+        "Harvest Moon",
         "Honkai Star Rail",
-        "Lieat",
+        "LiEat",
         "NIJISANJI",
         "Utaite",
         "VTuber",
@@ -56268,15 +56268,13 @@
       "fandoms": [
         "Animal",
         "Animal Crossing",
-        "Axolotl",
         "Cats",
         "Haikyu!!",
         "Honkai Star Rail",
         "Jujutsu Kaisen",
+        "Metal Gear Solid",
         "NIJISANJI",
         "Original",
-        "Snake",
-        "Sugar Glider",
         "Vocaloid"
       ],
       "works_type": [
@@ -59123,7 +59121,7 @@
         "Alien Stage",
         "Karaoke Iko!",
         "Lout of Count's Family",
-        "Love And Deepspace (lads)",
+        "Love and Deepspace",
         "Natsume's Book of Friends",
         "NU: Carnival",
         "Omniscient Reader's Viewpoint",
@@ -60418,7 +60416,7 @@
         "Call of Duty",
         "Cookie Run: Kingdom",
         "Cyberpunk: Edgerunners",
-        "Danmei (tgcf, Svsss)",
+        "Danmei",
         "Delicious in Dungeon",
         "Disco Elysium",
         "Ensemble Stars!",
@@ -60427,6 +60425,7 @@
         "Gintama",
         "Green Day",
         "Hannibal",
+        "Heaven Official's Blessing",
         "Honkai Star Rail",
         "House, M.D.",
         "Hundred Line: The Last Defense Academy",
@@ -60445,6 +60444,7 @@
         "Silent Hill",
         "Sonic the Hedgehog",
         "The Amazing Digital Circus",
+        "The Scum Villain's Self-Saving System",
         "Vocaloid",
         "Wuthering Waves",
         "Yohaji"
@@ -60653,9 +60653,9 @@
         "Ikan"
       ],
       "fandoms": [
-        "Cat Kucing",
+        "Animal",
+        "Cat",
         "Ensemble Stars!",
-        "Ikan",
         "Original",
         "Project SEKAI",
         "Uma Musume"
@@ -60775,9 +60775,9 @@
         "Accessories"
       ],
       "fandoms": [
-        "Accessories",
         "Black Butler",
         "Genshin Impact",
+        "Goods",
         "Honkai Star Rail",
         "Love and Deepspace",
         "Ouran High School Host Club",
@@ -62071,7 +62071,7 @@
         "HoYoverse",
         "Link Click",
         "PLAVE",
-        "Seventeen (jun)",
+        "SEVENTEEN",
         "The Guy She Was Interested In Wasn't a Guy at All"
       ],
       "works_type": [
